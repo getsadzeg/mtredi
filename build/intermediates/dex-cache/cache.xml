@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.0.3/1665cb30372ae93a46d9800adf5751bc48fa202f/firebase-client-android-2.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1665cb30372ae93a46d9800adf5751bc48fa202f">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.0.3_1fc52835434a1d5b2b2cb870c239bef6ca75afaa.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_352a2ed77f3f4006e716f63cea5c52796f89f697.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_cee6bf2b9490932c731ff157b699eea390d2a208.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_4e5a2b8b5d1e7c4f2379790e1bf0cd4d96d5dd64.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_f9e4a8fdb92daa9628bc707db882ec704da61018.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_3498aa35d6028de1d82818f1efd143ac501554a5.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_2a695931684bc5f4aba1323c1c3306132dd90195.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_daae0cce60984c1a4843177e7059af430c65f449.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_062d7c313c291fd857bb99e6015992ed4352766f.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd0feaaf0e1e24c29a4461db58f5e446818a1443">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-core-0.8.5.2_708d4746f0ed873b82f3d25ba31eb1ed4cf9a245.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_40aee8c867b9ff1ac86c9733fe2222b2f3e8f9c6.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.0.3/81994bbc1bd46454616b733bf31fe4a22018e056/firebase-client-jvm-2.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81994bbc1bd46454616b733bf31fe4a22018e056">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.0.3_2cb9ed2cf4b1d2e28fb912ad4735f95088ebfaf9.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.vdurmont/emoji-java/2.2.0/ad8e48e7a63b8d1bac3992f51771130668b87257/emoji-java-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad8e48e7a63b8d1bac3992f51771130668b87257">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/emoji-java-2.2.0_108c47683e9de639bd08781a6d16163c48417071.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_b0c91f45b5c2e0241b5a2511dcb2eec0f59fb5f5.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_5849e4e464e8f64ddac6276d9bc7f4d06d97433c.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.1.4_83e370aad01ccbf9c6613e6e43981e6abb9d06cf.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.10/ddce2c65136c1de8000f8932d8b7ab16d5d336b9/tubesock-0.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/tubesock-0.0.10_cd613d4501c0cad4ad9f66a77e168623003235eb.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/commons/0.8.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="067b2af6caa9c140e10da67066bdf5b6cdba4619">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-commons-0.8.5.2_bbc8ac4b09f4a19437f39729f6d3de5d49b8eee7.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_780de1edde0659649269dc80763f71967e576d4a.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_26749f11c59064a66a16a146f567ad5799e0de78.jar" />
+    </item>
+    <item
+        jar="/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60dee46bb1ba50fb53b5d064694dc849246596fd">
+        <dex dex="/home/user/chatapp/app/build/intermediates/pre-dexed/debug/com.github.rey5137-material-1.1.1_3c7677ac0410c05e84c2aef96fe8881a24350f4d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="4dp"
+        android:theme="@style/Toolbar"
+        android:minHeight="?android:attr/actionBarSize"/>
+
+    <ListView
+        android:id="@+id/listd"
+        android:layout_marginTop="?android:attr/actionBarSize"
+        android:layout_below="@id/toolbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:transcriptMode="alwaysScroll"
+        android:layout_above="@+id/comment_bott" />
+
+    <RelativeLayout
+        android:id="@+id/comment_bott"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:background="@android:color/white"
+        android:layout_alignParentBottom="true">
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="?android:attr/listDivider"/>
+        <EditText
+            android:id="@+id/messageInput"
+            android:nextFocusUp="@id/messageInput"
+            android:nextFocusLeft="@id/messageInput"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="65dp"
+            android:inputType="text"
+            android:imeOptions="actionSend"
+            android:hint="წერილი"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@+id/view" />
+        <ImageButton
+            android:layout_width="53dp"
+            android:layout_height="50dp"
+            android:id="@+id/sendButton"
+            android:src="@android:drawable/ic_menu_send"
+            android:scaleType="fitXY"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="8dp" />
+    </RelativeLayout>
+
+    <!-- <LinearLayout
+        android:id="@+id/listFooter"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/messageInput"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:inputType="textShortMessage"
+            android:lines="1"
+            android:singleLine="true" />
+
+        <ImageButton
+            android:id="@+id/sendButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_menu_send" />
+    </LinearLayout> -->
+
+
+</RelativeLayout>
