@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/user/chatapp/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
-        "source": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/layout-v14/md_stub_progress.xml"
+        "merged": "/home/user/Github/mtredi/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/layout-v14/md_stub_progress.xml"
     },
     {
-        "merged": "/home/user/chatapp/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
-        "source": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+        "merged": "/home/user/Github/mtredi/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
     },
     {
-        "merged": "/home/user/chatapp/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
-        "source": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/layout-v14/md_stub_progress_indeterminate.xml"
+        "merged": "/home/user/Github/mtredi/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/layout-v14/md_stub_progress_indeterminate.xml"
     }
 ]

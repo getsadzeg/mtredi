@@ -4,14 +4,11 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.database.DataSetObserver;
 import android.graphics.Color;
-import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -21,13 +18,7 @@ import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.firebase.client.DataSnapshot;
-import com.firebase.client.Firebase;
-import com.firebase.client.FirebaseError;
-import com.firebase.client.ValueEventListener;
-import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.vdurmont.emoji.EmojiParser;
@@ -43,8 +34,6 @@ public class MainActivity extends AppCompatActivity {
     private static final String FIREBASE_URL = "https://dove-hacktb.firebaseio.com/";
     private static final String TAG = "MainActivity";
     private String mUsername;
-    private Firebase mFirebaseRef;
-    private ValueEventListener mConnectedListener;
     private ChatListAdapter mChatListAdapter;
     private GoogleApiClient client;
     SharedPreferences prefs;
@@ -72,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
             setupUsername();
 
             // Setup our Firebase mFirebaseRef
-            mFirebaseRef = new Firebase(FIREBASE_URL).child("chat1");
             inputText = (EditText) findViewById(R.id.messageInput);
             // Setup our input methods. Enter key on the keyboard or pushing the send button
             EditText inputText = (EditText) findViewById(R.id.messageInput);
@@ -111,50 +99,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onStart() {
         super.onStart();
-        client.connect();
-        // Setup our view and list adapter. Ensure it scrolls to the bottom as data changes
-        // Tell our list adapter that we only want 50 messages at a time
-        mChatListAdapter = new ChatListAdapter(mFirebaseRef.limit(50), this, R.layout.chat_message, mUsername);
-        listView.setAdapter(mChatListAdapter);
-        mChatListAdapter.registerDataSetObserver(new DataSetObserver() {
-            @Override
-            public void onChanged() {
-                super.onChanged();
-                listView.setSelection(mChatListAdapter.getCount() - 1);
-            }
-        });
 
-        // Finally, a little indication of connection status
-        mConnectedListener = mFirebaseRef.getRoot().child(".info/connected").addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
-                boolean connected = (Boolean) dataSnapshot.getValue();
-                if (connected) {
-                    Toast.makeText(MainActivity.this, "Connected to Firebase", Toast.LENGTH_SHORT).show();
-                } else {
-                    Toast.makeText(MainActivity.this, "Disconnected from Firebase", Toast.LENGTH_SHORT).show();
-                }
-                Log.d(TAG, "onDataChange() called with: " + "dataSnapshot = [" + dataSnapshot + "]");
-            }
 
-            @Override
-            public void onCancelled(FirebaseError firebaseError) {
-                // No-op
-                Log.e(TAG, "onCancelled() called with: " + "firebaseError = [" + firebaseError.getMessage() + "]");
-            }
-        });
 
-        Action viewAction = Action.newAction(
-                Action.TYPE_VIEW, // TODO: choose an action type.
-                "Main Page", // TODO: Define a title for the content shown.
-                // TODO: If you have web page content that matches this app activity's content,
-                // make sure this auto-generated web page URL is correct.
-                // Otherwise, set the URL to null.
-                Uri.parse("http://host/path"),
-                // TODO: Make sure this auto-generated app deep link URI is correct.
-                Uri.parse("android-app://com.firebase.androidchat/http/host/path")
-        );
-        AppIndex.AppIndexApi.start(client, viewAction);
     }
 
     @Override
@@ -162,20 +109,7 @@ public class MainActivity extends AppCompatActivity {
         super.onStop();
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
-        Action viewAction = Action.newAction(
-                Action.TYPE_VIEW, // TODO: choose an action type.
-                "Main Page", // TODO: Define a title for the content show
-                // Otherwise, set the URL to null.
-                Uri.parse("http://host/path"),
-                // TODO: Make sure this auto-generated app deep link URI is correct.
-                Uri.parse("android-app://com.firebase.androidchat/http/host/path")
-        );
-        AppIndex.AppIndexApi.end(client, viewAction);
-        mFirebaseRef.getRoot().child(".info/connected").removeEventListener(mConnectedListener);
-        mChatListAdapter.cleanup();
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        client.disconnect();
+
     }
 
     @Override
@@ -242,19 +176,17 @@ public class MainActivity extends AppCompatActivity {
                 output += array[i] + " ";
             }
 
-            //input = input.replaceAll(",")
-            //System.out.println(Arrays.toString(array));
-            // Create our 'model', a Chat object
-            Chat chat = new Chat(output, mUsername);
+
+            Conversation chat = new Conversation(output, mUsername);
             System.out.println("output is: " + output);
-            // Create a new, auto-generated child of that chat location, and save our chat data there
-            mFirebaseRef.push().setValue(chat, new Firebase.CompletionListener() {
+
+            /*mFirebaseRef.push().setValue(chat, new Firebase.CompletionListener() {
                 @Override
                 public void onComplete(FirebaseError firebaseError, Firebase firebase) {
                     Log.d(TAG, "onComplete() called with: " + "firebaseError = [" + firebaseError + "], firebase = [" + firebase + "]");
                     inputText.setText("");
                 }
-            });
+            });*/
 
         } else if (b) {
             showDialog(this, "მდგომარეობა", "შეტყობინება არ გაიგზავნა, რადგან თქვენ უცხო ენაზე აკრიფეთ ტექსტი");

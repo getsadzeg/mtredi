@@ -17,7 +17,6 @@ public class ConversationCreate extends Activity {
 
 
     private Firebase chatRooms;
-    private ChatRoomListAdapter chatRoomListAdapter;
     private static final String FIREBASE_URL = "https://dove-hacktb.firebaseio.com";
     private String mUsername;
 
@@ -29,11 +28,9 @@ public class ConversationCreate extends Activity {
 
         SharedPreferences prefs = getApplication().getSharedPreferences("ChatPrefs", 0);
         mUsername = prefs.getString("username", null);
-
         chatRooms = new Firebase(FIREBASE_URL).child("chatRooms");
 
 
-        chatRoomListAdapter = new ChatRoomListAdapter(chatRooms.limit(50), this, R.layout.chat_room, mUsername);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -46,12 +43,6 @@ public class ConversationCreate extends Activity {
         new MaterialDialog.Builder(this)
                 .title("Select chat partner")
                 .items()
-                .adapter(chatRoomListAdapter, new MaterialDialog.ListCallback() {
-                    @Override
-                    public void onSelection(MaterialDialog materialDialog, View view, int i, CharSequence charSequence) {
-                        Log.d(TAG, "onSelection() called with: " + "materialDialog = [" + materialDialog + "], view = [" + view + "], i = [" + i + "], charSequence = [" + charSequence + "]");
-                    }
-                })
                 .itemsCallbackSingleChoice(-1, new MaterialDialog.ListCallbackSingleChoice() {
                     @Override
                     public boolean onSelection(MaterialDialog dialog, View view, int which, CharSequence text) {

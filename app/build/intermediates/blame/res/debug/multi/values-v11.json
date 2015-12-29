@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/user/chatapp/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "outputFile": "/home/user/Github/mtredi/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 1748
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 2175
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 2600
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -137,7 +137,7 @@
                     "endOffset": 2689
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -156,7 +156,7 @@
                     "endOffset": 2790
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -176,7 +176,7 @@
                     "endOffset": 3198
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -197,7 +197,7 @@
                     "endOffset": 3618
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -218,7 +218,7 @@
                     "endOffset": 3725
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 3854
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 4910
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -281,7 +281,7 @@
                     "endOffset": 5948
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -301,7 +301,7 @@
                     "endOffset": 6019
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 6102
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 9810
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -361,7 +361,7 @@
                     "endOffset": 13658
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
@@ -381,7 +381,7 @@
                     "endOffset": 13749
                 },
                 "from": {
-                    "file": "/home/user/chatapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
+                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,

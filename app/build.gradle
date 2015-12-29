@@ -28,10 +28,8 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.firebase:firebase-client-android:2.0.3+'
     compile 'com.vdurmont:emoji-java:2.2.0'
     compile 'com.github.rey5137:material:1.1.1'
-    //compile 'com.github.navasmdc:MaterialDesign:1.5@aar'
     compile 'com.google.android.gms:play-services-appindexing:8.4.0'
     compile 'com.android.support:design:23.1.1'
     compile('com.github.afollestad.material-dialogs:commons:0.8.5.2@aar') {
@@ -41,4 +39,6 @@ dependencies {
         transitive = true
     }
     compile 'com.android.support:cardview-v7:23.1.1'
+    compile 'com.parse.bolts:bolts-android:1.+'
+    compile 'com.parse:parse-android:1.+'
 }
