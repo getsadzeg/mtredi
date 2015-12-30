@@ -5,9 +5,18 @@
     android:layout_height="match_parent"
     android:background="#1667B7"
     tools:context="com.firebase.androidchat.LaunchScreen">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView"
+        android:src="@drawable/sc"
+        android:scaleType="centerCrop"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <android.support.design.widget.TextInputLayout
-        android:id="@+id/d4"
+        android:id="@+id/d5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="28dp"
@@ -33,21 +42,25 @@
         android:id="@+id/enter"
         android:layout_width="150dp"
         android:layout_height="70dp"
-        android:layout_marginTop="97dp"
+        android:layout_marginTop="69dp"
         android:text="შესვლა"
         android:background="?attr/selectableItemBackground"
-        android:layout_below="@+id/d4"
-        android:layout_centerHorizontal="true"
-        android:textColor="#fff" />
+        android:textColor="#fff"
+        android:layout_below="@+id/d5"
+        android:layout_alignLeft="@+id/d5"
+        android:layout_alignStart="@+id/d5" />
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:id="@+id/imageView"
-        android:src="@drawable/sc"
-        android:scaleType="centerCrop"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="0dp" />
+    <Button
+        android:id="@+id/toregister"
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:text="რეგისტრაცია"
+        android:background="?attr/selectableItemBackground"
+        android:textColor="#fff"
+        android:layout_alignBottom="@+id/enter"
+        android:layout_alignRight="@+id/d5"
+        android:layout_alignEnd="@+id/d5"
+        android:onClick="toRegisterOnClick" />
+
 
 </RelativeLayout>

@@ -1,9 +1,8 @@
 package com.firebase.androidchat;
 
-import android.app.Application;
 import com.parse.Parse;
 
-public class ChatApplication extends Application {
+public class ChatApplication extends android.app.Application {
     @Override
     public void onCreate() {
         super.onCreate();

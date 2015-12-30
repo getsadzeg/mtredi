@@ -8,7 +8,6 @@ import android.util.Log;
 import android.view.View;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import com.firebase.client.Firebase;
 
 @SuppressWarnings("deprecation")
 public class ConversationCreate extends Activity {
@@ -16,7 +15,6 @@ public class ConversationCreate extends Activity {
     FloatingActionButton fab;
 
 
-    private Firebase chatRooms;
     private static final String FIREBASE_URL = "https://dove-hacktb.firebaseio.com";
     private String mUsername;
 
@@ -28,7 +26,6 @@ public class ConversationCreate extends Activity {
 
         SharedPreferences prefs = getApplication().getSharedPreferences("ChatPrefs", 0);
         mUsername = prefs.getString("username", null);
-        chatRooms = new Firebase(FIREBASE_URL).child("chatRooms");
 
 
         fab.setOnClickListener(new View.OnClickListener() {

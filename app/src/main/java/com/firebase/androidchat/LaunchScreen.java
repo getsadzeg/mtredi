@@ -12,18 +12,12 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.firebase.client.AuthData;
-import com.firebase.client.Firebase;
-import com.firebase.client.FirebaseError;
-
 public class LaunchScreen extends AppCompatActivity implements View.OnClickListener {
     private static final String TAG = "LaunchScreen";
 
     EditText userName;
     EditText password;
     Button enter;
-    private Firebase mFirebaseRef;
-    private Firebase ref;
     SharedPreferences prefs;
 
     @Override
@@ -43,7 +37,7 @@ public class LaunchScreen extends AppCompatActivity implements View.OnClickListe
                 window.setStatusBarColor(Color.parseColor("#12579B"));
             }
             enter.setOnClickListener(this);
-            mFirebaseRef = new Firebase(getString(R.string.firebase_url));
+
         }
     }
 
@@ -57,32 +51,14 @@ public class LaunchScreen extends AppCompatActivity implements View.OnClickListe
         Log.d("firebaseError", "mUsername : " + mUsername);
         if (mUsername.isEmpty())
             return;
-        mFirebaseRef.authAnonymously(new Firebase.AuthResultHandler() {
-            @Override
-            public void onAuthenticated(AuthData authData) {
-                Log.d(TAG, "onAuthenticated() called with: " + "authData = [" + authData + "]");
-                if (authData != null) {
-                    loginwithUsername(mUsername);
-                }
-            }
 
-            @Override
-            public void onAuthenticationError(FirebaseError firebaseError) {
-                Log.d(TAG, "onAuthenticationError() called with: " + "firebaseError = [" + firebaseError + "]");
-            }
-        });
+    }
+    public void toRegisterOnClick(View v) {
+        startActivity(new Intent(LaunchScreen.this, Register.class));
     }
 
     void loginwithUsername(final String x) {
-        mFirebaseRef.child("users").push().setValue(x, new Firebase.CompletionListener() {
-            @Override
-            public void onComplete(FirebaseError firebaseError, Firebase firebase) {
-                Log.d(TAG, "onComplete() called with: " + "firebaseError = [" + firebaseError + "], firebase = [" + firebase + "]");
-                prefs.edit().putString("username", x).commit();
-                startActivity(new Intent(LaunchScreen.this, MainActivity.class));
-                finish();
-            }
-        });
+
 
    /* private void check(final Chat chat) {
         ref.child("chat1").push().setValue(chat, new Firebase.CompletionListener() {
