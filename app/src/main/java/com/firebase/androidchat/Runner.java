@@ -5,6 +5,5 @@ public class Runner {
 		Gegram gram = new Parse(input);
 		System.out.println(gram.parseBarbarism());
 		System.out.println(gram.parseGrammar());
-                System.out.println(gram.formFirst("კატა"));
 	}
 }
