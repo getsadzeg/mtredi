@@ -9,6 +9,7 @@
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:name="com.firebase.androidchat.ChatApplication"
@@ -26,6 +27,12 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.parse.APPLICATION_ID"
+            android:value="FNJPhLLZzLI0Yqq1LM0Pdgt4G4mjnhP6Z9kX6xjS" />
+        <meta-data
+            android:name="com.parse.CLIENT_KEY"
+            android:value="RFseC1arXU5fa66u7dyWI9CXrWAOA6yc9Dj7Oor8" />
 
         <activity android:name="com.firebase.androidchat.MainActivity" >
             <intent-filter>
@@ -34,8 +41,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.firebase.androidchat.LaunchScreen" >
-        </activity>
+        <activity android:name="com.firebase.androidchat.LaunchScreen" />
+        <activity android:name="com.firebase.androidchat.Register" />
+        <activity android:name="com.firebase.androidchat.UserList" />
     </application>
 
 </manifest>

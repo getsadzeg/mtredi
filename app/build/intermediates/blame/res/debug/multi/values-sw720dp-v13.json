@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/user/Github/mtredi/app/build/intermediates/res/merged/debug/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "outputFile": "/home/user/mtredi/app/build/intermediates/res/merged/debug/values-sw720dp-v13/values-sw720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 92
                 },
                 "from": {
-                    "file": "/home/user/Github/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/values-sw720dp/values-sw720dp.xml",
+                    "file": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/values-sw720dp/values-sw720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
