@@ -35,9 +35,11 @@ public class Register extends AppCompatActivity {
         user.setUsername(name);
         user.setEmail(mail);
         user.setPassword(pass);
+        System.out.println("Request sent");
         user.signUpInBackground(new SignUpCallback() {
             @Override
             public void done(ParseException e) {
+                System.out.println("Got Response");
                 if(e == null) {
                     startActivity(new Intent(Register.this, UserList.class));
                 }

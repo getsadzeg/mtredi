@@ -37,6 +37,25 @@
             android:hint="მომხმარებლის სახელი"
             android:inputType="text" />
     </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/passLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below ="@+id/d5"
+        android:layout_marginLeft = "30dp"
+        android:layout_marginRight = "30dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff">
+        <EditText
+            android:id="@+id/pass"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="პაროლი"
+            android:inputType="textPassword"
+            android:lines="1"
+            android:textColor="#fff"
+            android:textColorHint="#fff" />
+    </android.support.design.widget.TextInputLayout>
 
     <Button
         android:id="@+id/enter"
@@ -48,7 +67,8 @@
         android:textColor="#fff"
         android:layout_below="@+id/d5"
         android:layout_alignLeft="@+id/d5"
-        android:layout_alignStart="@+id/d5" />
+        android:layout_alignStart="@+id/d5"
+        android:onClick="loginOnClick" />
 
     <Button
         android:id="@+id/toregister"
