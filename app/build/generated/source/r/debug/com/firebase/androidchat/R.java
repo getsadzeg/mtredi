@@ -4481,117 +4481,126 @@ containing a value of this type.
         public static final int md_is_tablet=0x7f070004;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f0b005f;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f0b0060;
-        public static final int abc_color_highlight_material=0x7f0b0061;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f0b0068;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f0b0069;
+        public static final int abc_color_highlight_material=0x7f0b006a;
         public static final int abc_input_method_navigation_guard=0x7f0b0000;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f0b0062;
-        public static final int abc_primary_text_disable_only_material_light=0x7f0b0063;
-        public static final int abc_primary_text_material_dark=0x7f0b0064;
-        public static final int abc_primary_text_material_light=0x7f0b0065;
-        public static final int abc_search_url_text=0x7f0b0066;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f0b006b;
+        public static final int abc_primary_text_disable_only_material_light=0x7f0b006c;
+        public static final int abc_primary_text_material_dark=0x7f0b006d;
+        public static final int abc_primary_text_material_light=0x7f0b006e;
+        public static final int abc_search_url_text=0x7f0b006f;
         public static final int abc_search_url_text_normal=0x7f0b0001;
         public static final int abc_search_url_text_pressed=0x7f0b0002;
         public static final int abc_search_url_text_selected=0x7f0b0003;
-        public static final int abc_secondary_text_material_dark=0x7f0b0067;
-        public static final int abc_secondary_text_material_light=0x7f0b0068;
+        public static final int abc_secondary_text_material_dark=0x7f0b0070;
+        public static final int abc_secondary_text_material_light=0x7f0b0071;
         public static final int accent_material_dark=0x7f0b0004;
         public static final int accent_material_light=0x7f0b0005;
         public static final int background_floating_material_dark=0x7f0b0006;
         public static final int background_floating_material_light=0x7f0b0007;
         public static final int background_material_dark=0x7f0b0008;
         public static final int background_material_light=0x7f0b0009;
-        public static final int bright_foreground_disabled_material_dark=0x7f0b000a;
-        public static final int bright_foreground_disabled_material_light=0x7f0b000b;
-        public static final int bright_foreground_inverse_material_dark=0x7f0b000c;
-        public static final int bright_foreground_inverse_material_light=0x7f0b000d;
-        public static final int bright_foreground_material_dark=0x7f0b000e;
-        public static final int bright_foreground_material_light=0x7f0b000f;
-        public static final int button_material_dark=0x7f0b0010;
-        public static final int button_material_light=0x7f0b0011;
-        public static final int cardview_dark_background=0x7f0b0012;
-        public static final int cardview_light_background=0x7f0b0013;
-        public static final int cardview_shadow_end_color=0x7f0b0014;
-        public static final int cardview_shadow_start_color=0x7f0b0015;
-        public static final int common_action_bar_splitter=0x7f0b0016;
-        public static final int common_google_signin_btn_text_dark=0x7f0b0069;
-        public static final int common_google_signin_btn_text_dark_default=0x7f0b0017;
-        public static final int common_google_signin_btn_text_dark_disabled=0x7f0b0018;
-        public static final int common_google_signin_btn_text_dark_focused=0x7f0b0019;
-        public static final int common_google_signin_btn_text_dark_pressed=0x7f0b001a;
-        public static final int common_google_signin_btn_text_light=0x7f0b006a;
-        public static final int common_google_signin_btn_text_light_default=0x7f0b001b;
-        public static final int common_google_signin_btn_text_light_disabled=0x7f0b001c;
-        public static final int common_google_signin_btn_text_light_focused=0x7f0b001d;
-        public static final int common_google_signin_btn_text_light_pressed=0x7f0b001e;
-        public static final int common_plus_signin_btn_text_dark=0x7f0b006b;
-        public static final int common_plus_signin_btn_text_dark_default=0x7f0b001f;
-        public static final int common_plus_signin_btn_text_dark_disabled=0x7f0b0020;
-        public static final int common_plus_signin_btn_text_dark_focused=0x7f0b0021;
-        public static final int common_plus_signin_btn_text_dark_pressed=0x7f0b0022;
-        public static final int common_plus_signin_btn_text_light=0x7f0b006c;
-        public static final int common_plus_signin_btn_text_light_default=0x7f0b0023;
-        public static final int common_plus_signin_btn_text_light_disabled=0x7f0b0024;
-        public static final int common_plus_signin_btn_text_light_focused=0x7f0b0025;
-        public static final int common_plus_signin_btn_text_light_pressed=0x7f0b0026;
-        public static final int design_fab_shadow_end_color=0x7f0b0027;
-        public static final int design_fab_shadow_mid_color=0x7f0b0028;
-        public static final int design_fab_shadow_start_color=0x7f0b0029;
-        public static final int design_fab_stroke_end_inner_color=0x7f0b002a;
-        public static final int design_fab_stroke_end_outer_color=0x7f0b002b;
-        public static final int design_fab_stroke_top_inner_color=0x7f0b002c;
-        public static final int design_fab_stroke_top_outer_color=0x7f0b002d;
-        public static final int design_snackbar_background_color=0x7f0b002e;
-        public static final int design_textinput_error_color=0x7f0b002f;
-        public static final int dim_foreground_disabled_material_dark=0x7f0b0030;
-        public static final int dim_foreground_disabled_material_light=0x7f0b0031;
-        public static final int dim_foreground_material_dark=0x7f0b0032;
-        public static final int dim_foreground_material_light=0x7f0b0033;
-        public static final int foreground_material_dark=0x7f0b0034;
-        public static final int foreground_material_light=0x7f0b0035;
-        public static final int highlighted_text_material_dark=0x7f0b0036;
-        public static final int highlighted_text_material_light=0x7f0b0037;
-        public static final int hint_foreground_material_dark=0x7f0b0038;
-        public static final int hint_foreground_material_light=0x7f0b0039;
-        public static final int material_blue_grey_800=0x7f0b003a;
-        public static final int material_blue_grey_900=0x7f0b003b;
-        public static final int material_blue_grey_950=0x7f0b003c;
-        public static final int material_deep_teal_200=0x7f0b003d;
-        public static final int material_deep_teal_500=0x7f0b003e;
-        public static final int material_grey_100=0x7f0b003f;
-        public static final int material_grey_300=0x7f0b0040;
-        public static final int material_grey_50=0x7f0b0041;
-        public static final int material_grey_600=0x7f0b0042;
-        public static final int material_grey_800=0x7f0b0043;
-        public static final int material_grey_850=0x7f0b0044;
-        public static final int material_grey_900=0x7f0b0045;
-        public static final int md_btn_selected=0x7f0b0046;
-        public static final int md_btn_selected_dark=0x7f0b0047;
-        public static final int md_divider_black=0x7f0b0048;
-        public static final int md_divider_white=0x7f0b0049;
-        public static final int md_edittext_error=0x7f0b004a;
-        public static final int md_material_blue_600=0x7f0b004b;
-        public static final int md_material_blue_800=0x7f0b004c;
-        public static final int primary_dark_material_dark=0x7f0b004d;
-        public static final int primary_dark_material_light=0x7f0b004e;
-        public static final int primary_material_dark=0x7f0b004f;
-        public static final int primary_material_light=0x7f0b0050;
-        public static final int primary_text_default_material_dark=0x7f0b0051;
-        public static final int primary_text_default_material_light=0x7f0b0052;
-        public static final int primary_text_disabled_material_dark=0x7f0b0053;
-        public static final int primary_text_disabled_material_light=0x7f0b0054;
-        public static final int ripple_material_dark=0x7f0b0055;
-        public static final int ripple_material_light=0x7f0b0056;
-        public static final int secondary_text_default_material_dark=0x7f0b0057;
-        public static final int secondary_text_default_material_light=0x7f0b0058;
-        public static final int secondary_text_disabled_material_dark=0x7f0b0059;
-        public static final int secondary_text_disabled_material_light=0x7f0b005a;
-        public static final int switch_thumb_disabled_material_dark=0x7f0b005b;
-        public static final int switch_thumb_disabled_material_light=0x7f0b005c;
-        public static final int switch_thumb_material_dark=0x7f0b006d;
-        public static final int switch_thumb_material_light=0x7f0b006e;
-        public static final int switch_thumb_normal_material_dark=0x7f0b005d;
-        public static final int switch_thumb_normal_material_light=0x7f0b005e;
+        public static final int black=0x7f0b000a;
+        public static final int bright_foreground_disabled_material_dark=0x7f0b000b;
+        public static final int bright_foreground_disabled_material_light=0x7f0b000c;
+        public static final int bright_foreground_inverse_material_dark=0x7f0b000d;
+        public static final int bright_foreground_inverse_material_light=0x7f0b000e;
+        public static final int bright_foreground_material_dark=0x7f0b000f;
+        public static final int bright_foreground_material_light=0x7f0b0010;
+        public static final int button_material_dark=0x7f0b0011;
+        public static final int button_material_light=0x7f0b0012;
+        public static final int cardview_dark_background=0x7f0b0013;
+        public static final int cardview_light_background=0x7f0b0014;
+        public static final int cardview_shadow_end_color=0x7f0b0015;
+        public static final int cardview_shadow_start_color=0x7f0b0016;
+        public static final int common_action_bar_splitter=0x7f0b0017;
+        public static final int common_google_signin_btn_text_dark=0x7f0b0072;
+        public static final int common_google_signin_btn_text_dark_default=0x7f0b0018;
+        public static final int common_google_signin_btn_text_dark_disabled=0x7f0b0019;
+        public static final int common_google_signin_btn_text_dark_focused=0x7f0b001a;
+        public static final int common_google_signin_btn_text_dark_pressed=0x7f0b001b;
+        public static final int common_google_signin_btn_text_light=0x7f0b0073;
+        public static final int common_google_signin_btn_text_light_default=0x7f0b001c;
+        public static final int common_google_signin_btn_text_light_disabled=0x7f0b001d;
+        public static final int common_google_signin_btn_text_light_focused=0x7f0b001e;
+        public static final int common_google_signin_btn_text_light_pressed=0x7f0b001f;
+        public static final int common_plus_signin_btn_text_dark=0x7f0b0074;
+        public static final int common_plus_signin_btn_text_dark_default=0x7f0b0020;
+        public static final int common_plus_signin_btn_text_dark_disabled=0x7f0b0021;
+        public static final int common_plus_signin_btn_text_dark_focused=0x7f0b0022;
+        public static final int common_plus_signin_btn_text_dark_pressed=0x7f0b0023;
+        public static final int common_plus_signin_btn_text_light=0x7f0b0075;
+        public static final int common_plus_signin_btn_text_light_default=0x7f0b0024;
+        public static final int common_plus_signin_btn_text_light_disabled=0x7f0b0025;
+        public static final int common_plus_signin_btn_text_light_focused=0x7f0b0026;
+        public static final int common_plus_signin_btn_text_light_pressed=0x7f0b0027;
+        public static final int design_fab_shadow_end_color=0x7f0b0028;
+        public static final int design_fab_shadow_mid_color=0x7f0b0029;
+        public static final int design_fab_shadow_start_color=0x7f0b002a;
+        public static final int design_fab_stroke_end_inner_color=0x7f0b002b;
+        public static final int design_fab_stroke_end_outer_color=0x7f0b002c;
+        public static final int design_fab_stroke_top_inner_color=0x7f0b002d;
+        public static final int design_fab_stroke_top_outer_color=0x7f0b002e;
+        public static final int design_snackbar_background_color=0x7f0b002f;
+        public static final int design_textinput_error_color=0x7f0b0030;
+        public static final int dim_foreground_disabled_material_dark=0x7f0b0031;
+        public static final int dim_foreground_disabled_material_light=0x7f0b0032;
+        public static final int dim_foreground_material_dark=0x7f0b0033;
+        public static final int dim_foreground_material_light=0x7f0b0034;
+        public static final int foreground_material_dark=0x7f0b0035;
+        public static final int foreground_material_light=0x7f0b0036;
+        public static final int gray_light=0x7f0b0037;
+        public static final int highlighted_text_material_dark=0x7f0b0038;
+        public static final int highlighted_text_material_light=0x7f0b0039;
+        public static final int hint_foreground_material_dark=0x7f0b003a;
+        public static final int hint_foreground_material_light=0x7f0b003b;
+        public static final int main_color_gray=0x7f0b003c;
+        public static final int main_color_gray_dk=0x7f0b003d;
+        public static final int main_color_gray_lt=0x7f0b003e;
+        public static final int main_color_green=0x7f0b003f;
+        public static final int material_blue_grey_800=0x7f0b0040;
+        public static final int material_blue_grey_900=0x7f0b0041;
+        public static final int material_blue_grey_950=0x7f0b0042;
+        public static final int material_deep_teal_200=0x7f0b0043;
+        public static final int material_deep_teal_500=0x7f0b0044;
+        public static final int material_grey_100=0x7f0b0045;
+        public static final int material_grey_300=0x7f0b0046;
+        public static final int material_grey_50=0x7f0b0047;
+        public static final int material_grey_600=0x7f0b0048;
+        public static final int material_grey_800=0x7f0b0049;
+        public static final int material_grey_850=0x7f0b004a;
+        public static final int material_grey_900=0x7f0b004b;
+        public static final int md_btn_selected=0x7f0b004c;
+        public static final int md_btn_selected_dark=0x7f0b004d;
+        public static final int md_divider_black=0x7f0b004e;
+        public static final int md_divider_white=0x7f0b004f;
+        public static final int md_edittext_error=0x7f0b0050;
+        public static final int md_material_blue_600=0x7f0b0051;
+        public static final int md_material_blue_800=0x7f0b0052;
+        public static final int primary_dark_material_dark=0x7f0b0053;
+        public static final int primary_dark_material_light=0x7f0b0054;
+        public static final int primary_material_dark=0x7f0b0055;
+        public static final int primary_material_light=0x7f0b0056;
+        public static final int primary_text_default_material_dark=0x7f0b0057;
+        public static final int primary_text_default_material_light=0x7f0b0058;
+        public static final int primary_text_disabled_material_dark=0x7f0b0059;
+        public static final int primary_text_disabled_material_light=0x7f0b005a;
+        public static final int ripple_material_dark=0x7f0b005b;
+        public static final int ripple_material_light=0x7f0b005c;
+        public static final int secondary_text_default_material_dark=0x7f0b005d;
+        public static final int secondary_text_default_material_light=0x7f0b005e;
+        public static final int secondary_text_disabled_material_dark=0x7f0b005f;
+        public static final int secondary_text_disabled_material_light=0x7f0b0060;
+        public static final int switch_thumb_disabled_material_dark=0x7f0b0061;
+        public static final int switch_thumb_disabled_material_light=0x7f0b0062;
+        public static final int switch_thumb_material_dark=0x7f0b0076;
+        public static final int switch_thumb_material_light=0x7f0b0077;
+        public static final int switch_thumb_normal_material_dark=0x7f0b0063;
+        public static final int switch_thumb_normal_material_light=0x7f0b0064;
+        public static final int transparent=0x7f0b0065;
+        public static final int white=0x7f0b0066;
+        public static final int white_smoke=0x7f0b0067;
     }
     public static final class dimen {
         public static final int abc_action_bar_content_inset_material=0x7f08000e;
@@ -4743,6 +4752,21 @@ containing a value of this type.
         public static final int notification_large_icon_height=0x7f080092;
         public static final int notification_large_icon_width=0x7f080093;
         public static final int notification_subtext_size=0x7f080094;
+        public static final int pad_10dp=0x7f080095;
+        public static final int pad_15dp=0x7f080096;
+        public static final int pad_20dp=0x7f080097;
+        public static final int pad_30dp=0x7f080098;
+        public static final int pad_5dp=0x7f080099;
+        public static final int pad_chat_item=0x7f08009a;
+        public static final int pad_chat_item1=0x7f08009b;
+        public static final int txt_12sp=0x7f08009c;
+        public static final int txt_13sp=0x7f08009d;
+        public static final int txt_14sp=0x7f08009e;
+        public static final int txt_15sp=0x7f08009f;
+        public static final int txt_16sp=0x7f0800a0;
+        public static final int txt_18sp=0x7f0800a1;
+        public static final int txt_20sp=0x7f0800a2;
+        public static final int txt_7sp=0x7f0800a3;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
@@ -4814,71 +4838,74 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020042;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020043;
         public static final int abc_textfield_search_material=0x7f020044;
-        public static final int common_full_open_on_phone=0x7f020045;
-        public static final int common_google_signin_btn_icon_dark=0x7f020046;
-        public static final int common_google_signin_btn_icon_dark_disabled=0x7f020047;
-        public static final int common_google_signin_btn_icon_dark_focused=0x7f020048;
-        public static final int common_google_signin_btn_icon_dark_normal=0x7f020049;
-        public static final int common_google_signin_btn_icon_dark_pressed=0x7f02004a;
-        public static final int common_google_signin_btn_icon_light=0x7f02004b;
-        public static final int common_google_signin_btn_icon_light_disabled=0x7f02004c;
-        public static final int common_google_signin_btn_icon_light_focused=0x7f02004d;
-        public static final int common_google_signin_btn_icon_light_normal=0x7f02004e;
-        public static final int common_google_signin_btn_icon_light_pressed=0x7f02004f;
-        public static final int common_google_signin_btn_text_dark=0x7f020050;
-        public static final int common_google_signin_btn_text_dark_disabled=0x7f020051;
-        public static final int common_google_signin_btn_text_dark_focused=0x7f020052;
-        public static final int common_google_signin_btn_text_dark_normal=0x7f020053;
-        public static final int common_google_signin_btn_text_dark_pressed=0x7f020054;
-        public static final int common_google_signin_btn_text_light=0x7f020055;
-        public static final int common_google_signin_btn_text_light_disabled=0x7f020056;
-        public static final int common_google_signin_btn_text_light_focused=0x7f020057;
-        public static final int common_google_signin_btn_text_light_normal=0x7f020058;
-        public static final int common_google_signin_btn_text_light_pressed=0x7f020059;
-        public static final int common_ic_googleplayservices=0x7f02005a;
-        public static final int common_plus_signin_btn_icon_dark=0x7f02005b;
-        public static final int common_plus_signin_btn_icon_dark_disabled=0x7f02005c;
-        public static final int common_plus_signin_btn_icon_dark_focused=0x7f02005d;
-        public static final int common_plus_signin_btn_icon_dark_normal=0x7f02005e;
-        public static final int common_plus_signin_btn_icon_dark_pressed=0x7f02005f;
-        public static final int common_plus_signin_btn_icon_light=0x7f020060;
-        public static final int common_plus_signin_btn_icon_light_disabled=0x7f020061;
-        public static final int common_plus_signin_btn_icon_light_focused=0x7f020062;
-        public static final int common_plus_signin_btn_icon_light_normal=0x7f020063;
-        public static final int common_plus_signin_btn_icon_light_pressed=0x7f020064;
-        public static final int common_plus_signin_btn_text_dark=0x7f020065;
-        public static final int common_plus_signin_btn_text_dark_disabled=0x7f020066;
-        public static final int common_plus_signin_btn_text_dark_focused=0x7f020067;
-        public static final int common_plus_signin_btn_text_dark_normal=0x7f020068;
-        public static final int common_plus_signin_btn_text_dark_pressed=0x7f020069;
-        public static final int common_plus_signin_btn_text_light=0x7f02006a;
-        public static final int common_plus_signin_btn_text_light_disabled=0x7f02006b;
-        public static final int common_plus_signin_btn_text_light_focused=0x7f02006c;
-        public static final int common_plus_signin_btn_text_light_normal=0x7f02006d;
-        public static final int common_plus_signin_btn_text_light_pressed=0x7f02006e;
-        public static final int design_fab_background=0x7f02006f;
-        public static final int design_snackbar_background=0x7f020070;
-        public static final int gray_circle=0x7f020071;
-        public static final int ic_launcher=0x7f020072;
-        public static final int md_btn_selected=0x7f020073;
-        public static final int md_btn_selected_dark=0x7f020074;
-        public static final int md_btn_selector=0x7f020075;
-        public static final int md_btn_selector_dark=0x7f020076;
-        public static final int md_btn_selector_ripple=0x7f020077;
-        public static final int md_btn_selector_ripple_dark=0x7f020078;
-        public static final int md_btn_shape=0x7f020079;
-        public static final int md_item_selected=0x7f02007a;
-        public static final int md_item_selected_dark=0x7f02007b;
-        public static final int md_selector=0x7f02007c;
-        public static final int md_selector_dark=0x7f02007d;
-        public static final int md_transparent=0x7f02007e;
-        public static final int notification_template_icon_bg=0x7f020080;
-        public static final int sc=0x7f02007f;
+        public static final int arrow=0x7f020045;
+        public static final int common_full_open_on_phone=0x7f020046;
+        public static final int common_google_signin_btn_icon_dark=0x7f020047;
+        public static final int common_google_signin_btn_icon_dark_disabled=0x7f020048;
+        public static final int common_google_signin_btn_icon_dark_focused=0x7f020049;
+        public static final int common_google_signin_btn_icon_dark_normal=0x7f02004a;
+        public static final int common_google_signin_btn_icon_dark_pressed=0x7f02004b;
+        public static final int common_google_signin_btn_icon_light=0x7f02004c;
+        public static final int common_google_signin_btn_icon_light_disabled=0x7f02004d;
+        public static final int common_google_signin_btn_icon_light_focused=0x7f02004e;
+        public static final int common_google_signin_btn_icon_light_normal=0x7f02004f;
+        public static final int common_google_signin_btn_icon_light_pressed=0x7f020050;
+        public static final int common_google_signin_btn_text_dark=0x7f020051;
+        public static final int common_google_signin_btn_text_dark_disabled=0x7f020052;
+        public static final int common_google_signin_btn_text_dark_focused=0x7f020053;
+        public static final int common_google_signin_btn_text_dark_normal=0x7f020054;
+        public static final int common_google_signin_btn_text_dark_pressed=0x7f020055;
+        public static final int common_google_signin_btn_text_light=0x7f020056;
+        public static final int common_google_signin_btn_text_light_disabled=0x7f020057;
+        public static final int common_google_signin_btn_text_light_focused=0x7f020058;
+        public static final int common_google_signin_btn_text_light_normal=0x7f020059;
+        public static final int common_google_signin_btn_text_light_pressed=0x7f02005a;
+        public static final int common_ic_googleplayservices=0x7f02005b;
+        public static final int common_plus_signin_btn_icon_dark=0x7f02005c;
+        public static final int common_plus_signin_btn_icon_dark_disabled=0x7f02005d;
+        public static final int common_plus_signin_btn_icon_dark_focused=0x7f02005e;
+        public static final int common_plus_signin_btn_icon_dark_normal=0x7f02005f;
+        public static final int common_plus_signin_btn_icon_dark_pressed=0x7f020060;
+        public static final int common_plus_signin_btn_icon_light=0x7f020061;
+        public static final int common_plus_signin_btn_icon_light_disabled=0x7f020062;
+        public static final int common_plus_signin_btn_icon_light_focused=0x7f020063;
+        public static final int common_plus_signin_btn_icon_light_normal=0x7f020064;
+        public static final int common_plus_signin_btn_icon_light_pressed=0x7f020065;
+        public static final int common_plus_signin_btn_text_dark=0x7f020066;
+        public static final int common_plus_signin_btn_text_dark_disabled=0x7f020067;
+        public static final int common_plus_signin_btn_text_dark_focused=0x7f020068;
+        public static final int common_plus_signin_btn_text_dark_normal=0x7f020069;
+        public static final int common_plus_signin_btn_text_dark_pressed=0x7f02006a;
+        public static final int common_plus_signin_btn_text_light=0x7f02006b;
+        public static final int common_plus_signin_btn_text_light_disabled=0x7f02006c;
+        public static final int common_plus_signin_btn_text_light_focused=0x7f02006d;
+        public static final int common_plus_signin_btn_text_light_normal=0x7f02006e;
+        public static final int common_plus_signin_btn_text_light_pressed=0x7f02006f;
+        public static final int design_fab_background=0x7f020070;
+        public static final int design_snackbar_background=0x7f020071;
+        public static final int gray_circle=0x7f020072;
+        public static final int ic_launcher=0x7f020073;
+        public static final int ic_offline=0x7f020074;
+        public static final int ic_online=0x7f020075;
+        public static final int md_btn_selected=0x7f020076;
+        public static final int md_btn_selected_dark=0x7f020077;
+        public static final int md_btn_selector=0x7f020078;
+        public static final int md_btn_selector_dark=0x7f020079;
+        public static final int md_btn_selector_ripple=0x7f02007a;
+        public static final int md_btn_selector_ripple_dark=0x7f02007b;
+        public static final int md_btn_shape=0x7f02007c;
+        public static final int md_item_selected=0x7f02007d;
+        public static final int md_item_selected_dark=0x7f02007e;
+        public static final int md_selector=0x7f02007f;
+        public static final int md_selector_dark=0x7f020080;
+        public static final int md_transparent=0x7f020081;
+        public static final int notification_template_icon_bg=0x7f020083;
+        public static final int sc=0x7f020082;
     }
     public static final class id {
         public static final int Mail=0x7f0c00a3;
-        public static final int action=0x7f0c00b9;
-        public static final int action0=0x7f0c00d7;
+        public static final int action=0x7f0c00bb;
+        public static final int action0=0x7f0c00d9;
         public static final int action_bar=0x7f0c0084;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c0083;
@@ -4887,13 +4914,13 @@ containing a value of this type.
         public static final int action_bar_subtitle=0x7f0c0065;
         public static final int action_bar_title=0x7f0c0064;
         public static final int action_context_bar=0x7f0c0085;
-        public static final int action_divider=0x7f0c00db;
+        public static final int action_divider=0x7f0c00dd;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c0081;
         public static final int action_mode_bar_stub=0x7f0c0080;
         public static final int action_mode_close_button=0x7f0c0066;
-        public static final int action_send=0x7f0c00e4;
+        public static final int action_send=0x7f0c00e6;
         public static final int activity_chooser_view_content=0x7f0c0067;
         public static final int add=0x7f0c004b;
         public static final int adjust_height=0x7f0c0047;
@@ -4901,7 +4928,7 @@ containing a value of this type.
         public static final int afterRelease=0x7f0c0056;
         public static final int alertTitle=0x7f0c0073;
         public static final int always=0x7f0c004c;
-        public static final int author=0x7f0c00a7;
+        public static final int author=0x7f0c00a9;
         public static final int auto=0x7f0c005b;
         public static final int beginning=0x7f0c0046;
         public static final int bevel=0x7f0c0044;
@@ -4910,66 +4937,66 @@ containing a value of this type.
         public static final int bottom=0x7f0c0026;
         public static final int buffer=0x7f0c0012;
         public static final int butt=0x7f0c0041;
-        public static final int buttonDefaultNegative=0x7f0c00c3;
-        public static final int buttonDefaultNeutral=0x7f0c00c2;
-        public static final int buttonDefaultPositive=0x7f0c00c4;
+        public static final int buttonDefaultNegative=0x7f0c00c5;
+        public static final int buttonDefaultNeutral=0x7f0c00c4;
+        public static final int buttonDefaultPositive=0x7f0c00c6;
         public static final int buttonPanel=0x7f0c006e;
-        public static final int cancel_action=0x7f0c00d8;
+        public static final int cancel_action=0x7f0c00da;
         public static final int center=0x7f0c000f;
         public static final int center_horizontal=0x7f0c0027;
         public static final int center_vertical=0x7f0c0028;
         public static final int charCounter=0x7f0c003b;
         public static final int checkbox=0x7f0c007c;
-        public static final int chronometer=0x7f0c00de;
+        public static final int chronometer=0x7f0c00e0;
         public static final int circular=0x7f0c0049;
         public static final int clip_horizontal=0x7f0c0032;
         public static final int clip_vertical=0x7f0c0033;
         public static final int collapseActionView=0x7f0c004d;
-        public static final int colorA=0x7f0c00c9;
-        public static final int colorALabel=0x7f0c00c8;
-        public static final int colorAValue=0x7f0c00ca;
-        public static final int colorB=0x7f0c00d2;
-        public static final int colorBLabel=0x7f0c00d1;
-        public static final int colorBValue=0x7f0c00d3;
-        public static final int colorChooserCustomFrame=0x7f0c00c5;
-        public static final int colorG=0x7f0c00cf;
-        public static final int colorGLabel=0x7f0c00ce;
-        public static final int colorGValue=0x7f0c00d0;
-        public static final int colorIndicator=0x7f0c00c6;
-        public static final int colorR=0x7f0c00cc;
-        public static final int colorRLabel=0x7f0c00cb;
-        public static final int colorRValue=0x7f0c00cd;
-        public static final int com=0x7f0c00ac;
-        public static final int com2=0x7f0c00ae;
-        public static final int com3=0x7f0c00b0;
+        public static final int colorA=0x7f0c00cb;
+        public static final int colorALabel=0x7f0c00ca;
+        public static final int colorAValue=0x7f0c00cc;
+        public static final int colorB=0x7f0c00d4;
+        public static final int colorBLabel=0x7f0c00d3;
+        public static final int colorBValue=0x7f0c00d5;
+        public static final int colorChooserCustomFrame=0x7f0c00c7;
+        public static final int colorG=0x7f0c00d1;
+        public static final int colorGLabel=0x7f0c00d0;
+        public static final int colorGValue=0x7f0c00d2;
+        public static final int colorIndicator=0x7f0c00c8;
+        public static final int colorR=0x7f0c00ce;
+        public static final int colorRLabel=0x7f0c00cd;
+        public static final int colorRValue=0x7f0c00cf;
+        public static final int com=0x7f0c00ae;
+        public static final int com2=0x7f0c00b0;
+        public static final int com3=0x7f0c00b2;
         public static final int comment_bott=0x7f0c009d;
-        public static final int content=0x7f0c00bb;
-        public static final int contentListView=0x7f0c00c0;
-        public static final int contentListViewFrame=0x7f0c00bf;
+        public static final int content=0x7f0c00bd;
+        public static final int contentListView=0x7f0c00c2;
+        public static final int contentListViewFrame=0x7f0c00c1;
         public static final int contentPanel=0x7f0c0074;
-        public static final int contentScrollView=0x7f0c00ba;
-        public static final int control=0x7f0c00c1;
+        public static final int contentScrollView=0x7f0c00bc;
+        public static final int control=0x7f0c00c3;
         public static final int custom=0x7f0c007a;
         public static final int customPanel=0x7f0c0079;
-        public static final int customViewFrame=0x7f0c00bd;
-        public static final int d=0x7f0c00ab;
-        public static final int d2=0x7f0c00ad;
-        public static final int d3=0x7f0c00af;
+        public static final int customViewFrame=0x7f0c00bf;
+        public static final int d=0x7f0c00ad;
+        public static final int d2=0x7f0c00af;
+        public static final int d3=0x7f0c00b1;
         public static final int d4=0x7f0c00a2;
         public static final int d5=0x7f0c0095;
-        public static final int dac=0x7f0c00a5;
+        public static final int dac=0x7f0c00a7;
         public static final int dark=0x7f0c005c;
         public static final int decor_content_parent=0x7f0c0082;
         public static final int default_activity_button=0x7f0c006a;
-        public static final int design_menu_item_action_area=0x7f0c00b7;
-        public static final int design_menu_item_action_area_stub=0x7f0c00b6;
-        public static final int design_menu_item_text=0x7f0c00b5;
-        public static final int design_navigation_view=0x7f0c00b4;
+        public static final int design_menu_item_action_area=0x7f0c00b9;
+        public static final int design_menu_item_action_area_stub=0x7f0c00b8;
+        public static final int design_menu_item_text=0x7f0c00b7;
+        public static final int design_navigation_view=0x7f0c00b6;
         public static final int determinate=0x7f0c0013;
         public static final int disableHome=0x7f0c0018;
         public static final int edit_query=0x7f0c0086;
         public static final int end=0x7f0c0010;
-        public static final int end_padder=0x7f0c00e3;
+        public static final int end_padder=0x7f0c00e5;
         public static final int enter=0x7f0c0099;
         public static final int enterAlways=0x7f0c001f;
         public static final int enterAlwaysCollapsed=0x7f0c0020;
@@ -4981,10 +5008,10 @@ containing a value of this type.
         public static final int fill_horizontal=0x7f0c0035;
         public static final int fill_vertical=0x7f0c0029;
         public static final int fixed=0x7f0c0060;
-        public static final int grid=0x7f0c00d4;
+        public static final int grid=0x7f0c00d6;
         public static final int helper=0x7f0c003c;
         public static final int helperWithError=0x7f0c003d;
-        public static final int hexInput=0x7f0c00c7;
+        public static final int hexInput=0x7f0c00c9;
         public static final int home=0x7f0c0004;
         public static final int homeAsUp=0x7f0c0019;
         public static final int horizontal=0x7f0c004a;
@@ -4995,16 +5022,16 @@ containing a value of this type.
         public static final int image=0x7f0c0069;
         public static final int imageView=0x7f0c0094;
         public static final int indeterminate=0x7f0c0014;
-        public static final int info=0x7f0c00e2;
+        public static final int info=0x7f0c00e4;
         public static final int italic=0x7f0c000d;
         public static final int item_touch_helper_previous_elevation=0x7f0c0005;
-        public static final int label=0x7f0c00d5;
+        public static final int label=0x7f0c00d7;
         public static final int left=0x7f0c002a;
         public static final int light=0x7f0c005d;
-        public static final int line1=0x7f0c00dc;
-        public static final int line3=0x7f0c00e0;
+        public static final int line1=0x7f0c00de;
+        public static final int line3=0x7f0c00e2;
         public static final int listMode=0x7f0c0016;
-        public static final int listView=0x7f0c00aa;
+        public static final int listView=0x7f0c00ac;
         public static final int list_item=0x7f0c006b;
         public static final int listd=0x7f0c009c;
         public static final int locale=0x7f0c0036;
@@ -5012,24 +5039,24 @@ containing a value of this type.
         public static final int marquee=0x7f0c0039;
         public static final int match_parent=0x7f0c005e;
         public static final int match_view=0x7f0c0051;
-        public static final int media_actions=0x7f0c00da;
-        public static final int message=0x7f0c00a8;
+        public static final int media_actions=0x7f0c00dc;
+        public static final int message=0x7f0c00aa;
         public static final int messageInput=0x7f0c009f;
         public static final int middle=0x7f0c003a;
-        public static final int minMax=0x7f0c00be;
+        public static final int minMax=0x7f0c00c0;
         public static final int mini=0x7f0c0040;
         public static final int minute=0x7f0c0063;
         public static final int miter=0x7f0c0045;
         public static final int multi=0x7f0c003e;
         public static final int multiply=0x7f0c002d;
-        public static final int navigation_header_container=0x7f0c00b3;
+        public static final int navigation_header_container=0x7f0c00b5;
         public static final int never=0x7f0c004f;
         public static final int none=0x7f0c001a;
         public static final int normal=0x7f0c000e;
         public static final int oval=0x7f0c0052;
         public static final int parallax=0x7f0c0024;
         public static final int parentPanel=0x7f0c0070;
-        public static final int partner=0x7f0c00a9;
+        public static final int partner=0x7f0c00ab;
         public static final int pass=0x7f0c0098;
         public static final int passLayout=0x7f0c0097;
         public static final int password=0x7f0c00a4;
@@ -5041,7 +5068,7 @@ containing a value of this type.
         public static final int rectangle=0x7f0c0053;
         public static final int register=0x7f0c00a1;
         public static final int right=0x7f0c002b;
-        public static final int root=0x7f0c00bc;
+        public static final int root=0x7f0c00be;
         public static final int round=0x7f0c0042;
         public static final int rtl=0x7f0c0038;
         public static final int screen=0x7f0c002e;
@@ -5067,8 +5094,8 @@ containing a value of this type.
         public static final int showHome=0x7f0c001c;
         public static final int showTitle=0x7f0c001d;
         public static final int single=0x7f0c003f;
-        public static final int snackbar_action=0x7f0c00b2;
-        public static final int snackbar_text=0x7f0c00b1;
+        public static final int snackbar_action=0x7f0c00b4;
+        public static final int snackbar_text=0x7f0c00b3;
         public static final int snap=0x7f0c0023;
         public static final int spacer=0x7f0c006f;
         public static final int split_action_bar=0x7f0c0008;
@@ -5078,27 +5105,29 @@ containing a value of this type.
         public static final int src_over=0x7f0c0031;
         public static final int standard=0x7f0c0059;
         public static final int start=0x7f0c0011;
-        public static final int status_bar_latest_event_content=0x7f0c00d9;
+        public static final int status_bar_latest_event_content=0x7f0c00db;
         public static final int submit_area=0x7f0c008f;
         public static final int tabMode=0x7f0c0017;
-        public static final int text=0x7f0c00e1;
-        public static final int text2=0x7f0c00df;
+        public static final int text=0x7f0c00e3;
+        public static final int text2=0x7f0c00e1;
         public static final int textSpacerNoButtons=0x7f0c0077;
-        public static final int time=0x7f0c00dd;
+        public static final int textView=0x7f0c00a6;
+        public static final int time=0x7f0c00df;
         public static final int title=0x7f0c006d;
-        public static final int titleFrame=0x7f0c00d6;
+        public static final int titleFrame=0x7f0c00d8;
         public static final int title_template=0x7f0c0072;
         public static final int toolbar=0x7f0c009b;
         public static final int top=0x7f0c002c;
         public static final int topPanel=0x7f0c0071;
-        public static final int top_layout=0x7f0c00a6;
+        public static final int top_layout=0x7f0c00a8;
         public static final int toregister=0x7f0c009a;
         public static final int touch=0x7f0c0054;
         public static final int untilRelease=0x7f0c0057;
         public static final int up=0x7f0c0009;
         public static final int useLogo=0x7f0c001e;
+        public static final int userList=0x7f0c00a5;
         public static final int userName=0x7f0c0096;
-        public static final int username=0x7f0c00b8;
+        public static final int username=0x7f0c00ba;
         public static final int view=0x7f0c009e;
         public static final int view_offset_helper=0x7f0c000a;
         public static final int wave=0x7f0c0055;
@@ -5146,55 +5175,56 @@ containing a value of this type.
         public static final int activity_main=0x7f03001b;
         public static final int activity_register=0x7f03001c;
         public static final int activity_user_list=0x7f03001d;
-        public static final int chat_message=0x7f03001e;
-        public static final int chat_room=0x7f03001f;
-        public static final int conversationlayout=0x7f030020;
-        public static final int design_layout_snackbar=0x7f030021;
-        public static final int design_layout_snackbar_include=0x7f030022;
-        public static final int design_layout_tab_icon=0x7f030023;
-        public static final int design_layout_tab_text=0x7f030024;
-        public static final int design_menu_item_action_area=0x7f030025;
-        public static final int design_navigation_item=0x7f030026;
-        public static final int design_navigation_item_header=0x7f030027;
-        public static final int design_navigation_item_separator=0x7f030028;
-        public static final int design_navigation_item_subheader=0x7f030029;
-        public static final int design_navigation_menu=0x7f03002a;
-        public static final int design_navigation_menu_item=0x7f03002b;
-        public static final int item_action=0x7f03002c;
-        public static final int md_dialog_basic=0x7f03002d;
-        public static final int md_dialog_colorchooser=0x7f03002e;
-        public static final int md_dialog_custom=0x7f03002f;
-        public static final int md_dialog_input=0x7f030030;
-        public static final int md_dialog_list=0x7f030031;
-        public static final int md_dialog_progress=0x7f030032;
-        public static final int md_dialog_progress_indeterminate=0x7f030033;
-        public static final int md_dialog_progress_indeterminate_horizontal=0x7f030034;
-        public static final int md_listitem=0x7f030035;
-        public static final int md_listitem_multichoice=0x7f030036;
-        public static final int md_listitem_singlechoice=0x7f030037;
-        public static final int md_preference_custom=0x7f030038;
-        public static final int md_simplelist_item=0x7f030039;
-        public static final int md_stub_actionbuttons=0x7f03003a;
-        public static final int md_stub_colorchooser_custom=0x7f03003b;
-        public static final int md_stub_colorchooser_grid=0x7f03003c;
-        public static final int md_stub_inputpref=0x7f03003d;
-        public static final int md_stub_progress=0x7f03003e;
-        public static final int md_stub_progress_indeterminate=0x7f03003f;
-        public static final int md_stub_progress_indeterminate_horizontal=0x7f030040;
-        public static final int md_stub_titleframe=0x7f030041;
-        public static final int md_stub_titleframe_lesspadding=0x7f030042;
-        public static final int notification_media_action=0x7f030043;
-        public static final int notification_media_cancel_action=0x7f030044;
-        public static final int notification_template_big_media=0x7f030045;
-        public static final int notification_template_big_media_narrow=0x7f030046;
-        public static final int notification_template_lines=0x7f030047;
-        public static final int notification_template_media=0x7f030048;
-        public static final int notification_template_part_chronometer=0x7f030049;
-        public static final int notification_template_part_time=0x7f03004a;
-        public static final int select_dialog_item_material=0x7f03004b;
-        public static final int select_dialog_multichoice_material=0x7f03004c;
-        public static final int select_dialog_singlechoice_material=0x7f03004d;
-        public static final int support_simple_spinner_dropdown_item=0x7f03004e;
+        public static final int chat_item=0x7f03001e;
+        public static final int chat_message=0x7f03001f;
+        public static final int chat_room=0x7f030020;
+        public static final int conversationlayout=0x7f030021;
+        public static final int design_layout_snackbar=0x7f030022;
+        public static final int design_layout_snackbar_include=0x7f030023;
+        public static final int design_layout_tab_icon=0x7f030024;
+        public static final int design_layout_tab_text=0x7f030025;
+        public static final int design_menu_item_action_area=0x7f030026;
+        public static final int design_navigation_item=0x7f030027;
+        public static final int design_navigation_item_header=0x7f030028;
+        public static final int design_navigation_item_separator=0x7f030029;
+        public static final int design_navigation_item_subheader=0x7f03002a;
+        public static final int design_navigation_menu=0x7f03002b;
+        public static final int design_navigation_menu_item=0x7f03002c;
+        public static final int item_action=0x7f03002d;
+        public static final int md_dialog_basic=0x7f03002e;
+        public static final int md_dialog_colorchooser=0x7f03002f;
+        public static final int md_dialog_custom=0x7f030030;
+        public static final int md_dialog_input=0x7f030031;
+        public static final int md_dialog_list=0x7f030032;
+        public static final int md_dialog_progress=0x7f030033;
+        public static final int md_dialog_progress_indeterminate=0x7f030034;
+        public static final int md_dialog_progress_indeterminate_horizontal=0x7f030035;
+        public static final int md_listitem=0x7f030036;
+        public static final int md_listitem_multichoice=0x7f030037;
+        public static final int md_listitem_singlechoice=0x7f030038;
+        public static final int md_preference_custom=0x7f030039;
+        public static final int md_simplelist_item=0x7f03003a;
+        public static final int md_stub_actionbuttons=0x7f03003b;
+        public static final int md_stub_colorchooser_custom=0x7f03003c;
+        public static final int md_stub_colorchooser_grid=0x7f03003d;
+        public static final int md_stub_inputpref=0x7f03003e;
+        public static final int md_stub_progress=0x7f03003f;
+        public static final int md_stub_progress_indeterminate=0x7f030040;
+        public static final int md_stub_progress_indeterminate_horizontal=0x7f030041;
+        public static final int md_stub_titleframe=0x7f030042;
+        public static final int md_stub_titleframe_lesspadding=0x7f030043;
+        public static final int notification_media_action=0x7f030044;
+        public static final int notification_media_cancel_action=0x7f030045;
+        public static final int notification_template_big_media=0x7f030046;
+        public static final int notification_template_big_media_narrow=0x7f030047;
+        public static final int notification_template_lines=0x7f030048;
+        public static final int notification_template_media=0x7f030049;
+        public static final int notification_template_part_chronometer=0x7f03004a;
+        public static final int notification_template_part_time=0x7f03004b;
+        public static final int select_dialog_item_material=0x7f03004c;
+        public static final int select_dialog_multichoice_material=0x7f03004d;
+        public static final int select_dialog_singlechoice_material=0x7f03004e;
+        public static final int support_simple_spinner_dropdown_item=0x7f03004f;
     }
     public static final class menu {
         public static final int menu=0x7f0d0000;
@@ -5701,33 +5731,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.firebase.androidchat:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.firebase.androidchat:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.firebase.androidchat:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.firebase.androidchat:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.firebase.androidchat:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.firebase.androidchat:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.firebase.androidchat:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.firebase.androidchat:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.firebase.androidchat:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.firebase.androidchat:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.firebase.androidchat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.firebase.androidchat:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.firebase.androidchat:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.firebase.androidchat:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.firebase.androidchat:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.firebase.androidchat:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.firebase.androidchat:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.firebase.androidchat:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.firebase.androidchat:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.firebase.androidchat:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.firebase.androidchat:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.firebase.androidchat:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.firebase.androidchat:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.firebase.androidchat:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.firebase.androidchat:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.firebase.androidchat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.firebase.androidchat:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background ge.mtredi:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit ge.mtredi:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked ge.mtredi:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd ge.mtredi:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft ge.mtredi:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight ge.mtredi:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart ge.mtredi:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout ge.mtredi:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions ge.mtredi:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider ge.mtredi:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation ge.mtredi:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height ge.mtredi:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll ge.mtredi:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ge.mtredi:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout ge.mtredi:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon ge.mtredi:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ge.mtredi:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding ge.mtredi:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo ge.mtredi:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode ge.mtredi:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme ge.mtredi:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding ge.mtredi:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle ge.mtredi:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle ge.mtredi:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle ge.mtredi:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title ge.mtredi:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle ge.mtredi:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -5767,17 +5797,17 @@ containing a value of this type.
             0x7f01004c, 0x7f01004d, 0x7f010202
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#background}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:background
+          @attr name ge.mtredi:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5785,11 +5815,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:backgroundSplit
+          @attr name ge.mtredi:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5797,11 +5827,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:backgroundStacked
+          @attr name ge.mtredi:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5813,11 +5843,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetEnd
+          @attr name ge.mtredi:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5829,11 +5859,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetLeft
+          @attr name ge.mtredi:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5845,11 +5875,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetRight
+          @attr name ge.mtredi:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5861,21 +5891,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetStart
+          @attr name ge.mtredi:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:customNavigationLayout
+          @attr name ge.mtredi:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5893,21 +5923,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:displayOptions
+          @attr name ge.mtredi:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#divider}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:divider
+          @attr name ge.mtredi:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5919,11 +5949,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:elevation
+          @attr name ge.mtredi:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#height}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5935,11 +5965,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:height
+          @attr name ge.mtredi:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -5949,51 +5979,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:hideOnContentScroll
+          @attr name ge.mtredi:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:homeAsUpIndicator
+          @attr name ge.mtredi:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:homeLayout
+          @attr name ge.mtredi:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#icon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:icon
+          @attr name ge.mtredi:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:indeterminateProgressStyle
+          @attr name ge.mtredi:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6005,21 +6035,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:itemPadding
+          @attr name ge.mtredi:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#logo}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:logo
+          @attr name ge.mtredi:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6033,21 +6063,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:navigationMode
+          @attr name ge.mtredi:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:popupTheme
+          @attr name ge.mtredi:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6059,21 +6089,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:progressBarPadding
+          @attr name ge.mtredi:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:progressBarStyle
+          @attr name ge.mtredi:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6083,21 +6113,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:subtitle
+          @attr name ge.mtredi:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:subtitleTextStyle
+          @attr name ge.mtredi:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#title}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -6107,17 +6137,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:title
+          @attr name ge.mtredi:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:titleTextStyle
+          @attr name ge.mtredi:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -6169,12 +6199,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.firebase.androidchat:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.firebase.androidchat:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.firebase.androidchat:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.firebase.androidchat:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.firebase.androidchat:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.firebase.androidchat:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background ge.mtredi:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit ge.mtredi:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout ge.mtredi:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height ge.mtredi:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle ge.mtredi:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle ge.mtredi:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -6188,17 +6218,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010040, 0x7f01004e
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#background}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:background
+          @attr name ge.mtredi:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -6206,21 +6236,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:backgroundSplit
+          @attr name ge.mtredi:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:closeItemLayout
+          @attr name ge.mtredi:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#height}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -6232,27 +6262,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:height
+          @attr name ge.mtredi:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:subtitleTextStyle
+          @attr name ge.mtredi:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:titleTextStyle
+          @attr name ge.mtredi:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -6261,8 +6291,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.firebase.androidchat:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.firebase.androidchat:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ge.mtredi:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ge.mtredi:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -6271,17 +6301,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01004f, 0x7f010050
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:expandActivityOverflowButtonDrawable
+          @attr name ge.mtredi:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -6291,7 +6321,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:initialActivityCount
+          @attr name ge.mtredi:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -6301,11 +6331,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.firebase.androidchat:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.firebase.androidchat:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.firebase.androidchat:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.firebase.androidchat:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.firebase.androidchat:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ge.mtredi:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout ge.mtredi:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout ge.mtredi:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ge.mtredi:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ge.mtredi:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -6325,53 +6355,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonPanelSideLayout
+          @attr name ge.mtredi:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:listItemLayout
+          @attr name ge.mtredi:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:listLayout
+          @attr name ge.mtredi:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:multiChoiceItemLayout
+          @attr name ge.mtredi:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:singleChoiceItemLayout
+          @attr name ge.mtredi:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -6381,8 +6411,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.firebase.androidchat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.firebase.androidchat:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation ge.mtredi:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded ge.mtredi:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -6398,7 +6428,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6410,11 +6440,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:elevation
+          @attr name ge.mtredi:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expanded}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -6424,7 +6454,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:expanded
+          @attr name ge.mtredi:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayout_LayoutParams.
@@ -6433,8 +6463,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags com.firebase.androidchat:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator com.firebase.androidchat:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags ge.mtredi:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator ge.mtredi:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_LayoutParams_layout_scrollFlags
            @see #AppBarLayout_LayoutParams_layout_scrollInterpolator
@@ -6443,7 +6473,7 @@ containing a value of this type.
             0x7f010057, 0x7f010058
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
@@ -6459,17 +6489,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:layout_scrollFlags
+          @attr name ge.mtredi:layout_scrollFlags
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:layout_scrollInterpolator
+          @attr name ge.mtredi:layout_scrollInterpolator
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatTextView.
@@ -6479,7 +6509,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.firebase.androidchat:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps ge.mtredi:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -6494,14 +6524,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.firebase.androidchat:textAllCaps
+          @attr name ge.mtredi:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6510,7 +6540,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.firebase.androidchat:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking ge.mtredi:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6518,7 +6548,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01005a
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6528,7 +6558,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:allowStacking
+          @attr name ge.mtredi:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6537,17 +6567,17 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.firebase.androidchat:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.firebase.androidchat:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.firebase.androidchat:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.firebase.androidchat:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.firebase.androidchat:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.firebase.androidchat:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.firebase.androidchat:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.firebase.androidchat:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.firebase.androidchat:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.firebase.androidchat:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.firebase.androidchat:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor ge.mtredi:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius ge.mtredi:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation ge.mtredi:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation ge.mtredi:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ge.mtredi:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding ge.mtredi:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding ge.mtredi:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom ge.mtredi:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft ge.mtredi:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight ge.mtredi:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop ge.mtredi:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_cardBackgroundColor
            @see #CardView_cardCornerRadius
@@ -6567,7 +6597,7 @@ containing a value of this type.
             0x7f010063, 0x7f010064, 0x7f010065
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6578,11 +6608,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cardBackgroundColor
+          @attr name ge.mtredi:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6594,11 +6624,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cardCornerRadius
+          @attr name ge.mtredi:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6610,11 +6640,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cardElevation
+          @attr name ge.mtredi:cardElevation
         */
         public static final int CardView_cardElevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6626,11 +6656,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cardMaxElevation
+          @attr name ge.mtredi:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6640,11 +6670,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cardPreventCornerOverlap
+          @attr name ge.mtredi:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6654,11 +6684,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cardUseCompatPadding
+          @attr name ge.mtredi:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6670,11 +6700,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentPadding
+          @attr name ge.mtredi:contentPadding
         */
         public static final int CardView_contentPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6686,11 +6716,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentPaddingBottom
+          @attr name ge.mtredi:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6702,11 +6732,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentPaddingLeft
+          @attr name ge.mtredi:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6718,11 +6748,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentPaddingRight
+          @attr name ge.mtredi:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6734,7 +6764,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentPaddingTop
+          @attr name ge.mtredi:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 9;
         /** Attributes that can be used with a CheckBoxDrawable.
@@ -6743,14 +6773,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_animDuration com.firebase.androidchat:cbd_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_boxSize com.firebase.androidchat:cbd_boxSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_cornerRadius com.firebase.androidchat:cbd_cornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_height com.firebase.androidchat:cbd_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_strokeColor com.firebase.androidchat:cbd_strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_strokeSize com.firebase.androidchat:cbd_strokeSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_tickColor com.firebase.androidchat:cbd_tickColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CheckBoxDrawable_cbd_width com.firebase.androidchat:cbd_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_animDuration ge.mtredi:cbd_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_boxSize ge.mtredi:cbd_boxSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_cornerRadius ge.mtredi:cbd_cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_height ge.mtredi:cbd_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_strokeColor ge.mtredi:cbd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_strokeSize ge.mtredi:cbd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_tickColor ge.mtredi:cbd_tickColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CheckBoxDrawable_cbd_width ge.mtredi:cbd_width}</code></td><td></td></tr>
            </table>
            @see #CheckBoxDrawable_cbd_animDuration
            @see #CheckBoxDrawable_cbd_boxSize
@@ -6766,18 +6796,18 @@ containing a value of this type.
             0x7f01006a, 0x7f01006b, 0x7f01006c, 0x7f01006d
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_animDuration}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cbd_animDuration
+          @attr name ge.mtredi:cbd_animDuration
         */
         public static final int CheckBoxDrawable_cbd_animDuration = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_boxSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_boxSize}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
@@ -6786,11 +6816,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:cbd_boxSize
+          @attr name ge.mtredi:cbd_boxSize
         */
         public static final int CheckBoxDrawable_cbd_boxSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_cornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_cornerRadius}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
@@ -6799,11 +6829,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:cbd_cornerRadius
+          @attr name ge.mtredi:cbd_cornerRadius
         */
         public static final int CheckBoxDrawable_cbd_cornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_height}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_height}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
@@ -6812,11 +6842,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:cbd_height
+          @attr name ge.mtredi:cbd_height
         */
         public static final int CheckBoxDrawable_cbd_height = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_strokeColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_strokeColor}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
@@ -6824,11 +6854,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:cbd_strokeColor
+          @attr name ge.mtredi:cbd_strokeColor
         */
         public static final int CheckBoxDrawable_cbd_strokeColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_strokeSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_strokeSize}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
@@ -6837,11 +6867,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:cbd_strokeSize
+          @attr name ge.mtredi:cbd_strokeSize
         */
         public static final int CheckBoxDrawable_cbd_strokeSize = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_tickColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_tickColor}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
@@ -6849,11 +6879,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:cbd_tickColor
+          @attr name ge.mtredi:cbd_tickColor
         */
         public static final int CheckBoxDrawable_cbd_tickColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cbd_width}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cbd_width}
           attribute's value can be found in the {@link #CheckBoxDrawable} array.
 
 
@@ -6862,7 +6892,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:cbd_width
+          @attr name ge.mtredi:cbd_width
         */
         public static final int CheckBoxDrawable_cbd_width = 0;
         /** Attributes that can be used with a CircularProgressDrawable.
@@ -6871,26 +6901,26 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_inAnimDuration com.firebase.androidchat:cpd_inAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_inStepColors com.firebase.androidchat:cpd_inStepColors}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_inStepPercent com.firebase.androidchat:cpd_inStepPercent}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_initialAngle com.firebase.androidchat:cpd_initialAngle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_keepDuration com.firebase.androidchat:cpd_keepDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_maxSweepAngle com.firebase.androidchat:cpd_maxSweepAngle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_minSweepAngle com.firebase.androidchat:cpd_minSweepAngle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_outAnimDuration com.firebase.androidchat:cpd_outAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_padding com.firebase.androidchat:cpd_padding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_reverse com.firebase.androidchat:cpd_reverse}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_rotateDuration com.firebase.androidchat:cpd_rotateDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeColor com.firebase.androidchat:cpd_strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeColors com.firebase.androidchat:cpd_strokeColors}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeSecondaryColor com.firebase.androidchat:cpd_strokeSecondaryColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeSize com.firebase.androidchat:cpd_strokeSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_transformDuration com.firebase.androidchat:cpd_transformDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_cpd_transformInterpolator com.firebase.androidchat:cpd_transformInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_pv_progress com.firebase.androidchat:pv_progress}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_pv_progressMode com.firebase.androidchat:pv_progressMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressDrawable_pv_secondaryProgress com.firebase.androidchat:pv_secondaryProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_inAnimDuration ge.mtredi:cpd_inAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_inStepColors ge.mtredi:cpd_inStepColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_inStepPercent ge.mtredi:cpd_inStepPercent}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_initialAngle ge.mtredi:cpd_initialAngle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_keepDuration ge.mtredi:cpd_keepDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_maxSweepAngle ge.mtredi:cpd_maxSweepAngle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_minSweepAngle ge.mtredi:cpd_minSweepAngle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_outAnimDuration ge.mtredi:cpd_outAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_padding ge.mtredi:cpd_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_reverse ge.mtredi:cpd_reverse}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_rotateDuration ge.mtredi:cpd_rotateDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeColor ge.mtredi:cpd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeColors ge.mtredi:cpd_strokeColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeSecondaryColor ge.mtredi:cpd_strokeSecondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_strokeSize ge.mtredi:cpd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_transformDuration ge.mtredi:cpd_transformDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_cpd_transformInterpolator ge.mtredi:cpd_transformInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_pv_progress ge.mtredi:pv_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_pv_progressMode ge.mtredi:pv_progressMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressDrawable_pv_secondaryProgress ge.mtredi:pv_secondaryProgress}</code></td><td></td></tr>
            </table>
            @see #CircularProgressDrawable_cpd_inAnimDuration
            @see #CircularProgressDrawable_cpd_inStepColors
@@ -6921,28 +6951,28 @@ in (inches), mm (millimeters).
             0x7f01007b, 0x7f01007c, 0x7f01007d, 0x7f01007e
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_inAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_inAnimDuration}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_inAnimDuration
+          @attr name ge.mtredi:cpd_inAnimDuration
         */
         public static final int CircularProgressDrawable_cpd_inAnimDuration = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_inStepColors}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_inStepColors}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:cpd_inStepColors
+          @attr name ge.mtredi:cpd_inStepColors
         */
         public static final int CircularProgressDrawable_cpd_inStepColors = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_inStepPercent}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_inStepPercent}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -6952,66 +6982,66 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cpd_inStepPercent
+          @attr name ge.mtredi:cpd_inStepPercent
         */
         public static final int CircularProgressDrawable_cpd_inStepPercent = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_initialAngle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_initialAngle}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_initialAngle
+          @attr name ge.mtredi:cpd_initialAngle
         */
         public static final int CircularProgressDrawable_cpd_initialAngle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_keepDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_keepDuration}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_keepDuration
+          @attr name ge.mtredi:cpd_keepDuration
         */
         public static final int CircularProgressDrawable_cpd_keepDuration = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_maxSweepAngle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_maxSweepAngle}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_maxSweepAngle
+          @attr name ge.mtredi:cpd_maxSweepAngle
         */
         public static final int CircularProgressDrawable_cpd_maxSweepAngle = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_minSweepAngle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_minSweepAngle}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_minSweepAngle
+          @attr name ge.mtredi:cpd_minSweepAngle
         */
         public static final int CircularProgressDrawable_cpd_minSweepAngle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_outAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_outAnimDuration}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_outAnimDuration
+          @attr name ge.mtredi:cpd_outAnimDuration
         */
         public static final int CircularProgressDrawable_cpd_outAnimDuration = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_padding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_padding}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7020,11 +7050,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:cpd_padding
+          @attr name ge.mtredi:cpd_padding
         */
         public static final int CircularProgressDrawable_cpd_padding = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_reverse}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_reverse}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7034,22 +7064,22 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:cpd_reverse
+          @attr name ge.mtredi:cpd_reverse
         */
         public static final int CircularProgressDrawable_cpd_reverse = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_rotateDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_rotateDuration}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_rotateDuration
+          @attr name ge.mtredi:cpd_rotateDuration
         */
         public static final int CircularProgressDrawable_cpd_rotateDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_strokeColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_strokeColor}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7057,21 +7087,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:cpd_strokeColor
+          @attr name ge.mtredi:cpd_strokeColor
         */
         public static final int CircularProgressDrawable_cpd_strokeColor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_strokeColors}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_strokeColors}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:cpd_strokeColors
+          @attr name ge.mtredi:cpd_strokeColors
         */
         public static final int CircularProgressDrawable_cpd_strokeColors = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_strokeSecondaryColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_strokeSecondaryColor}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7079,11 +7109,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:cpd_strokeSecondaryColor
+          @attr name ge.mtredi:cpd_strokeSecondaryColor
         */
         public static final int CircularProgressDrawable_cpd_strokeSecondaryColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_strokeSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_strokeSize}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7092,32 +7122,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:cpd_strokeSize
+          @attr name ge.mtredi:cpd_strokeSize
         */
         public static final int CircularProgressDrawable_cpd_strokeSize = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_transformDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_transformDuration}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:cpd_transformDuration
+          @attr name ge.mtredi:cpd_transformDuration
         */
         public static final int CircularProgressDrawable_cpd_transformDuration = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#cpd_transformInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#cpd_transformInterpolator}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:cpd_transformInterpolator
+          @attr name ge.mtredi:cpd_transformInterpolator
         */
         public static final int CircularProgressDrawable_cpd_transformInterpolator = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_progress}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_progress}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7127,11 +7157,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_progress
+          @attr name ge.mtredi:pv_progress
         */
         public static final int CircularProgressDrawable_pv_progress = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_progressMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_progressMode}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7152,11 +7182,11 @@ containing a value of this type.
 <tr><td><code>buffer</code></td><td>0x00000002</td><td></td></tr>
 <tr><td><code>query</code></td><td>0x00000003</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:pv_progressMode
+          @attr name ge.mtredi:pv_progressMode
         */
         public static final int CircularProgressDrawable_pv_progressMode = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_secondaryProgress}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_secondaryProgress}
           attribute's value can be found in the {@link #CircularProgressDrawable} array.
 
 
@@ -7166,7 +7196,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_secondaryProgress
+          @attr name ge.mtredi:pv_secondaryProgress
         */
         public static final int CircularProgressDrawable_pv_secondaryProgress = 2;
         /** Attributes that can be used with a CollapsingAppBarLayout_LayoutParams.
@@ -7175,8 +7205,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode com.firebase.androidchat:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier com.firebase.androidchat:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode ge.mtredi:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier ge.mtredi:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseMode
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
@@ -7185,7 +7215,7 @@ containing a value of this type.
             0x7f01007f, 0x7f010080
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -7199,11 +7229,11 @@ containing a value of this type.
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:layout_collapseMode
+          @attr name ge.mtredi:layout_collapseMode
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -7213,7 +7243,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:layout_collapseParallaxMultiplier
+          @attr name ge.mtredi:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7222,20 +7252,20 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.firebase.androidchat:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.firebase.androidchat:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.firebase.androidchat:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.firebase.androidchat:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.firebase.androidchat:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.firebase.androidchat:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.firebase.androidchat:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.firebase.androidchat:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.firebase.androidchat:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.firebase.androidchat:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.firebase.androidchat:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.firebase.androidchat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.firebase.androidchat:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.firebase.androidchat:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ge.mtredi:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ge.mtredi:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ge.mtredi:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ge.mtredi:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ge.mtredi:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ge.mtredi:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ge.mtredi:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ge.mtredi:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ge.mtredi:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ge.mtredi:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ge.mtredi:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title ge.mtredi:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ge.mtredi:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ge.mtredi:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7259,7 +7289,7 @@ containing a value of this type.
             0x7f01008c, 0x7f01008d
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7280,21 +7310,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:collapsedTitleGravity
+          @attr name ge.mtredi:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:collapsedTitleTextAppearance
+          @attr name ge.mtredi:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7305,11 +7335,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentScrim
+          @attr name ge.mtredi:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7330,11 +7360,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:expandedTitleGravity
+          @attr name ge.mtredi:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7346,11 +7376,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:expandedTitleMargin
+          @attr name ge.mtredi:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7362,11 +7392,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:expandedTitleMarginBottom
+          @attr name ge.mtredi:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7378,11 +7408,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:expandedTitleMarginEnd
+          @attr name ge.mtredi:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7394,11 +7424,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:expandedTitleMarginStart
+          @attr name ge.mtredi:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7410,21 +7440,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:expandedTitleMarginTop
+          @attr name ge.mtredi:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:expandedTitleTextAppearance
+          @attr name ge.mtredi:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7435,11 +7465,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:statusBarScrim
+          @attr name ge.mtredi:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#title}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7449,11 +7479,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:title
+          @attr name ge.mtredi:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7463,17 +7493,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:titleEnabled
+          @attr name ge.mtredi:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:toolbarId
+          @attr name ge.mtredi:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CompoundButton.
@@ -7483,8 +7513,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.firebase.androidchat:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.firebase.androidchat:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint ge.mtredi:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode ge.mtredi:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7500,7 +7530,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7511,11 +7541,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:buttonTint
+          @attr name ge.mtredi:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7531,7 +7561,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:buttonTintMode
+          @attr name ge.mtredi:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7540,8 +7570,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.firebase.androidchat:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.firebase.androidchat:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines ge.mtredi:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ge.mtredi:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7550,23 +7580,23 @@ containing a value of this type.
             0x7f010090, 0x7f010091
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#keylines}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:keylines
+          @attr name ge.mtredi:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:statusBarBackground
+          @attr name ge.mtredi:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_LayoutParams.
@@ -7576,10 +7606,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_LayoutParams_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor com.firebase.androidchat:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity com.firebase.androidchat:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior com.firebase.androidchat:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline com.firebase.androidchat:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor ge.mtredi:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity ge.mtredi:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior ge.mtredi:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline ge.mtredi:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_LayoutParams_android_layout_gravity
            @see #CoordinatorLayout_LayoutParams_layout_anchor
@@ -7598,17 +7628,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_LayoutParams_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:layout_anchor
+          @attr name ge.mtredi:layout_anchor
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -7633,11 +7663,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:layout_anchorGravity
+          @attr name ge.mtredi:layout_anchorGravity
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -7647,11 +7677,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:layout_behavior
+          @attr name ge.mtredi:layout_behavior
         */
         public static final int CoordinatorLayout_LayoutParams_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -7661,7 +7691,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:layout_keyline
+          @attr name ge.mtredi:layout_keyline
         */
         public static final int CoordinatorLayout_LayoutParams_layout_keyline = 3;
         /** Attributes that can be used with a DatePicker.
@@ -7675,26 +7705,26 @@ containing a value of this type.
            <tr><td><code>{@link #DatePicker_android_paddingLeft android:paddingLeft}</code></td><td></td></tr>
            <tr><td><code>{@link #DatePicker_android_paddingRight android:paddingRight}</code></td><td></td></tr>
            <tr><td><code>{@link #DatePicker_android_paddingTop android:paddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_animDuration com.firebase.androidchat:dp_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_day com.firebase.androidchat:dp_day}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_dayMax com.firebase.androidchat:dp_dayMax}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_dayMin com.firebase.androidchat:dp_dayMin}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_dayTextSize com.firebase.androidchat:dp_dayTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_fontFamily com.firebase.androidchat:dp_fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_inInterpolator com.firebase.androidchat:dp_inInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_month com.firebase.androidchat:dp_month}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_monthMax com.firebase.androidchat:dp_monthMax}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_monthMin com.firebase.androidchat:dp_monthMin}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_outInterpolator com.firebase.androidchat:dp_outInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_selectionColor com.firebase.androidchat:dp_selectionColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_textColor com.firebase.androidchat:dp_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_textDisableColor com.firebase.androidchat:dp_textDisableColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_textHighlightColor com.firebase.androidchat:dp_textHighlightColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_textLabelColor com.firebase.androidchat:dp_textLabelColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_textStyle com.firebase.androidchat:dp_textStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_year com.firebase.androidchat:dp_year}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_yearMax com.firebase.androidchat:dp_yearMax}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePicker_dp_yearMin com.firebase.androidchat:dp_yearMin}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_animDuration ge.mtredi:dp_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_day ge.mtredi:dp_day}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_dayMax ge.mtredi:dp_dayMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_dayMin ge.mtredi:dp_dayMin}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_dayTextSize ge.mtredi:dp_dayTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_fontFamily ge.mtredi:dp_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_inInterpolator ge.mtredi:dp_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_month ge.mtredi:dp_month}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_monthMax ge.mtredi:dp_monthMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_monthMin ge.mtredi:dp_monthMin}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_outInterpolator ge.mtredi:dp_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_selectionColor ge.mtredi:dp_selectionColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textColor ge.mtredi:dp_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textDisableColor ge.mtredi:dp_textDisableColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textHighlightColor ge.mtredi:dp_textHighlightColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textLabelColor ge.mtredi:dp_textLabelColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_textStyle ge.mtredi:dp_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_year ge.mtredi:dp_year}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_yearMax ge.mtredi:dp_yearMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePicker_dp_yearMin ge.mtredi:dp_yearMin}</code></td><td></td></tr>
            </table>
            @see #DatePicker_android_padding
            @see #DatePicker_android_paddingBottom
@@ -7762,18 +7792,18 @@ containing a value of this type.
         */
         public static final int DatePicker_android_paddingTop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_animDuration}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:dp_animDuration
+          @attr name ge.mtredi:dp_animDuration
         */
         public static final int DatePicker_dp_animDuration = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_day}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_day}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7783,11 +7813,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_day
+          @attr name ge.mtredi:dp_day
         */
         public static final int DatePicker_dp_day = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_dayMax}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_dayMax}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7797,11 +7827,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_dayMax
+          @attr name ge.mtredi:dp_dayMax
         */
         public static final int DatePicker_dp_dayMax = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_dayMin}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_dayMin}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7811,11 +7841,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_dayMin
+          @attr name ge.mtredi:dp_dayMin
         */
         public static final int DatePicker_dp_dayMin = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_dayTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_dayTextSize}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7824,32 +7854,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:dp_dayTextSize
+          @attr name ge.mtredi:dp_dayTextSize
         */
         public static final int DatePicker_dp_dayTextSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_fontFamily}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_fontFamily}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:dp_fontFamily
+          @attr name ge.mtredi:dp_fontFamily
         */
         public static final int DatePicker_dp_fontFamily = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_inInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_inInterpolator}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dp_inInterpolator
+          @attr name ge.mtredi:dp_inInterpolator
         */
         public static final int DatePicker_dp_inInterpolator = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_month}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_month}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7859,11 +7889,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_month
+          @attr name ge.mtredi:dp_month
         */
         public static final int DatePicker_dp_month = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_monthMax}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_monthMax}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7873,11 +7903,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_monthMax
+          @attr name ge.mtredi:dp_monthMax
         */
         public static final int DatePicker_dp_monthMax = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_monthMin}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_monthMin}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7887,21 +7917,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_monthMin
+          @attr name ge.mtredi:dp_monthMin
         */
         public static final int DatePicker_dp_monthMin = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_outInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_outInterpolator}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dp_outInterpolator
+          @attr name ge.mtredi:dp_outInterpolator
         */
         public static final int DatePicker_dp_outInterpolator = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_selectionColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_selectionColor}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7909,11 +7939,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_selectionColor
+          @attr name ge.mtredi:dp_selectionColor
         */
         public static final int DatePicker_dp_selectionColor = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textColor}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7921,11 +7951,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_textColor
+          @attr name ge.mtredi:dp_textColor
         */
         public static final int DatePicker_dp_textColor = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textDisableColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textDisableColor}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7933,11 +7963,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_textDisableColor
+          @attr name ge.mtredi:dp_textDisableColor
         */
         public static final int DatePicker_dp_textDisableColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textHighlightColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textHighlightColor}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7945,11 +7975,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_textHighlightColor
+          @attr name ge.mtredi:dp_textHighlightColor
         */
         public static final int DatePicker_dp_textHighlightColor = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textLabelColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textLabelColor}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7957,11 +7987,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_textLabelColor
+          @attr name ge.mtredi:dp_textLabelColor
         */
         public static final int DatePicker_dp_textLabelColor = 23;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textStyle}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7982,11 +8012,11 @@ containing a value of this type.
 <tr><td><code>italic</code></td><td>2</td><td></td></tr>
 <tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:dp_textStyle
+          @attr name ge.mtredi:dp_textStyle
         */
         public static final int DatePicker_dp_textStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_year}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_year}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -7996,11 +8026,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_year
+          @attr name ge.mtredi:dp_year
         */
         public static final int DatePicker_dp_year = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_yearMax}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_yearMax}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -8010,11 +8040,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_yearMax
+          @attr name ge.mtredi:dp_yearMax
         */
         public static final int DatePicker_dp_yearMax = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_yearMin}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_yearMin}
           attribute's value can be found in the {@link #DatePicker} array.
 
 
@@ -8024,7 +8054,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_yearMin
+          @attr name ge.mtredi:dp_yearMin
         */
         public static final int DatePicker_dp_yearMin = 21;
         /** Attributes that can be used with a DatePickerDialog.
@@ -8033,13 +8063,13 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryColor com.firebase.androidchat:dp_headerPrimaryColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryHeight com.firebase.androidchat:dp_headerPrimaryHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryTextSize com.firebase.androidchat:dp_headerPrimaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryColor com.firebase.androidchat:dp_headerSecondaryColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryHeight com.firebase.androidchat:dp_headerSecondaryHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryTextSize com.firebase.androidchat:dp_headerSecondaryTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DatePickerDialog_dp_textHeaderColor com.firebase.androidchat:dp_textHeaderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryColor ge.mtredi:dp_headerPrimaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryHeight ge.mtredi:dp_headerPrimaryHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerPrimaryTextSize ge.mtredi:dp_headerPrimaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryColor ge.mtredi:dp_headerSecondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryHeight ge.mtredi:dp_headerSecondaryHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_headerSecondaryTextSize ge.mtredi:dp_headerSecondaryTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DatePickerDialog_dp_textHeaderColor ge.mtredi:dp_textHeaderColor}</code></td><td></td></tr>
            </table>
            @see #DatePickerDialog_dp_headerPrimaryColor
            @see #DatePickerDialog_dp_headerPrimaryHeight
@@ -8054,7 +8084,7 @@ containing a value of this type.
             0x7f01009d, 0x7f01009e, 0x7f01009f
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_headerPrimaryColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_headerPrimaryColor}
           attribute's value can be found in the {@link #DatePickerDialog} array.
 
 
@@ -8062,11 +8092,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_headerPrimaryColor
+          @attr name ge.mtredi:dp_headerPrimaryColor
         */
         public static final int DatePickerDialog_dp_headerPrimaryColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_headerPrimaryHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_headerPrimaryHeight}
           attribute's value can be found in the {@link #DatePickerDialog} array.
 
 
@@ -8075,11 +8105,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:dp_headerPrimaryHeight
+          @attr name ge.mtredi:dp_headerPrimaryHeight
         */
         public static final int DatePickerDialog_dp_headerPrimaryHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_headerPrimaryTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_headerPrimaryTextSize}
           attribute's value can be found in the {@link #DatePickerDialog} array.
 
 
@@ -8088,11 +8118,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:dp_headerPrimaryTextSize
+          @attr name ge.mtredi:dp_headerPrimaryTextSize
         */
         public static final int DatePickerDialog_dp_headerPrimaryTextSize = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_headerSecondaryColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_headerSecondaryColor}
           attribute's value can be found in the {@link #DatePickerDialog} array.
 
 
@@ -8100,11 +8130,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_headerSecondaryColor
+          @attr name ge.mtredi:dp_headerSecondaryColor
         */
         public static final int DatePickerDialog_dp_headerSecondaryColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_headerSecondaryHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_headerSecondaryHeight}
           attribute's value can be found in the {@link #DatePickerDialog} array.
 
 
@@ -8113,11 +8143,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:dp_headerSecondaryHeight
+          @attr name ge.mtredi:dp_headerSecondaryHeight
         */
         public static final int DatePickerDialog_dp_headerSecondaryHeight = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_headerSecondaryTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_headerSecondaryTextSize}
           attribute's value can be found in the {@link #DatePickerDialog} array.
 
 
@@ -8126,11 +8156,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:dp_headerSecondaryTextSize
+          @attr name ge.mtredi:dp_headerSecondaryTextSize
         */
         public static final int DatePickerDialog_dp_headerSecondaryTextSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textHeaderColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textHeaderColor}
           attribute's value can be found in the {@link #DatePickerDialog} array.
 
 
@@ -8138,7 +8168,7 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_textHeaderColor
+          @attr name ge.mtredi:dp_textHeaderColor
         */
         public static final int DatePickerDialog_dp_textHeaderColor = 6;
         /** Attributes that can be used with a Dialog.
@@ -8149,36 +8179,36 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Dialog_android_layout_height android:layout_height}</code></td><td></td></tr>
            <tr><td><code>{@link #Dialog_android_layout_width android:layout_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_actionBackground com.firebase.androidchat:di_actionBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_actionRipple com.firebase.androidchat:di_actionRipple}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_actionTextAppearance com.firebase.androidchat:di_actionTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_actionTextColor com.firebase.androidchat:di_actionTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_backgroundColor com.firebase.androidchat:di_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_cancelable com.firebase.androidchat:di_cancelable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_canceledOnTouchOutside com.firebase.androidchat:di_canceledOnTouchOutside}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_cornerRadius com.firebase.androidchat:di_cornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_dimAmount com.firebase.androidchat:di_dimAmount}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_dividerColor com.firebase.androidchat:di_dividerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_dividerHeight com.firebase.androidchat:di_dividerHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_elevation com.firebase.androidchat:di_elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_inAnimation com.firebase.androidchat:di_inAnimation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_layoutDirection com.firebase.androidchat:di_layoutDirection}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_maxElevation com.firebase.androidchat:di_maxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_negativeActionBackground com.firebase.androidchat:di_negativeActionBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_negativeActionRipple com.firebase.androidchat:di_negativeActionRipple}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_negativeActionTextAppearance com.firebase.androidchat:di_negativeActionTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_negativeActionTextColor com.firebase.androidchat:di_negativeActionTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_neutralActionBackground com.firebase.androidchat:di_neutralActionBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_neutralActionRipple com.firebase.androidchat:di_neutralActionRipple}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_neutralActionTextAppearance com.firebase.androidchat:di_neutralActionTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_neutralActionTextColor com.firebase.androidchat:di_neutralActionTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_outAnimation com.firebase.androidchat:di_outAnimation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_positiveActionBackground com.firebase.androidchat:di_positiveActionBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_positiveActionRipple com.firebase.androidchat:di_positiveActionRipple}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_positiveActionTextAppearance com.firebase.androidchat:di_positiveActionTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_positiveActionTextColor com.firebase.androidchat:di_positiveActionTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_titleTextAppearance com.firebase.androidchat:di_titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Dialog_di_titleTextColor com.firebase.androidchat:di_titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionBackground ge.mtredi:di_actionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionRipple ge.mtredi:di_actionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionTextAppearance ge.mtredi:di_actionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_actionTextColor ge.mtredi:di_actionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_backgroundColor ge.mtredi:di_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_cancelable ge.mtredi:di_cancelable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_canceledOnTouchOutside ge.mtredi:di_canceledOnTouchOutside}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_cornerRadius ge.mtredi:di_cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_dimAmount ge.mtredi:di_dimAmount}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_dividerColor ge.mtredi:di_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_dividerHeight ge.mtredi:di_dividerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_elevation ge.mtredi:di_elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_inAnimation ge.mtredi:di_inAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_layoutDirection ge.mtredi:di_layoutDirection}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_maxElevation ge.mtredi:di_maxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionBackground ge.mtredi:di_negativeActionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionRipple ge.mtredi:di_negativeActionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionTextAppearance ge.mtredi:di_negativeActionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_negativeActionTextColor ge.mtredi:di_negativeActionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionBackground ge.mtredi:di_neutralActionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionRipple ge.mtredi:di_neutralActionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionTextAppearance ge.mtredi:di_neutralActionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_neutralActionTextColor ge.mtredi:di_neutralActionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_outAnimation ge.mtredi:di_outAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionBackground ge.mtredi:di_positiveActionBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionRipple ge.mtredi:di_positiveActionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionTextAppearance ge.mtredi:di_positiveActionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_positiveActionTextColor ge.mtredi:di_positiveActionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_titleTextAppearance ge.mtredi:di_titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Dialog_di_titleTextColor ge.mtredi:di_titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Dialog_android_layout_height
            @see #Dialog_android_layout_width
@@ -8236,37 +8266,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Dialog_android_layout_width = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_actionBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_actionBackground}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_actionBackground
+          @attr name ge.mtredi:di_actionBackground
         */
         public static final int Dialog_di_actionBackground = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_actionRipple}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_actionRipple}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_actionRipple
+          @attr name ge.mtredi:di_actionRipple
         */
         public static final int Dialog_di_actionRipple = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_actionTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_actionTextAppearance}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_actionTextAppearance
+          @attr name ge.mtredi:di_actionTextAppearance
         */
         public static final int Dialog_di_actionTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_actionTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_actionTextColor}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8274,11 +8304,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_actionTextColor
+          @attr name ge.mtredi:di_actionTextColor
         */
         public static final int Dialog_di_actionTextColor = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_backgroundColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_backgroundColor}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8286,11 +8316,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_backgroundColor
+          @attr name ge.mtredi:di_backgroundColor
         */
         public static final int Dialog_di_backgroundColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_cancelable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_cancelable}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8300,11 +8330,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:di_cancelable
+          @attr name ge.mtredi:di_cancelable
         */
         public static final int Dialog_di_cancelable = 30;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_canceledOnTouchOutside}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_canceledOnTouchOutside}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8314,11 +8344,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:di_canceledOnTouchOutside
+          @attr name ge.mtredi:di_canceledOnTouchOutside
         */
         public static final int Dialog_di_canceledOnTouchOutside = 31;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_cornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_cornerRadius}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8327,11 +8357,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:di_cornerRadius
+          @attr name ge.mtredi:di_cornerRadius
         */
         public static final int Dialog_di_cornerRadius = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_dimAmount}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_dimAmount}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8341,11 +8371,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:di_dimAmount
+          @attr name ge.mtredi:di_dimAmount
         */
         public static final int Dialog_di_dimAmount = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_dividerColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_dividerColor}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8353,11 +8383,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_dividerColor
+          @attr name ge.mtredi:di_dividerColor
         */
         public static final int Dialog_di_dividerColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_dividerHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_dividerHeight}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8366,11 +8396,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:di_dividerHeight
+          @attr name ge.mtredi:di_dividerHeight
         */
         public static final int Dialog_di_dividerHeight = 27;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_elevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_elevation}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8379,21 +8409,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:di_elevation
+          @attr name ge.mtredi:di_elevation
         */
         public static final int Dialog_di_elevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_inAnimation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_inAnimation}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_inAnimation
+          @attr name ge.mtredi:di_inAnimation
         */
         public static final int Dialog_di_inAnimation = 28;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_layoutDirection}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_layoutDirection}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8413,11 +8443,11 @@ containing a value of this type.
 <tr><td><code>rtl</code></td><td>1</td><td></td></tr>
 <tr><td><code>locale</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:di_layoutDirection
+          @attr name ge.mtredi:di_layoutDirection
         */
         public static final int Dialog_di_layoutDirection = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_maxElevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_maxElevation}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8426,41 +8456,41 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:di_maxElevation
+          @attr name ge.mtredi:di_maxElevation
         */
         public static final int Dialog_di_maxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_negativeActionBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_negativeActionBackground}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_negativeActionBackground
+          @attr name ge.mtredi:di_negativeActionBackground
         */
         public static final int Dialog_di_negativeActionBackground = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_negativeActionRipple}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_negativeActionRipple}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_negativeActionRipple
+          @attr name ge.mtredi:di_negativeActionRipple
         */
         public static final int Dialog_di_negativeActionRipple = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_negativeActionTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_negativeActionTextAppearance}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_negativeActionTextAppearance
+          @attr name ge.mtredi:di_negativeActionTextAppearance
         */
         public static final int Dialog_di_negativeActionTextAppearance = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_negativeActionTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_negativeActionTextColor}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8468,41 +8498,41 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_negativeActionTextColor
+          @attr name ge.mtredi:di_negativeActionTextColor
         */
         public static final int Dialog_di_negativeActionTextColor = 21;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_neutralActionBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_neutralActionBackground}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_neutralActionBackground
+          @attr name ge.mtredi:di_neutralActionBackground
         */
         public static final int Dialog_di_neutralActionBackground = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_neutralActionRipple}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_neutralActionRipple}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_neutralActionRipple
+          @attr name ge.mtredi:di_neutralActionRipple
         */
         public static final int Dialog_di_neutralActionRipple = 23;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_neutralActionTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_neutralActionTextAppearance}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_neutralActionTextAppearance
+          @attr name ge.mtredi:di_neutralActionTextAppearance
         */
         public static final int Dialog_di_neutralActionTextAppearance = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_neutralActionTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_neutralActionTextColor}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8510,51 +8540,51 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_neutralActionTextColor
+          @attr name ge.mtredi:di_neutralActionTextColor
         */
         public static final int Dialog_di_neutralActionTextColor = 25;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_outAnimation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_outAnimation}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_outAnimation
+          @attr name ge.mtredi:di_outAnimation
         */
         public static final int Dialog_di_outAnimation = 29;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_positiveActionBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_positiveActionBackground}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_positiveActionBackground
+          @attr name ge.mtredi:di_positiveActionBackground
         */
         public static final int Dialog_di_positiveActionBackground = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_positiveActionRipple}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_positiveActionRipple}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_positiveActionRipple
+          @attr name ge.mtredi:di_positiveActionRipple
         */
         public static final int Dialog_di_positiveActionRipple = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_positiveActionTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_positiveActionTextAppearance}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_positiveActionTextAppearance
+          @attr name ge.mtredi:di_positiveActionTextAppearance
         */
         public static final int Dialog_di_positiveActionTextAppearance = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_positiveActionTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_positiveActionTextColor}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8562,21 +8592,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_positiveActionTextColor
+          @attr name ge.mtredi:di_positiveActionTextColor
         */
         public static final int Dialog_di_positiveActionTextColor = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_titleTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_titleTextAppearance}
           attribute's value can be found in the {@link #Dialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_titleTextAppearance
+          @attr name ge.mtredi:di_titleTextAppearance
         */
         public static final int Dialog_di_titleTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_titleTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_titleTextColor}
           attribute's value can be found in the {@link #Dialog} array.
 
 
@@ -8584,7 +8614,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_titleTextColor
+          @attr name ge.mtredi:di_titleTextColor
         */
         public static final int Dialog_di_titleTextColor = 9;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -8593,14 +8623,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.firebase.androidchat:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.firebase.androidchat:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.firebase.androidchat:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.firebase.androidchat:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.firebase.androidchat:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.firebase.androidchat:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.firebase.androidchat:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.firebase.androidchat:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ge.mtredi:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ge.mtredi:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength ge.mtredi:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color ge.mtredi:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ge.mtredi:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ge.mtredi:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars ge.mtredi:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness ge.mtredi:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -8616,7 +8646,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100c2, 0x7f0100c3, 0x7f0100c4, 0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8628,11 +8658,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:arrowHeadLength
+          @attr name ge.mtredi:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8644,11 +8674,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:arrowShaftLength
+          @attr name ge.mtredi:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#barLength}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8660,11 +8690,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:barLength
+          @attr name ge.mtredi:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#color}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8675,11 +8705,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:color
+          @attr name ge.mtredi:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8691,11 +8721,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:drawableSize
+          @attr name ge.mtredi:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8707,11 +8737,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:gapBetweenBars
+          @attr name ge.mtredi:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8721,11 +8751,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:spinBars
+          @attr name ge.mtredi:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#thickness}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8737,7 +8767,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:thickness
+          @attr name ge.mtredi:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a EditText.
@@ -8746,35 +8776,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #EditText_et_autoCompleteMode com.firebase.androidchat:et_autoCompleteMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_dividerAnimDuration com.firebase.androidchat:et_dividerAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_dividerColor com.firebase.androidchat:et_dividerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_dividerCompoundPadding com.firebase.androidchat:et_dividerCompoundPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_dividerErrorColor com.firebase.androidchat:et_dividerErrorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_dividerHeight com.firebase.androidchat:et_dividerHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_dividerPadding com.firebase.androidchat:et_dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_error com.firebase.androidchat:et_error}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_helper com.firebase.androidchat:et_helper}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_inputId com.firebase.androidchat:et_inputId}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelEllipsize com.firebase.androidchat:et_labelEllipsize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelEnable com.firebase.androidchat:et_labelEnable}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelInAnim com.firebase.androidchat:et_labelInAnim}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelOutAnim com.firebase.androidchat:et_labelOutAnim}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelPadding com.firebase.androidchat:et_labelPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelTextAppearance com.firebase.androidchat:et_labelTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelTextColor com.firebase.androidchat:et_labelTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_labelTextSize com.firebase.androidchat:et_labelTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportEllipsize com.firebase.androidchat:et_supportEllipsize}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportLines com.firebase.androidchat:et_supportLines}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportMaxChars com.firebase.androidchat:et_supportMaxChars}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportMaxLines com.firebase.androidchat:et_supportMaxLines}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportMode com.firebase.androidchat:et_supportMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportPadding com.firebase.androidchat:et_supportPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportSingleLine com.firebase.androidchat:et_supportSingleLine}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportTextAppearance com.firebase.androidchat:et_supportTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportTextColor com.firebase.androidchat:et_supportTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportTextErrorColor com.firebase.androidchat:et_supportTextErrorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #EditText_et_supportTextSize com.firebase.androidchat:et_supportTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_autoCompleteMode ge.mtredi:et_autoCompleteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerAnimDuration ge.mtredi:et_dividerAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerColor ge.mtredi:et_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerCompoundPadding ge.mtredi:et_dividerCompoundPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerErrorColor ge.mtredi:et_dividerErrorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerHeight ge.mtredi:et_dividerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_dividerPadding ge.mtredi:et_dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_error ge.mtredi:et_error}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_helper ge.mtredi:et_helper}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_inputId ge.mtredi:et_inputId}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelEllipsize ge.mtredi:et_labelEllipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelEnable ge.mtredi:et_labelEnable}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelInAnim ge.mtredi:et_labelInAnim}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelOutAnim ge.mtredi:et_labelOutAnim}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelPadding ge.mtredi:et_labelPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelTextAppearance ge.mtredi:et_labelTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelTextColor ge.mtredi:et_labelTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_labelTextSize ge.mtredi:et_labelTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportEllipsize ge.mtredi:et_supportEllipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportLines ge.mtredi:et_supportLines}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportMaxChars ge.mtredi:et_supportMaxChars}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportMaxLines ge.mtredi:et_supportMaxLines}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportMode ge.mtredi:et_supportMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportPadding ge.mtredi:et_supportPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportSingleLine ge.mtredi:et_supportSingleLine}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextAppearance ge.mtredi:et_supportTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextColor ge.mtredi:et_supportTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextErrorColor ge.mtredi:et_supportTextErrorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #EditText_et_supportTextSize ge.mtredi:et_supportTextSize}</code></td><td></td></tr>
            </table>
            @see #EditText_et_autoCompleteMode
            @see #EditText_et_dividerAnimDuration
@@ -8817,7 +8847,7 @@ containing a value of this type.
             0x7f0100e2
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_autoCompleteMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_autoCompleteMode}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8837,22 +8867,22 @@ containing a value of this type.
 <tr><td><code>single</code></td><td>1</td><td></td></tr>
 <tr><td><code>multi</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:et_autoCompleteMode
+          @attr name ge.mtredi:et_autoCompleteMode
         */
         public static final int EditText_et_autoCompleteMode = 28;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_dividerAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_dividerAnimDuration}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:et_dividerAnimDuration
+          @attr name ge.mtredi:et_dividerAnimDuration
         */
         public static final int EditText_et_dividerAnimDuration = 26;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_dividerColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_dividerColor}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8860,11 +8890,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:et_dividerColor
+          @attr name ge.mtredi:et_dividerColor
         */
         public static final int EditText_et_dividerColor = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_dividerCompoundPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_dividerCompoundPadding}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8874,11 +8904,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:et_dividerCompoundPadding
+          @attr name ge.mtredi:et_dividerCompoundPadding
         */
         public static final int EditText_et_dividerCompoundPadding = 27;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_dividerErrorColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_dividerErrorColor}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8886,11 +8916,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:et_dividerErrorColor
+          @attr name ge.mtredi:et_dividerErrorColor
         */
         public static final int EditText_et_dividerErrorColor = 23;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_dividerHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_dividerHeight}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8899,11 +8929,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:et_dividerHeight
+          @attr name ge.mtredi:et_dividerHeight
         */
         public static final int EditText_et_dividerHeight = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_dividerPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_dividerPadding}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8912,43 +8942,43 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:et_dividerPadding
+          @attr name ge.mtredi:et_dividerPadding
         */
         public static final int EditText_et_dividerPadding = 25;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_error}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_error}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:et_error
+          @attr name ge.mtredi:et_error
         */
         public static final int EditText_et_error = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_helper}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_helper}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:et_helper
+          @attr name ge.mtredi:et_helper
         */
         public static final int EditText_et_helper = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_inputId}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_inputId}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:et_inputId
+          @attr name ge.mtredi:et_inputId
         */
         public static final int EditText_et_inputId = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelEllipsize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelEllipsize}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8969,11 +8999,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
 <tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:et_labelEllipsize
+          @attr name ge.mtredi:et_labelEllipsize
         */
         public static final int EditText_et_labelEllipsize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelEnable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelEnable}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -8983,31 +9013,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:et_labelEnable
+          @attr name ge.mtredi:et_labelEnable
         */
         public static final int EditText_et_labelEnable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelInAnim}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelInAnim}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:et_labelInAnim
+          @attr name ge.mtredi:et_labelInAnim
         */
         public static final int EditText_et_labelInAnim = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelOutAnim}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelOutAnim}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:et_labelOutAnim
+          @attr name ge.mtredi:et_labelOutAnim
         */
         public static final int EditText_et_labelOutAnim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelPadding}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9016,21 +9046,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:et_labelPadding
+          @attr name ge.mtredi:et_labelPadding
         */
         public static final int EditText_et_labelPadding = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelTextAppearance}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:et_labelTextAppearance
+          @attr name ge.mtredi:et_labelTextAppearance
         */
         public static final int EditText_et_labelTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelTextColor}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9038,11 +9068,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:et_labelTextColor
+          @attr name ge.mtredi:et_labelTextColor
         */
         public static final int EditText_et_labelTextColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_labelTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_labelTextSize}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9051,11 +9081,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:et_labelTextSize
+          @attr name ge.mtredi:et_labelTextSize
         */
         public static final int EditText_et_labelTextSize = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportEllipsize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportEllipsize}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9076,44 +9106,44 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
 <tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:et_supportEllipsize
+          @attr name ge.mtredi:et_supportEllipsize
         */
         public static final int EditText_et_supportEllipsize = 21;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportLines}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportLines}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:et_supportLines
+          @attr name ge.mtredi:et_supportLines
         */
         public static final int EditText_et_supportLines = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportMaxChars}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportMaxChars}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:et_supportMaxChars
+          @attr name ge.mtredi:et_supportMaxChars
         */
         public static final int EditText_et_supportMaxChars = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportMaxLines}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportMaxLines}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:et_supportMaxLines
+          @attr name ge.mtredi:et_supportMaxLines
         */
         public static final int EditText_et_supportMaxLines = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportMode}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9134,11 +9164,11 @@ containing a value of this type.
 <tr><td><code>helperWithError</code></td><td>0x00000002</td><td></td></tr>
 <tr><td><code>charCounter</code></td><td>0x00000003</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:et_supportMode
+          @attr name ge.mtredi:et_supportMode
         */
         public static final int EditText_et_supportMode = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportPadding}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9147,11 +9177,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:et_supportPadding
+          @attr name ge.mtredi:et_supportPadding
         */
         public static final int EditText_et_supportPadding = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportSingleLine}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportSingleLine}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9161,21 +9191,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:et_supportSingleLine
+          @attr name ge.mtredi:et_supportSingleLine
         */
         public static final int EditText_et_supportSingleLine = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportTextAppearance}
           attribute's value can be found in the {@link #EditText} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:et_supportTextAppearance
+          @attr name ge.mtredi:et_supportTextAppearance
         */
         public static final int EditText_et_supportTextAppearance = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportTextColor}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9183,11 +9213,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:et_supportTextColor
+          @attr name ge.mtredi:et_supportTextColor
         */
         public static final int EditText_et_supportTextColor = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportTextErrorColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportTextErrorColor}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9195,11 +9225,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:et_supportTextErrorColor
+          @attr name ge.mtredi:et_supportTextErrorColor
         */
         public static final int EditText_et_supportTextErrorColor = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#et_supportTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#et_supportTextSize}
           attribute's value can be found in the {@link #EditText} array.
 
 
@@ -9208,7 +9238,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:et_supportTextSize
+          @attr name ge.mtredi:et_supportTextSize
         */
         public static final int EditText_et_supportTextSize = 14;
         /** Attributes that can be used with a FloatingActionButton.
@@ -9217,21 +9247,21 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.firebase.androidchat:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.firebase.androidchat:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.firebase.androidchat:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.firebase.androidchat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.firebase.androidchat:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_animDuration com.firebase.androidchat:fab_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_backgroundColor com.firebase.androidchat:fab_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_elevation com.firebase.androidchat:fab_elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_iconLineMorphing com.firebase.androidchat:fab_iconLineMorphing}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_iconSize com.firebase.androidchat:fab_iconSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_iconSrc com.firebase.androidchat:fab_iconSrc}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_interpolator com.firebase.androidchat:fab_interpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_radius com.firebase.androidchat:fab_radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.firebase.androidchat:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.firebase.androidchat:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint ge.mtredi:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ge.mtredi:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth ge.mtredi:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation ge.mtredi:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize ge.mtredi:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_animDuration ge.mtredi:fab_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_backgroundColor ge.mtredi:fab_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_elevation ge.mtredi:fab_elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_iconLineMorphing ge.mtredi:fab_iconLineMorphing}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_iconSize ge.mtredi:fab_iconSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_iconSrc ge.mtredi:fab_iconSrc}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_interpolator ge.mtredi:fab_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_radius ge.mtredi:fab_radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ge.mtredi:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor ge.mtredi:rippleColor}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -9256,7 +9286,7 @@ in (inches), mm (millimeters).
             0x7f0100ee, 0x7f010268, 0x7f010269
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9267,11 +9297,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:backgroundTint
+          @attr name ge.mtredi:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9287,11 +9317,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:backgroundTintMode
+          @attr name ge.mtredi:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9303,11 +9333,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:borderWidth
+          @attr name ge.mtredi:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9319,11 +9349,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:elevation
+          @attr name ge.mtredi:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9336,22 +9366,22 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:fabSize
+          @attr name ge.mtredi:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_animDuration}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:fab_animDuration
+          @attr name ge.mtredi:fab_animDuration
         */
         public static final int FloatingActionButton_fab_animDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_backgroundColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_backgroundColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9359,11 +9389,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:fab_backgroundColor
+          @attr name ge.mtredi:fab_backgroundColor
         */
         public static final int FloatingActionButton_fab_backgroundColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_elevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9372,21 +9402,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:fab_elevation
+          @attr name ge.mtredi:fab_elevation
         */
         public static final int FloatingActionButton_fab_elevation = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_iconLineMorphing}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_iconLineMorphing}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:fab_iconLineMorphing
+          @attr name ge.mtredi:fab_iconLineMorphing
         */
         public static final int FloatingActionButton_fab_iconLineMorphing = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_iconSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_iconSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9395,31 +9425,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:fab_iconSize
+          @attr name ge.mtredi:fab_iconSize
         */
         public static final int FloatingActionButton_fab_iconSize = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_iconSrc}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_iconSrc}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:fab_iconSrc
+          @attr name ge.mtredi:fab_iconSrc
         */
         public static final int FloatingActionButton_fab_iconSrc = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_interpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_interpolator}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:fab_interpolator
+          @attr name ge.mtredi:fab_interpolator
         */
         public static final int FloatingActionButton_fab_interpolator = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#fab_radius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#fab_radius}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9428,11 +9458,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:fab_radius
+          @attr name ge.mtredi:fab_radius
         */
         public static final int FloatingActionButton_fab_radius = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9444,11 +9474,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pressedTranslationZ
+          @attr name ge.mtredi:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -9459,7 +9489,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:rippleColor
+          @attr name ge.mtredi:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -9470,7 +9500,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.firebase.androidchat:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ge.mtredi:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -9492,7 +9522,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -9502,7 +9532,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:foregroundInsidePadding
+          @attr name ge.mtredi:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LineMorphingDrawable.
@@ -9511,21 +9541,21 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_animDuration com.firebase.androidchat:lmd_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_clockwise com.firebase.androidchat:lmd_clockwise}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_curState com.firebase.androidchat:lmd_curState}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_interpolator com.firebase.androidchat:lmd_interpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_layoutDirection com.firebase.androidchat:lmd_layoutDirection}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_padding com.firebase.androidchat:lmd_padding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingBottom com.firebase.androidchat:lmd_paddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingLeft com.firebase.androidchat:lmd_paddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingRight com.firebase.androidchat:lmd_paddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingTop com.firebase.androidchat:lmd_paddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_state com.firebase.androidchat:lmd_state}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeCap com.firebase.androidchat:lmd_strokeCap}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeColor com.firebase.androidchat:lmd_strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeJoin com.firebase.androidchat:lmd_strokeJoin}</code></td><td></td></tr>
-           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeSize com.firebase.androidchat:lmd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_animDuration ge.mtredi:lmd_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_clockwise ge.mtredi:lmd_clockwise}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_curState ge.mtredi:lmd_curState}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_interpolator ge.mtredi:lmd_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_layoutDirection ge.mtredi:lmd_layoutDirection}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_padding ge.mtredi:lmd_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingBottom ge.mtredi:lmd_paddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingLeft ge.mtredi:lmd_paddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingRight ge.mtredi:lmd_paddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_paddingTop ge.mtredi:lmd_paddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_state ge.mtredi:lmd_state}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeCap ge.mtredi:lmd_strokeCap}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeColor ge.mtredi:lmd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeJoin ge.mtredi:lmd_strokeJoin}</code></td><td></td></tr>
+           <tr><td><code>{@link #LineMorphingDrawable_lmd_strokeSize ge.mtredi:lmd_strokeSize}</code></td><td></td></tr>
            </table>
            @see #LineMorphingDrawable_lmd_animDuration
            @see #LineMorphingDrawable_lmd_clockwise
@@ -9550,18 +9580,18 @@ containing a value of this type.
             0x7f0100fc, 0x7f0100fd, 0x7f0100fe
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_animDuration}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:lmd_animDuration
+          @attr name ge.mtredi:lmd_animDuration
         */
         public static final int LineMorphingDrawable_lmd_animDuration = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_clockwise}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_clockwise}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9571,11 +9601,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:lmd_clockwise
+          @attr name ge.mtredi:lmd_clockwise
         */
         public static final int LineMorphingDrawable_lmd_clockwise = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_curState}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_curState}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9585,21 +9615,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:lmd_curState
+          @attr name ge.mtredi:lmd_curState
         */
         public static final int LineMorphingDrawable_lmd_curState = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_interpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_interpolator}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:lmd_interpolator
+          @attr name ge.mtredi:lmd_interpolator
         */
         public static final int LineMorphingDrawable_lmd_interpolator = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_layoutDirection}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_layoutDirection}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9619,11 +9649,11 @@ containing a value of this type.
 <tr><td><code>rtl</code></td><td>0x00000001</td><td></td></tr>
 <tr><td><code>locale</code></td><td>0x00000003</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:lmd_layoutDirection
+          @attr name ge.mtredi:lmd_layoutDirection
         */
         public static final int LineMorphingDrawable_lmd_layoutDirection = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_padding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_padding}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9632,11 +9662,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:lmd_padding
+          @attr name ge.mtredi:lmd_padding
         */
         public static final int LineMorphingDrawable_lmd_padding = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_paddingBottom}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_paddingBottom}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9645,11 +9675,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:lmd_paddingBottom
+          @attr name ge.mtredi:lmd_paddingBottom
         */
         public static final int LineMorphingDrawable_lmd_paddingBottom = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_paddingLeft}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_paddingLeft}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9658,11 +9688,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:lmd_paddingLeft
+          @attr name ge.mtredi:lmd_paddingLeft
         */
         public static final int LineMorphingDrawable_lmd_paddingLeft = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_paddingRight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_paddingRight}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9671,11 +9701,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:lmd_paddingRight
+          @attr name ge.mtredi:lmd_paddingRight
         */
         public static final int LineMorphingDrawable_lmd_paddingRight = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_paddingTop}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_paddingTop}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9684,21 +9714,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:lmd_paddingTop
+          @attr name ge.mtredi:lmd_paddingTop
         */
         public static final int LineMorphingDrawable_lmd_paddingTop = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_state}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_state}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:lmd_state
+          @attr name ge.mtredi:lmd_state
         */
         public static final int LineMorphingDrawable_lmd_state = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_strokeCap}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_strokeCap}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9718,11 +9748,11 @@ containing a value of this type.
 <tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
 <tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:lmd_strokeCap
+          @attr name ge.mtredi:lmd_strokeCap
         */
         public static final int LineMorphingDrawable_lmd_strokeCap = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_strokeColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_strokeColor}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9730,11 +9760,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:lmd_strokeColor
+          @attr name ge.mtredi:lmd_strokeColor
         */
         public static final int LineMorphingDrawable_lmd_strokeColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_strokeJoin}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_strokeJoin}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9754,11 +9784,11 @@ containing a value of this type.
 <tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
 <tr><td><code>bevel</code></td><td>0x00000002</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:lmd_strokeJoin
+          @attr name ge.mtredi:lmd_strokeJoin
         */
         public static final int LineMorphingDrawable_lmd_strokeJoin = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lmd_strokeSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lmd_strokeSize}
           attribute's value can be found in the {@link #LineMorphingDrawable} array.
 
 
@@ -9767,7 +9797,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:lmd_strokeSize
+          @attr name ge.mtredi:lmd_strokeSize
         */
         public static final int LineMorphingDrawable_lmd_strokeSize = 9;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -9781,10 +9811,10 @@ in (inches), mm (millimeters).
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.firebase.androidchat:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.firebase.androidchat:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.firebase.androidchat:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.firebase.androidchat:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider ge.mtredi:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ge.mtredi:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ge.mtredi:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers ge.mtredi:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -9832,17 +9862,17 @@ in (inches), mm (millimeters).
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#divider}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:divider
+          @attr name ge.mtredi:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -9854,11 +9884,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dividerPadding
+          @attr name ge.mtredi:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -9868,11 +9898,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:measureWithLargestChild
+          @attr name ge.mtredi:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -9887,7 +9917,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:showDividers
+          @attr name ge.mtredi:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -9939,23 +9969,23 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_inAnimDuration com.firebase.androidchat:lpd_inAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_keepDuration com.firebase.androidchat:lpd_keepDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_maxLineWidth com.firebase.androidchat:lpd_maxLineWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_minLineWidth com.firebase.androidchat:lpd_minLineWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_outAnimDuration com.firebase.androidchat:lpd_outAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_reverse com.firebase.androidchat:lpd_reverse}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeColor com.firebase.androidchat:lpd_strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeColors com.firebase.androidchat:lpd_strokeColors}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeSecondaryColor com.firebase.androidchat:lpd_strokeSecondaryColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeSize com.firebase.androidchat:lpd_strokeSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_transformDuration com.firebase.androidchat:lpd_transformDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_transformInterpolator com.firebase.androidchat:lpd_transformInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_travelDuration com.firebase.androidchat:lpd_travelDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_lpd_verticalAlign com.firebase.androidchat:lpd_verticalAlign}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_pv_progress com.firebase.androidchat:pv_progress}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_pv_progressMode com.firebase.androidchat:pv_progressMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearProgressDrawable_pv_secondaryProgress com.firebase.androidchat:pv_secondaryProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_inAnimDuration ge.mtredi:lpd_inAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_keepDuration ge.mtredi:lpd_keepDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_maxLineWidth ge.mtredi:lpd_maxLineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_minLineWidth ge.mtredi:lpd_minLineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_outAnimDuration ge.mtredi:lpd_outAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_reverse ge.mtredi:lpd_reverse}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeColor ge.mtredi:lpd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeColors ge.mtredi:lpd_strokeColors}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeSecondaryColor ge.mtredi:lpd_strokeSecondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_strokeSize ge.mtredi:lpd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_transformDuration ge.mtredi:lpd_transformDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_transformInterpolator ge.mtredi:lpd_transformInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_travelDuration ge.mtredi:lpd_travelDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_lpd_verticalAlign ge.mtredi:lpd_verticalAlign}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_pv_progress ge.mtredi:pv_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_pv_progressMode ge.mtredi:pv_progressMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearProgressDrawable_pv_secondaryProgress ge.mtredi:pv_secondaryProgress}</code></td><td></td></tr>
            </table>
            @see #LinearProgressDrawable_lpd_inAnimDuration
            @see #LinearProgressDrawable_lpd_keepDuration
@@ -9983,29 +10013,29 @@ containing a value of this type.
             0x7f01010f
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_inAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_inAnimDuration}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:lpd_inAnimDuration
+          @attr name ge.mtredi:lpd_inAnimDuration
         */
         public static final int LinearProgressDrawable_lpd_inAnimDuration = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_keepDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_keepDuration}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:lpd_keepDuration
+          @attr name ge.mtredi:lpd_keepDuration
         */
         public static final int LinearProgressDrawable_lpd_keepDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_maxLineWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_maxLineWidth}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10017,11 +10047,11 @@ in (inches), mm (millimeters).
 <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
 The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
 some parent container.
-          @attr name com.firebase.androidchat:lpd_maxLineWidth
+          @attr name ge.mtredi:lpd_maxLineWidth
         */
         public static final int LinearProgressDrawable_lpd_maxLineWidth = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_minLineWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_minLineWidth}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10033,22 +10063,22 @@ in (inches), mm (millimeters).
 <p>May be a fractional value, which is a floating point number appended with either % or %p, such as "<code>14.5%</code>".
 The % suffix always means a percentage of the base size; the optional %p suffix provides a size relative to
 some parent container.
-          @attr name com.firebase.androidchat:lpd_minLineWidth
+          @attr name ge.mtredi:lpd_minLineWidth
         */
         public static final int LinearProgressDrawable_lpd_minLineWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_outAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_outAnimDuration}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:lpd_outAnimDuration
+          @attr name ge.mtredi:lpd_outAnimDuration
         */
         public static final int LinearProgressDrawable_lpd_outAnimDuration = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_reverse}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_reverse}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10058,11 +10088,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:lpd_reverse
+          @attr name ge.mtredi:lpd_reverse
         */
         public static final int LinearProgressDrawable_lpd_reverse = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_strokeColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_strokeColor}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10070,21 +10100,21 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:lpd_strokeColor
+          @attr name ge.mtredi:lpd_strokeColor
         */
         public static final int LinearProgressDrawable_lpd_strokeColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_strokeColors}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_strokeColors}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:lpd_strokeColors
+          @attr name ge.mtredi:lpd_strokeColors
         */
         public static final int LinearProgressDrawable_lpd_strokeColors = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_strokeSecondaryColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_strokeSecondaryColor}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10092,11 +10122,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:lpd_strokeSecondaryColor
+          @attr name ge.mtredi:lpd_strokeSecondaryColor
         */
         public static final int LinearProgressDrawable_lpd_strokeSecondaryColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_strokeSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_strokeSize}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10105,43 +10135,43 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:lpd_strokeSize
+          @attr name ge.mtredi:lpd_strokeSize
         */
         public static final int LinearProgressDrawable_lpd_strokeSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_transformDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_transformDuration}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:lpd_transformDuration
+          @attr name ge.mtredi:lpd_transformDuration
         */
         public static final int LinearProgressDrawable_lpd_transformDuration = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_transformInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_transformInterpolator}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:lpd_transformInterpolator
+          @attr name ge.mtredi:lpd_transformInterpolator
         */
         public static final int LinearProgressDrawable_lpd_transformInterpolator = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_travelDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_travelDuration}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:lpd_travelDuration
+          @attr name ge.mtredi:lpd_travelDuration
         */
         public static final int LinearProgressDrawable_lpd_travelDuration = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#lpd_verticalAlign}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#lpd_verticalAlign}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10161,11 +10191,11 @@ containing a value of this type.
 <tr><td><code>center</code></td><td>0x00000001</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x00000002</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:lpd_verticalAlign
+          @attr name ge.mtredi:lpd_verticalAlign
         */
         public static final int LinearProgressDrawable_lpd_verticalAlign = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_progress}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_progress}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10175,11 +10205,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_progress
+          @attr name ge.mtredi:pv_progress
         */
         public static final int LinearProgressDrawable_pv_progress = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_progressMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_progressMode}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10200,11 +10230,11 @@ containing a value of this type.
 <tr><td><code>buffer</code></td><td>0x00000002</td><td></td></tr>
 <tr><td><code>query</code></td><td>0x00000003</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:pv_progressMode
+          @attr name ge.mtredi:pv_progressMode
         */
         public static final int LinearProgressDrawable_pv_progressMode = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_secondaryProgress}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_secondaryProgress}
           attribute's value can be found in the {@link #LinearProgressDrawable} array.
 
 
@@ -10214,7 +10244,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_secondaryProgress
+          @attr name ge.mtredi:pv_secondaryProgress
         */
         public static final int LinearProgressDrawable_pv_secondaryProgress = 2;
         /** Attributes that can be used with a ListPopupWindow.
@@ -10250,9 +10280,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.firebase.androidchat:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.firebase.androidchat:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.firebase.androidchat:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop ge.mtredi:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio ge.mtredi:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust ge.mtredi:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -10262,7 +10292,7 @@ containing a value of this type.
             0x7f010110, 0x7f010111, 0x7f010112
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -10272,11 +10302,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:circleCrop
+          @attr name ge.mtredi:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -10286,11 +10316,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:imageAspectRatio
+          @attr name ge.mtredi:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -10304,7 +10334,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:imageAspectRatioAdjust
+          @attr name ge.mtredi:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MDRootLayout.
@@ -10313,7 +10343,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MDRootLayout_md_reduce_padding_no_title_no_buttons com.firebase.androidchat:md_reduce_padding_no_title_no_buttons}</code></td><td></td></tr>
+           <tr><td><code>{@link #MDRootLayout_md_reduce_padding_no_title_no_buttons ge.mtredi:md_reduce_padding_no_title_no_buttons}</code></td><td></td></tr>
            </table>
            @see #MDRootLayout_md_reduce_padding_no_title_no_buttons
          */
@@ -10321,7 +10351,7 @@ containing a value of this type.
             0x7f010113
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#md_reduce_padding_no_title_no_buttons}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#md_reduce_padding_no_title_no_buttons}
           attribute's value can be found in the {@link #MDRootLayout} array.
 
 
@@ -10331,7 +10361,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:md_reduce_padding_no_title_no_buttons
+          @attr name ge.mtredi:md_reduce_padding_no_title_no_buttons
         */
         public static final int MDRootLayout_md_reduce_padding_no_title_no_buttons = 0;
         /** Attributes that can be used with a MaterialProgressBar.
@@ -10341,11 +10371,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MaterialProgressBar_android_tint android:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialProgressBar_mpb_progressStyle com.firebase.androidchat:mpb_progressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialProgressBar_mpb_setBothDrawables com.firebase.androidchat:mpb_setBothDrawables}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialProgressBar_mpb_showTrack com.firebase.androidchat:mpb_showTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialProgressBar_mpb_tintMode com.firebase.androidchat:mpb_tintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MaterialProgressBar_mpb_useIntrinsicPadding com.firebase.androidchat:mpb_useIntrinsicPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialProgressBar_mpb_progressStyle ge.mtredi:mpb_progressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialProgressBar_mpb_setBothDrawables ge.mtredi:mpb_setBothDrawables}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialProgressBar_mpb_showTrack ge.mtredi:mpb_showTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialProgressBar_mpb_tintMode ge.mtredi:mpb_tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MaterialProgressBar_mpb_useIntrinsicPadding ge.mtredi:mpb_useIntrinsicPadding}</code></td><td></td></tr>
            </table>
            @see #MaterialProgressBar_android_tint
            @see #MaterialProgressBar_mpb_progressStyle
@@ -10365,7 +10395,7 @@ containing a value of this type.
         */
         public static final int MaterialProgressBar_android_tint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#mpb_progressStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#mpb_progressStyle}
           attribute's value can be found in the {@link #MaterialProgressBar} array.
 
 
@@ -10378,11 +10408,11 @@ containing a value of this type.
 <tr><td><code>circular</code></td><td>0</td><td></td></tr>
 <tr><td><code>horizontal</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:mpb_progressStyle
+          @attr name ge.mtredi:mpb_progressStyle
         */
         public static final int MaterialProgressBar_mpb_progressStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#mpb_setBothDrawables}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#mpb_setBothDrawables}
           attribute's value can be found in the {@link #MaterialProgressBar} array.
 
 
@@ -10392,11 +10422,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:mpb_setBothDrawables
+          @attr name ge.mtredi:mpb_setBothDrawables
         */
         public static final int MaterialProgressBar_mpb_setBothDrawables = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#mpb_showTrack}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#mpb_showTrack}
           attribute's value can be found in the {@link #MaterialProgressBar} array.
 
 
@@ -10406,11 +10436,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:mpb_showTrack
+          @attr name ge.mtredi:mpb_showTrack
         */
         public static final int MaterialProgressBar_mpb_showTrack = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#mpb_tintMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#mpb_tintMode}
           attribute's value can be found in the {@link #MaterialProgressBar} array.
 
 
@@ -10427,11 +10457,11 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:mpb_tintMode
+          @attr name ge.mtredi:mpb_tintMode
         */
         public static final int MaterialProgressBar_mpb_tintMode = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#mpb_useIntrinsicPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#mpb_useIntrinsicPadding}
           attribute's value can be found in the {@link #MaterialProgressBar} array.
 
 
@@ -10441,7 +10471,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:mpb_useIntrinsicPadding
+          @attr name ge.mtredi:mpb_useIntrinsicPadding
         */
         public static final int MaterialProgressBar_mpb_useIntrinsicPadding = 3;
         /** Attributes that can be used with a MenuGroup.
@@ -10510,9 +10540,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.firebase.androidchat:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.firebase.androidchat:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.firebase.androidchat:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout ge.mtredi:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass ge.mtredi:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass ge.mtredi:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -10526,7 +10556,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.firebase.androidchat:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction ge.mtredi:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -10554,17 +10584,17 @@ containing a value of this type.
             0x7f01011c
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionLayout
+          @attr name ge.mtredi:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10574,11 +10604,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:actionProviderClass
+          @attr name ge.mtredi:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10588,7 +10618,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:actionViewClass
+          @attr name ge.mtredi:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -10670,7 +10700,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -10686,7 +10716,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:showAsAction
+          @attr name ge.mtredi:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -10702,7 +10732,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.firebase.androidchat:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing ge.mtredi:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -10760,7 +10790,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -10770,7 +10800,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:preserveIconSpacing
+          @attr name ge.mtredi:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a NavigationDrawerDrawable.
@@ -10779,8 +10809,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #NavigationDrawerDrawable_nd_icon com.firebase.androidchat:nd_icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationDrawerDrawable_nd_ripple com.firebase.androidchat:nd_ripple}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationDrawerDrawable_nd_icon ge.mtredi:nd_icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationDrawerDrawable_nd_ripple ge.mtredi:nd_ripple}</code></td><td></td></tr>
            </table>
            @see #NavigationDrawerDrawable_nd_icon
            @see #NavigationDrawerDrawable_nd_ripple
@@ -10789,23 +10819,23 @@ containing a value of this type.
             0x7f01011e, 0x7f01011f
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#nd_icon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#nd_icon}
           attribute's value can be found in the {@link #NavigationDrawerDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:nd_icon
+          @attr name ge.mtredi:nd_icon
         */
         public static final int NavigationDrawerDrawable_nd_icon = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#nd_ripple}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#nd_ripple}
           attribute's value can be found in the {@link #NavigationDrawerDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:nd_ripple
+          @attr name ge.mtredi:nd_ripple
         */
         public static final int NavigationDrawerDrawable_nd_ripple = 0;
         /** Attributes that can be used with a NavigationView.
@@ -10817,13 +10847,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.firebase.androidchat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.firebase.androidchat:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.firebase.androidchat:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.firebase.androidchat:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.firebase.androidchat:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.firebase.androidchat:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.firebase.androidchat:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation ge.mtredi:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout ge.mtredi:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground ge.mtredi:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint ge.mtredi:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance ge.mtredi:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor ge.mtredi:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu ge.mtredi:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -10860,7 +10890,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -10872,31 +10902,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:elevation
+          @attr name ge.mtredi:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:headerLayout
+          @attr name ge.mtredi:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:itemBackground
+          @attr name ge.mtredi:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -10907,21 +10937,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:itemIconTint
+          @attr name ge.mtredi:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:itemTextAppearance
+          @attr name ge.mtredi:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -10932,17 +10962,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:itemTextColor
+          @attr name ge.mtredi:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#menu}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:menu
+          @attr name ge.mtredi:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -10952,7 +10982,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.firebase.androidchat:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor ge.mtredi:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -10967,7 +10997,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -10977,7 +11007,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:overlapAnchor
+          @attr name ge.mtredi:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -10986,7 +11016,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.firebase.androidchat:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ge.mtredi:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -10994,7 +11024,7 @@ containing a value of this type.
             0x7f010127
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -11004,7 +11034,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:state_above_anchor
+          @attr name ge.mtredi:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a Preference.
@@ -11013,7 +11043,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Preference_useStockLayout com.firebase.androidchat:useStockLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #Preference_useStockLayout ge.mtredi:useStockLayout}</code></td><td></td></tr>
            </table>
            @see #Preference_useStockLayout
          */
@@ -11021,7 +11051,7 @@ containing a value of this type.
             0x7f010128
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#useStockLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#useStockLayout}
           attribute's value can be found in the {@link #Preference} array.
 
 
@@ -11031,7 +11061,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:useStockLayout
+          @attr name ge.mtredi:useStockLayout
         */
         public static final int Preference_useStockLayout = 0;
         /** Attributes that can be used with a ProgressView.
@@ -11040,12 +11070,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ProgressView_pv_autostart com.firebase.androidchat:pv_autostart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressView_pv_circular com.firebase.androidchat:pv_circular}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressView_pv_progress com.firebase.androidchat:pv_progress}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressView_pv_progressMode com.firebase.androidchat:pv_progressMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressView_pv_progressStyle com.firebase.androidchat:pv_progressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ProgressView_pv_secondaryProgress com.firebase.androidchat:pv_secondaryProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_autostart ge.mtredi:pv_autostart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_circular ge.mtredi:pv_circular}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_progress ge.mtredi:pv_progress}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_progressMode ge.mtredi:pv_progressMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_progressStyle ge.mtredi:pv_progressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ProgressView_pv_secondaryProgress ge.mtredi:pv_secondaryProgress}</code></td><td></td></tr>
            </table>
            @see #ProgressView_pv_autostart
            @see #ProgressView_pv_circular
@@ -11059,7 +11089,7 @@ containing a value of this type.
             0x7f01012a, 0x7f01012b
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_autostart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_autostart}
           attribute's value can be found in the {@link #ProgressView} array.
 
 
@@ -11069,11 +11099,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_autostart
+          @attr name ge.mtredi:pv_autostart
         */
         public static final int ProgressView_pv_autostart = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_circular}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_circular}
           attribute's value can be found in the {@link #ProgressView} array.
 
 
@@ -11083,11 +11113,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_circular
+          @attr name ge.mtredi:pv_circular
         */
         public static final int ProgressView_pv_circular = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_progress}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_progress}
           attribute's value can be found in the {@link #ProgressView} array.
 
 
@@ -11097,11 +11127,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_progress
+          @attr name ge.mtredi:pv_progress
         */
         public static final int ProgressView_pv_progress = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_progressMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_progressMode}
           attribute's value can be found in the {@link #ProgressView} array.
 
 
@@ -11122,21 +11152,21 @@ containing a value of this type.
 <tr><td><code>buffer</code></td><td>0x00000002</td><td></td></tr>
 <tr><td><code>query</code></td><td>0x00000003</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:pv_progressMode
+          @attr name ge.mtredi:pv_progressMode
         */
         public static final int ProgressView_pv_progressMode = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_progressStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_progressStyle}
           attribute's value can be found in the {@link #ProgressView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:pv_progressStyle
+          @attr name ge.mtredi:pv_progressStyle
         */
         public static final int ProgressView_pv_progressStyle = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#pv_secondaryProgress}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#pv_secondaryProgress}
           attribute's value can be found in the {@link #ProgressView} array.
 
 
@@ -11146,7 +11176,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:pv_secondaryProgress
+          @attr name ge.mtredi:pv_secondaryProgress
         */
         public static final int ProgressView_pv_secondaryProgress = 2;
         /** Attributes that can be used with a RadioButtonDrawable.
@@ -11155,13 +11185,13 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RadioButtonDrawable_rbd_animDuration com.firebase.androidchat:rbd_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #RadioButtonDrawable_rbd_height com.firebase.androidchat:rbd_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #RadioButtonDrawable_rbd_innerRadius com.firebase.androidchat:rbd_innerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RadioButtonDrawable_rbd_radius com.firebase.androidchat:rbd_radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RadioButtonDrawable_rbd_strokeColor com.firebase.androidchat:rbd_strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #RadioButtonDrawable_rbd_strokeSize com.firebase.androidchat:rbd_strokeSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #RadioButtonDrawable_rbd_width com.firebase.androidchat:rbd_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_animDuration ge.mtredi:rbd_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_height ge.mtredi:rbd_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_innerRadius ge.mtredi:rbd_innerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_radius ge.mtredi:rbd_radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_strokeColor ge.mtredi:rbd_strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_strokeSize ge.mtredi:rbd_strokeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #RadioButtonDrawable_rbd_width ge.mtredi:rbd_width}</code></td><td></td></tr>
            </table>
            @see #RadioButtonDrawable_rbd_animDuration
            @see #RadioButtonDrawable_rbd_height
@@ -11176,18 +11206,18 @@ containing a value of this type.
             0x7f010130, 0x7f010131, 0x7f010132
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rbd_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rbd_animDuration}
           attribute's value can be found in the {@link #RadioButtonDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:rbd_animDuration
+          @attr name ge.mtredi:rbd_animDuration
         */
         public static final int RadioButtonDrawable_rbd_animDuration = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rbd_height}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rbd_height}
           attribute's value can be found in the {@link #RadioButtonDrawable} array.
 
 
@@ -11196,11 +11226,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rbd_height
+          @attr name ge.mtredi:rbd_height
         */
         public static final int RadioButtonDrawable_rbd_height = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rbd_innerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rbd_innerRadius}
           attribute's value can be found in the {@link #RadioButtonDrawable} array.
 
 
@@ -11209,11 +11239,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rbd_innerRadius
+          @attr name ge.mtredi:rbd_innerRadius
         */
         public static final int RadioButtonDrawable_rbd_innerRadius = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rbd_radius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rbd_radius}
           attribute's value can be found in the {@link #RadioButtonDrawable} array.
 
 
@@ -11222,11 +11252,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rbd_radius
+          @attr name ge.mtredi:rbd_radius
         */
         public static final int RadioButtonDrawable_rbd_radius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rbd_strokeColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rbd_strokeColor}
           attribute's value can be found in the {@link #RadioButtonDrawable} array.
 
 
@@ -11234,11 +11264,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:rbd_strokeColor
+          @attr name ge.mtredi:rbd_strokeColor
         */
         public static final int RadioButtonDrawable_rbd_strokeColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rbd_strokeSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rbd_strokeSize}
           attribute's value can be found in the {@link #RadioButtonDrawable} array.
 
 
@@ -11247,11 +11277,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rbd_strokeSize
+          @attr name ge.mtredi:rbd_strokeSize
         */
         public static final int RadioButtonDrawable_rbd_strokeSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rbd_width}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rbd_width}
           attribute's value can be found in the {@link #RadioButtonDrawable} array.
 
 
@@ -11260,7 +11290,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rbd_width
+          @attr name ge.mtredi:rbd_width
         */
         public static final int RadioButtonDrawable_rbd_width = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -11270,10 +11300,10 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.firebase.androidchat:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.firebase.androidchat:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.firebase.androidchat:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.firebase.androidchat:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager ge.mtredi:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout ge.mtredi:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount ge.mtredi:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd ge.mtredi:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -11292,7 +11322,7 @@ in (inches), mm (millimeters).
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11302,11 +11332,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:layoutManager
+          @attr name ge.mtredi:layoutManager
         */
         public static final int RecyclerView_layoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11316,11 +11346,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:reverseLayout
+          @attr name ge.mtredi:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11330,11 +11360,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:spanCount
+          @attr name ge.mtredi:spanCount
         */
         public static final int RecyclerView_spanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -11344,7 +11374,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:stackFromEnd
+          @attr name ge.mtredi:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a RippleDrawable.
@@ -11353,26 +11383,26 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_backgroundAnimDuration com.firebase.androidchat:rd_backgroundAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_backgroundColor com.firebase.androidchat:rd_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_bottomLeftCornerRadius com.firebase.androidchat:rd_bottomLeftCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_bottomPadding com.firebase.androidchat:rd_bottomPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_bottomRightCornerRadius com.firebase.androidchat:rd_bottomRightCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_cornerRadius com.firebase.androidchat:rd_cornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_delayClick com.firebase.androidchat:rd_delayClick}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_inInterpolator com.firebase.androidchat:rd_inInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_leftPadding com.firebase.androidchat:rd_leftPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_maskType com.firebase.androidchat:rd_maskType}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_maxRippleRadius com.firebase.androidchat:rd_maxRippleRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_outInterpolator com.firebase.androidchat:rd_outInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_padding com.firebase.androidchat:rd_padding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_rightPadding com.firebase.androidchat:rd_rightPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_rippleAnimDuration com.firebase.androidchat:rd_rippleAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_rippleColor com.firebase.androidchat:rd_rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_rippleType com.firebase.androidchat:rd_rippleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_topLeftCornerRadius com.firebase.androidchat:rd_topLeftCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_topPadding com.firebase.androidchat:rd_topPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleDrawable_rd_topRightCornerRadius com.firebase.androidchat:rd_topRightCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_backgroundAnimDuration ge.mtredi:rd_backgroundAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_backgroundColor ge.mtredi:rd_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_bottomLeftCornerRadius ge.mtredi:rd_bottomLeftCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_bottomPadding ge.mtredi:rd_bottomPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_bottomRightCornerRadius ge.mtredi:rd_bottomRightCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_cornerRadius ge.mtredi:rd_cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_delayClick ge.mtredi:rd_delayClick}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_inInterpolator ge.mtredi:rd_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_leftPadding ge.mtredi:rd_leftPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_maskType ge.mtredi:rd_maskType}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_maxRippleRadius ge.mtredi:rd_maxRippleRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_outInterpolator ge.mtredi:rd_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_padding ge.mtredi:rd_padding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rightPadding ge.mtredi:rd_rightPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rippleAnimDuration ge.mtredi:rd_rippleAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rippleColor ge.mtredi:rd_rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_rippleType ge.mtredi:rd_rippleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_topLeftCornerRadius ge.mtredi:rd_topLeftCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_topPadding ge.mtredi:rd_topPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleDrawable_rd_topRightCornerRadius ge.mtredi:rd_topRightCornerRadius}</code></td><td></td></tr>
            </table>
            @see #RippleDrawable_rd_backgroundAnimDuration
            @see #RippleDrawable_rd_backgroundColor
@@ -11403,18 +11433,18 @@ containing a value of this type.
             0x7f010147, 0x7f010148, 0x7f010149, 0x7f01014a
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_backgroundAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_backgroundAnimDuration}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:rd_backgroundAnimDuration
+          @attr name ge.mtredi:rd_backgroundAnimDuration
         */
         public static final int RippleDrawable_rd_backgroundAnimDuration = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_backgroundColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_backgroundColor}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11422,11 +11452,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:rd_backgroundColor
+          @attr name ge.mtredi:rd_backgroundColor
         */
         public static final int RippleDrawable_rd_backgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_bottomLeftCornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_bottomLeftCornerRadius}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11435,11 +11465,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_bottomLeftCornerRadius
+          @attr name ge.mtredi:rd_bottomLeftCornerRadius
         */
         public static final int RippleDrawable_rd_bottomLeftCornerRadius = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_bottomPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_bottomPadding}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11448,11 +11478,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_bottomPadding
+          @attr name ge.mtredi:rd_bottomPadding
         */
         public static final int RippleDrawable_rd_bottomPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_bottomRightCornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_bottomRightCornerRadius}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11461,11 +11491,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_bottomRightCornerRadius
+          @attr name ge.mtredi:rd_bottomRightCornerRadius
         */
         public static final int RippleDrawable_rd_bottomRightCornerRadius = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_cornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_cornerRadius}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11474,11 +11504,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_cornerRadius
+          @attr name ge.mtredi:rd_cornerRadius
         */
         public static final int RippleDrawable_rd_cornerRadius = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_delayClick}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_delayClick}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11498,21 +11528,21 @@ containing a value of this type.
 <tr><td><code>untilRelease</code></td><td>0x00000001</td><td></td></tr>
 <tr><td><code>afterRelease</code></td><td>0x00000002</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:rd_delayClick
+          @attr name ge.mtredi:rd_delayClick
         */
         public static final int RippleDrawable_rd_delayClick = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_inInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_inInterpolator}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:rd_inInterpolator
+          @attr name ge.mtredi:rd_inInterpolator
         */
         public static final int RippleDrawable_rd_inInterpolator = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_leftPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_leftPadding}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11521,11 +11551,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_leftPadding
+          @attr name ge.mtredi:rd_leftPadding
         */
         public static final int RippleDrawable_rd_leftPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_maskType}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_maskType}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11544,11 +11574,11 @@ containing a value of this type.
 <tr><td><code>rectangle</code></td><td>0x00000000</td><td></td></tr>
 <tr><td><code>oval</code></td><td>0x00000001</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:rd_maskType
+          @attr name ge.mtredi:rd_maskType
         */
         public static final int RippleDrawable_rd_maskType = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_maxRippleRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_maxRippleRadius}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11566,21 +11596,21 @@ in (inches), mm (millimeters).
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>match_view</code></td><td>0x00000000</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:rd_maxRippleRadius
+          @attr name ge.mtredi:rd_maxRippleRadius
         */
         public static final int RippleDrawable_rd_maxRippleRadius = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_outInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_outInterpolator}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:rd_outInterpolator
+          @attr name ge.mtredi:rd_outInterpolator
         */
         public static final int RippleDrawable_rd_outInterpolator = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_padding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_padding}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11589,11 +11619,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_padding
+          @attr name ge.mtredi:rd_padding
         */
         public static final int RippleDrawable_rd_padding = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_rightPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_rightPadding}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11602,22 +11632,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_rightPadding
+          @attr name ge.mtredi:rd_rightPadding
         */
         public static final int RippleDrawable_rd_rightPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_rippleAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_rippleAnimDuration}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:rd_rippleAnimDuration
+          @attr name ge.mtredi:rd_rippleAnimDuration
         */
         public static final int RippleDrawable_rd_rippleAnimDuration = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_rippleColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_rippleColor}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11625,11 +11655,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:rd_rippleColor
+          @attr name ge.mtredi:rd_rippleColor
         */
         public static final int RippleDrawable_rd_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_rippleType}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_rippleType}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11648,11 +11678,11 @@ containing a value of this type.
 <tr><td><code>touch</code></td><td>0x00000000</td><td></td></tr>
 <tr><td><code>wave</code></td><td>0x00000001</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:rd_rippleType
+          @attr name ge.mtredi:rd_rippleType
         */
         public static final int RippleDrawable_rd_rippleType = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_topLeftCornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_topLeftCornerRadius}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11661,11 +11691,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_topLeftCornerRadius
+          @attr name ge.mtredi:rd_topLeftCornerRadius
         */
         public static final int RippleDrawable_rd_topLeftCornerRadius = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_topPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_topPadding}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11674,11 +11704,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_topPadding
+          @attr name ge.mtredi:rd_topPadding
         */
         public static final int RippleDrawable_rd_topPadding = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_topRightCornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_topRightCornerRadius}
           attribute's value can be found in the {@link #RippleDrawable} array.
 
 
@@ -11687,7 +11717,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:rd_topRightCornerRadius
+          @attr name ge.mtredi:rd_topRightCornerRadius
         */
         public static final int RippleDrawable_rd_topRightCornerRadius = 11;
         /** Attributes that can be used with a RippleView.
@@ -11696,8 +11726,8 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RippleView_rd_enable com.firebase.androidchat:rd_enable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleView_rd_style com.firebase.androidchat:rd_style}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleView_rd_enable ge.mtredi:rd_enable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RippleView_rd_style ge.mtredi:rd_style}</code></td><td></td></tr>
            </table>
            @see #RippleView_rd_enable
            @see #RippleView_rd_style
@@ -11706,7 +11736,7 @@ in (inches), mm (millimeters).
             0x7f010033, 0x7f010034
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_enable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_enable}
           attribute's value can be found in the {@link #RippleView} array.
 
 
@@ -11716,17 +11746,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:rd_enable
+          @attr name ge.mtredi:rd_enable
         */
         public static final int RippleView_rd_enable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#rd_style}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#rd_style}
           attribute's value can be found in the {@link #RippleView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:rd_style
+          @attr name ge.mtredi:rd_style
         */
         public static final int RippleView_rd_style = 1;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -11735,7 +11765,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.firebase.androidchat:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ge.mtredi:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -11743,7 +11773,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01014b
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -11751,7 +11781,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:insetForeground
+          @attr name ge.mtredi:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Params.
@@ -11760,7 +11790,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop com.firebase.androidchat:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop ge.mtredi:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Params_behavior_overlapTop
          */
@@ -11768,7 +11798,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01014c
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
 
 
@@ -11780,7 +11810,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:behavior_overlapTop
+          @attr name ge.mtredi:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Params_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -11793,19 +11823,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.firebase.androidchat:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.firebase.androidchat:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.firebase.androidchat:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.firebase.androidchat:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.firebase.androidchat:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.firebase.androidchat:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.firebase.androidchat:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.firebase.androidchat:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.firebase.androidchat:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.firebase.androidchat:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.firebase.androidchat:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.firebase.androidchat:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.firebase.androidchat:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon ge.mtredi:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon ge.mtredi:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint ge.mtredi:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon ge.mtredi:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault ge.mtredi:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout ge.mtredi:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground ge.mtredi:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint ge.mtredi:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon ge.mtredi:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon ge.mtredi:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground ge.mtredi:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout ge.mtredi:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon ge.mtredi:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -11857,27 +11887,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:closeIcon
+          @attr name ge.mtredi:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:commitIcon
+          @attr name ge.mtredi:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11887,21 +11917,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:defaultQueryHint
+          @attr name ge.mtredi:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:goIcon
+          @attr name ge.mtredi:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11911,31 +11941,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:iconifiedByDefault
+          @attr name ge.mtredi:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#layout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:layout
+          @attr name ge.mtredi:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:queryBackground
+          @attr name ge.mtredi:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -11945,57 +11975,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:queryHint
+          @attr name ge.mtredi:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:searchHintIcon
+          @attr name ge.mtredi:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:searchIcon
+          @attr name ge.mtredi:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:submitBackground
+          @attr name ge.mtredi:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:suggestionRowLayout
+          @attr name ge.mtredi:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:voiceIcon
+          @attr name ge.mtredi:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SignInButton.
@@ -12004,9 +12034,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize com.firebase.androidchat:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme com.firebase.androidchat:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris com.firebase.androidchat:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize ge.mtredi:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme ge.mtredi:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris ge.mtredi:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -12016,7 +12046,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01015a, 0x7f01015b, 0x7f01015c
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -12032,11 +12062,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:buttonSize
+          @attr name ge.mtredi:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -12052,18 +12082,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:colorScheme
+          @attr name ge.mtredi:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:scopeUris
+          @attr name ge.mtredi:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a SimpleDialog.
@@ -12072,12 +12102,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SimpleDialog_di_checkBoxStyle com.firebase.androidchat:di_checkBoxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #SimpleDialog_di_itemHeight com.firebase.androidchat:di_itemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #SimpleDialog_di_itemTextAppearance com.firebase.androidchat:di_itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SimpleDialog_di_messageTextAppearance com.firebase.androidchat:di_messageTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SimpleDialog_di_messageTextColor com.firebase.androidchat:di_messageTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SimpleDialog_di_radioButtonStyle com.firebase.androidchat:di_radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_checkBoxStyle ge.mtredi:di_checkBoxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_itemHeight ge.mtredi:di_itemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_itemTextAppearance ge.mtredi:di_itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_messageTextAppearance ge.mtredi:di_messageTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_messageTextColor ge.mtredi:di_messageTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDialog_di_radioButtonStyle ge.mtredi:di_radioButtonStyle}</code></td><td></td></tr>
            </table>
            @see #SimpleDialog_di_checkBoxStyle
            @see #SimpleDialog_di_itemHeight
@@ -12091,17 +12121,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010161, 0x7f010162
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_checkBoxStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_checkBoxStyle}
           attribute's value can be found in the {@link #SimpleDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_checkBoxStyle
+          @attr name ge.mtredi:di_checkBoxStyle
         */
         public static final int SimpleDialog_di_checkBoxStyle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_itemHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_itemHeight}
           attribute's value can be found in the {@link #SimpleDialog} array.
 
 
@@ -12110,31 +12140,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:di_itemHeight
+          @attr name ge.mtredi:di_itemHeight
         */
         public static final int SimpleDialog_di_itemHeight = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_itemTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_itemTextAppearance}
           attribute's value can be found in the {@link #SimpleDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_itemTextAppearance
+          @attr name ge.mtredi:di_itemTextAppearance
         */
         public static final int SimpleDialog_di_itemTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_messageTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_messageTextAppearance}
           attribute's value can be found in the {@link #SimpleDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_messageTextAppearance
+          @attr name ge.mtredi:di_messageTextAppearance
         */
         public static final int SimpleDialog_di_messageTextAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_messageTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_messageTextColor}
           attribute's value can be found in the {@link #SimpleDialog} array.
 
 
@@ -12142,17 +12172,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:di_messageTextColor
+          @attr name ge.mtredi:di_messageTextColor
         */
         public static final int SimpleDialog_di_messageTextColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#di_radioButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#di_radioButtonStyle}
           attribute's value can be found in the {@link #SimpleDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:di_radioButtonStyle
+          @attr name ge.mtredi:di_radioButtonStyle
         */
         public static final int SimpleDialog_di_radioButtonStyle = 2;
         /** Attributes that can be used with a Slider.
@@ -12163,25 +12193,25 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Slider_android_enabled android:enabled}</code></td><td></td></tr>
            <tr><td><code>{@link #Slider_android_gravity android:gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_discreteMode com.firebase.androidchat:sl_discreteMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_fontFamily com.firebase.androidchat:sl_fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_interpolator com.firebase.androidchat:sl_interpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_maxValue com.firebase.androidchat:sl_maxValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_minValue com.firebase.androidchat:sl_minValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_primaryColor com.firebase.androidchat:sl_primaryColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_secondaryColor com.firebase.androidchat:sl_secondaryColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_stepValue com.firebase.androidchat:sl_stepValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_textColor com.firebase.androidchat:sl_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_textSize com.firebase.androidchat:sl_textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_textStyle com.firebase.androidchat:sl_textStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_thumbBorderSize com.firebase.androidchat:sl_thumbBorderSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_thumbFocusRadius com.firebase.androidchat:sl_thumbFocusRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_thumbRadius com.firebase.androidchat:sl_thumbRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_trackCap com.firebase.androidchat:sl_trackCap}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_trackSize com.firebase.androidchat:sl_trackSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_transformAnimDuration com.firebase.androidchat:sl_transformAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_travelAnimDuration com.firebase.androidchat:sl_travelAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #Slider_sl_value com.firebase.androidchat:sl_value}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_discreteMode ge.mtredi:sl_discreteMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_fontFamily ge.mtredi:sl_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_interpolator ge.mtredi:sl_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_maxValue ge.mtredi:sl_maxValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_minValue ge.mtredi:sl_minValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_primaryColor ge.mtredi:sl_primaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_secondaryColor ge.mtredi:sl_secondaryColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_stepValue ge.mtredi:sl_stepValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_textColor ge.mtredi:sl_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_textSize ge.mtredi:sl_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_textStyle ge.mtredi:sl_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_thumbBorderSize ge.mtredi:sl_thumbBorderSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_thumbFocusRadius ge.mtredi:sl_thumbFocusRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_thumbRadius ge.mtredi:sl_thumbRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_trackCap ge.mtredi:sl_trackCap}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_trackSize ge.mtredi:sl_trackSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_transformAnimDuration ge.mtredi:sl_transformAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_travelAnimDuration ge.mtredi:sl_travelAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Slider_sl_value ge.mtredi:sl_value}</code></td><td></td></tr>
            </table>
            @see #Slider_android_enabled
            @see #Slider_android_gravity
@@ -12226,61 +12256,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Slider_android_gravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_discreteMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_discreteMode}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.firebase.androidchat:sl_discreteMode
+          @attr name ge.mtredi:sl_discreteMode
         */
         public static final int Slider_sl_discreteMode = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_fontFamily}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_fontFamily}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:sl_fontFamily
+          @attr name ge.mtredi:sl_fontFamily
         */
         public static final int Slider_sl_fontFamily = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_interpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_interpolator}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:sl_interpolator
+          @attr name ge.mtredi:sl_interpolator
         */
         public static final int Slider_sl_interpolator = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_maxValue}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_maxValue}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sl_maxValue
+          @attr name ge.mtredi:sl_maxValue
         */
         public static final int Slider_sl_maxValue = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_minValue}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_minValue}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sl_minValue
+          @attr name ge.mtredi:sl_minValue
         */
         public static final int Slider_sl_minValue = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_primaryColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_primaryColor}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12288,11 +12318,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sl_primaryColor
+          @attr name ge.mtredi:sl_primaryColor
         */
         public static final int Slider_sl_primaryColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_secondaryColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_secondaryColor}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12300,22 +12330,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sl_secondaryColor
+          @attr name ge.mtredi:sl_secondaryColor
         */
         public static final int Slider_sl_secondaryColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_stepValue}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_stepValue}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sl_stepValue
+          @attr name ge.mtredi:sl_stepValue
         */
         public static final int Slider_sl_stepValue = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_textColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_textColor}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12323,11 +12353,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sl_textColor
+          @attr name ge.mtredi:sl_textColor
         */
         public static final int Slider_sl_textColor = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_textSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_textSize}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12336,11 +12366,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sl_textSize
+          @attr name ge.mtredi:sl_textSize
         */
         public static final int Slider_sl_textSize = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_textStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_textStyle}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12361,11 +12391,11 @@ containing a value of this type.
 <tr><td><code>italic</code></td><td>2</td><td></td></tr>
 <tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:sl_textStyle
+          @attr name ge.mtredi:sl_textStyle
         */
         public static final int Slider_sl_textStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_thumbBorderSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_thumbBorderSize}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12374,11 +12404,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sl_thumbBorderSize
+          @attr name ge.mtredi:sl_thumbBorderSize
         */
         public static final int Slider_sl_thumbBorderSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_thumbFocusRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_thumbFocusRadius}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12387,11 +12417,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sl_thumbFocusRadius
+          @attr name ge.mtredi:sl_thumbFocusRadius
         */
         public static final int Slider_sl_thumbFocusRadius = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_thumbRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_thumbRadius}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12400,11 +12430,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sl_thumbRadius
+          @attr name ge.mtredi:sl_thumbRadius
         */
         public static final int Slider_sl_thumbRadius = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_trackCap}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_trackCap}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12424,11 +12454,11 @@ containing a value of this type.
 <tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
 <tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:sl_trackCap
+          @attr name ge.mtredi:sl_trackCap
         */
         public static final int Slider_sl_trackCap = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_trackSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_trackSize}
           attribute's value can be found in the {@link #Slider} array.
 
 
@@ -12437,40 +12467,40 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sl_trackSize
+          @attr name ge.mtredi:sl_trackSize
         */
         public static final int Slider_sl_trackSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_transformAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_transformAnimDuration}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sl_transformAnimDuration
+          @attr name ge.mtredi:sl_transformAnimDuration
         */
         public static final int Slider_sl_transformAnimDuration = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_travelAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_travelAnimDuration}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sl_travelAnimDuration
+          @attr name ge.mtredi:sl_travelAnimDuration
         */
         public static final int Slider_sl_travelAnimDuration = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sl_value}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sl_value}
           attribute's value can be found in the {@link #Slider} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sl_value
+          @attr name ge.mtredi:sl_value
         */
         public static final int Slider_sl_value = 15;
         /** Attributes that can be used with a SnackBar.
@@ -12479,35 +12509,35 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SnackBar_sb_actionRipple com.firebase.androidchat:sb_actionRipple}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_actionText com.firebase.androidchat:sb_actionText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_actionTextAppearance com.firebase.androidchat:sb_actionTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_actionTextColor com.firebase.androidchat:sb_actionTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_actionTextSize com.firebase.androidchat:sb_actionTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_backgroundColor com.firebase.androidchat:sb_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_backgroundCornerRadius com.firebase.androidchat:sb_backgroundCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_duration com.firebase.androidchat:sb_duration}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_ellipsize com.firebase.androidchat:sb_ellipsize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_height com.firebase.androidchat:sb_height}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_horizontalPadding com.firebase.androidchat:sb_horizontalPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_inAnimation com.firebase.androidchat:sb_inAnimation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_lines com.firebase.androidchat:sb_lines}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_marginBottom com.firebase.androidchat:sb_marginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_marginStart com.firebase.androidchat:sb_marginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_maxHeight com.firebase.androidchat:sb_maxHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_maxLines com.firebase.androidchat:sb_maxLines}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_maxWidth com.firebase.androidchat:sb_maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_minHeight com.firebase.androidchat:sb_minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_minWidth com.firebase.androidchat:sb_minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_outAnimation com.firebase.androidchat:sb_outAnimation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_removeOnDismiss com.firebase.androidchat:sb_removeOnDismiss}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_singleLine com.firebase.androidchat:sb_singleLine}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_text com.firebase.androidchat:sb_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_textAppearance com.firebase.androidchat:sb_textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_textColor com.firebase.androidchat:sb_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_textSize com.firebase.androidchat:sb_textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_verticalPadding com.firebase.androidchat:sb_verticalPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackBar_sb_width com.firebase.androidchat:sb_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionRipple ge.mtredi:sb_actionRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionText ge.mtredi:sb_actionText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionTextAppearance ge.mtredi:sb_actionTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionTextColor ge.mtredi:sb_actionTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_actionTextSize ge.mtredi:sb_actionTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_backgroundColor ge.mtredi:sb_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_backgroundCornerRadius ge.mtredi:sb_backgroundCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_duration ge.mtredi:sb_duration}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_ellipsize ge.mtredi:sb_ellipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_height ge.mtredi:sb_height}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_horizontalPadding ge.mtredi:sb_horizontalPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_inAnimation ge.mtredi:sb_inAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_lines ge.mtredi:sb_lines}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_marginBottom ge.mtredi:sb_marginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_marginStart ge.mtredi:sb_marginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_maxHeight ge.mtredi:sb_maxHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_maxLines ge.mtredi:sb_maxLines}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_maxWidth ge.mtredi:sb_maxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_minHeight ge.mtredi:sb_minHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_minWidth ge.mtredi:sb_minWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_outAnimation ge.mtredi:sb_outAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_removeOnDismiss ge.mtredi:sb_removeOnDismiss}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_singleLine ge.mtredi:sb_singleLine}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_text ge.mtredi:sb_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_textAppearance ge.mtredi:sb_textAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_textColor ge.mtredi:sb_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_textSize ge.mtredi:sb_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_verticalPadding ge.mtredi:sb_verticalPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackBar_sb_width ge.mtredi:sb_width}</code></td><td></td></tr>
            </table>
            @see #SnackBar_sb_actionRipple
            @see #SnackBar_sb_actionText
@@ -12550,38 +12580,38 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010192
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_actionRipple}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_actionRipple}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:sb_actionRipple
+          @attr name ge.mtredi:sb_actionRipple
         */
         public static final int SnackBar_sb_actionRipple = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_actionText}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_actionText}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:sb_actionText
+          @attr name ge.mtredi:sb_actionText
         */
         public static final int SnackBar_sb_actionText = 23;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_actionTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_actionTextAppearance}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:sb_actionTextAppearance
+          @attr name ge.mtredi:sb_actionTextAppearance
         */
         public static final int SnackBar_sb_actionTextAppearance = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_actionTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_actionTextColor}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12589,11 +12619,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sb_actionTextColor
+          @attr name ge.mtredi:sb_actionTextColor
         */
         public static final int SnackBar_sb_actionTextColor = 21;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_actionTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_actionTextSize}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12602,11 +12632,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_actionTextSize
+          @attr name ge.mtredi:sb_actionTextSize
         */
         public static final int SnackBar_sb_actionTextSize = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_backgroundColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_backgroundColor}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12614,11 +12644,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sb_backgroundColor
+          @attr name ge.mtredi:sb_backgroundColor
         */
         public static final int SnackBar_sb_backgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_backgroundCornerRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_backgroundCornerRadius}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12627,22 +12657,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_backgroundCornerRadius
+          @attr name ge.mtredi:sb_backgroundCornerRadius
         */
         public static final int SnackBar_sb_backgroundCornerRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_duration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_duration}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sb_duration
+          @attr name ge.mtredi:sb_duration
         */
         public static final int SnackBar_sb_duration = 25;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_ellipsize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_ellipsize}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12663,11 +12693,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
 <tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:sb_ellipsize
+          @attr name ge.mtredi:sb_ellipsize
         */
         public static final int SnackBar_sb_ellipsize = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_height}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_height}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12686,11 +12716,11 @@ in (inches), mm (millimeters).
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:sb_height
+          @attr name ge.mtredi:sb_height
         */
         public static final int SnackBar_sb_height = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_horizontalPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_horizontalPadding}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12699,32 +12729,32 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_horizontalPadding
+          @attr name ge.mtredi:sb_horizontalPadding
         */
         public static final int SnackBar_sb_horizontalPadding = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_inAnimation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_inAnimation}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:sb_inAnimation
+          @attr name ge.mtredi:sb_inAnimation
         */
         public static final int SnackBar_sb_inAnimation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_lines}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_lines}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sb_lines
+          @attr name ge.mtredi:sb_lines
         */
         public static final int SnackBar_sb_lines = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_marginBottom}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_marginBottom}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12733,11 +12763,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_marginBottom
+          @attr name ge.mtredi:sb_marginBottom
         */
         public static final int SnackBar_sb_marginBottom = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_marginStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_marginStart}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12746,11 +12776,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_marginStart
+          @attr name ge.mtredi:sb_marginStart
         */
         public static final int SnackBar_sb_marginStart = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_maxHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_maxHeight}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12759,22 +12789,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_maxHeight
+          @attr name ge.mtredi:sb_maxHeight
         */
         public static final int SnackBar_sb_maxHeight = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_maxLines}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_maxLines}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sb_maxLines
+          @attr name ge.mtredi:sb_maxLines
         */
         public static final int SnackBar_sb_maxLines = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_maxWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_maxWidth}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12783,11 +12813,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_maxWidth
+          @attr name ge.mtredi:sb_maxWidth
         */
         public static final int SnackBar_sb_maxWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_minHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_minHeight}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12796,11 +12826,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_minHeight
+          @attr name ge.mtredi:sb_minHeight
         */
         public static final int SnackBar_sb_minHeight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_minWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_minWidth}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12809,21 +12839,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_minWidth
+          @attr name ge.mtredi:sb_minWidth
         */
         public static final int SnackBar_sb_minWidth = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_outAnimation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_outAnimation}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:sb_outAnimation
+          @attr name ge.mtredi:sb_outAnimation
         */
         public static final int SnackBar_sb_outAnimation = 27;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_removeOnDismiss}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_removeOnDismiss}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12833,11 +12863,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:sb_removeOnDismiss
+          @attr name ge.mtredi:sb_removeOnDismiss
         */
         public static final int SnackBar_sb_removeOnDismiss = 28;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_singleLine}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_singleLine}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12847,32 +12877,32 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:sb_singleLine
+          @attr name ge.mtredi:sb_singleLine
         */
         public static final int SnackBar_sb_singleLine = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_text}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_text}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:sb_text
+          @attr name ge.mtredi:sb_text
         */
         public static final int SnackBar_sb_text = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_textAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_textAppearance}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:sb_textAppearance
+          @attr name ge.mtredi:sb_textAppearance
         */
         public static final int SnackBar_sb_textAppearance = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_textColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_textColor}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12880,11 +12910,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sb_textColor
+          @attr name ge.mtredi:sb_textColor
         */
         public static final int SnackBar_sb_textColor = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_textSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_textSize}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12893,11 +12923,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_textSize
+          @attr name ge.mtredi:sb_textSize
         */
         public static final int SnackBar_sb_textSize = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_verticalPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_verticalPadding}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12906,11 +12936,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sb_verticalPadding
+          @attr name ge.mtredi:sb_verticalPadding
         */
         public static final int SnackBar_sb_verticalPadding = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sb_width}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sb_width}
           attribute's value can be found in the {@link #SnackBar} array.
 
 
@@ -12929,7 +12959,7 @@ in (inches), mm (millimeters).
 <tr><td><code>match_parent</code></td><td>-1</td><td></td></tr>
 <tr><td><code>wrap_content</code></td><td>-2</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:sb_width
+          @attr name ge.mtredi:sb_width
         */
         public static final int SnackBar_sb_width = 4;
         /** Attributes that can be used with a SnackbarLayout.
@@ -12939,8 +12969,8 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.firebase.androidchat:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.firebase.androidchat:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation ge.mtredi:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ge.mtredi:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -12956,7 +12986,7 @@ in (inches), mm (millimeters).
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#elevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -12968,11 +12998,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:elevation
+          @attr name ge.mtredi:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -12984,7 +13014,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:maxActionInlineWidth
+          @attr name ge.mtredi:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -12998,27 +13028,27 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_minWidth android:minWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.firebase.androidchat:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_arrowAnimClockwise com.firebase.androidchat:spn_arrowAnimClockwise}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_arrowAnimDuration com.firebase.androidchat:spn_arrowAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_arrowColor com.firebase.androidchat:spn_arrowColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_arrowInterpolator com.firebase.androidchat:spn_arrowInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_arrowPadding com.firebase.androidchat:spn_arrowPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_arrowSize com.firebase.androidchat:spn_arrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_arrowSwitchMode com.firebase.androidchat:spn_arrowSwitchMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_dividerAnimDuration com.firebase.androidchat:spn_dividerAnimDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_dividerColor com.firebase.androidchat:spn_dividerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_dividerHeight com.firebase.androidchat:spn_dividerHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_dividerPadding com.firebase.androidchat:spn_dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_label com.firebase.androidchat:spn_label}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_labelEllipsize com.firebase.androidchat:spn_labelEllipsize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_labelEnable com.firebase.androidchat:spn_labelEnable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_labelPadding com.firebase.androidchat:spn_labelPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_labelTextAppearance com.firebase.androidchat:spn_labelTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_labelTextColor com.firebase.androidchat:spn_labelTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_labelTextSize com.firebase.androidchat:spn_labelTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_popupItemAnimOffset com.firebase.androidchat:spn_popupItemAnimOffset}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spn_popupItemAnimation com.firebase.androidchat:spn_popupItemAnimation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme ge.mtredi:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowAnimClockwise ge.mtredi:spn_arrowAnimClockwise}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowAnimDuration ge.mtredi:spn_arrowAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowColor ge.mtredi:spn_arrowColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowInterpolator ge.mtredi:spn_arrowInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowPadding ge.mtredi:spn_arrowPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowSize ge.mtredi:spn_arrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_arrowSwitchMode ge.mtredi:spn_arrowSwitchMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerAnimDuration ge.mtredi:spn_dividerAnimDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerColor ge.mtredi:spn_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerHeight ge.mtredi:spn_dividerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_dividerPadding ge.mtredi:spn_dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_label ge.mtredi:spn_label}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelEllipsize ge.mtredi:spn_labelEllipsize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelEnable ge.mtredi:spn_labelEnable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelPadding ge.mtredi:spn_labelPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelTextAppearance ge.mtredi:spn_labelTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelTextColor ge.mtredi:spn_labelTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_labelTextSize ge.mtredi:spn_labelTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_popupItemAnimOffset ge.mtredi:spn_popupItemAnimOffset}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spn_popupItemAnimation ge.mtredi:spn_popupItemAnimation}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_minHeight
@@ -13087,17 +13117,17 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:popupTheme
+          @attr name ge.mtredi:popupTheme
         */
         public static final int Spinner_popupTheme = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_arrowAnimClockwise}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_arrowAnimClockwise}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13107,11 +13137,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:spn_arrowAnimClockwise
+          @attr name ge.mtredi:spn_arrowAnimClockwise
         */
         public static final int Spinner_spn_arrowAnimClockwise = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_arrowAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_arrowAnimDuration}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13121,11 +13151,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:spn_arrowAnimDuration
+          @attr name ge.mtredi:spn_arrowAnimDuration
         */
         public static final int Spinner_spn_arrowAnimDuration = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_arrowColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_arrowColor}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13133,21 +13163,21 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:spn_arrowColor
+          @attr name ge.mtredi:spn_arrowColor
         */
         public static final int Spinner_spn_arrowColor = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_arrowInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_arrowInterpolator}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:spn_arrowInterpolator
+          @attr name ge.mtredi:spn_arrowInterpolator
         */
         public static final int Spinner_spn_arrowInterpolator = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_arrowPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_arrowPadding}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13156,11 +13186,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:spn_arrowPadding
+          @attr name ge.mtredi:spn_arrowPadding
         */
         public static final int Spinner_spn_arrowPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_arrowSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_arrowSize}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13169,11 +13199,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:spn_arrowSize
+          @attr name ge.mtredi:spn_arrowSize
         */
         public static final int Spinner_spn_arrowSize = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_arrowSwitchMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_arrowSwitchMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13183,22 +13213,22 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:spn_arrowSwitchMode
+          @attr name ge.mtredi:spn_arrowSwitchMode
         */
         public static final int Spinner_spn_arrowSwitchMode = 21;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_dividerAnimDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_dividerAnimDuration}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:spn_dividerAnimDuration
+          @attr name ge.mtredi:spn_dividerAnimDuration
         */
         public static final int Spinner_spn_dividerAnimDuration = 25;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_dividerColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_dividerColor}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13206,11 +13236,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:spn_dividerColor
+          @attr name ge.mtredi:spn_dividerColor
         */
         public static final int Spinner_spn_dividerColor = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_dividerHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_dividerHeight}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13219,11 +13249,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:spn_dividerHeight
+          @attr name ge.mtredi:spn_dividerHeight
         */
         public static final int Spinner_spn_dividerHeight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_dividerPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_dividerPadding}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13232,22 +13262,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:spn_dividerPadding
+          @attr name ge.mtredi:spn_dividerPadding
         */
         public static final int Spinner_spn_dividerPadding = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_label}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_label}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:spn_label
+          @attr name ge.mtredi:spn_label
         */
         public static final int Spinner_spn_label = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_labelEllipsize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_labelEllipsize}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13268,11 +13298,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00000003</td><td></td></tr>
 <tr><td><code>marquee</code></td><td>0x00000004</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:spn_labelEllipsize
+          @attr name ge.mtredi:spn_labelEllipsize
         */
         public static final int Spinner_spn_labelEllipsize = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_labelEnable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_labelEnable}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13282,11 +13312,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:spn_labelEnable
+          @attr name ge.mtredi:spn_labelEnable
         */
         public static final int Spinner_spn_labelEnable = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_labelPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_labelPadding}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13295,21 +13325,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:spn_labelPadding
+          @attr name ge.mtredi:spn_labelPadding
         */
         public static final int Spinner_spn_labelPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_labelTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_labelTextAppearance}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:spn_labelTextAppearance
+          @attr name ge.mtredi:spn_labelTextAppearance
         */
         public static final int Spinner_spn_labelTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_labelTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_labelTextColor}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13317,11 +13347,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:spn_labelTextColor
+          @attr name ge.mtredi:spn_labelTextColor
         */
         public static final int Spinner_spn_labelTextColor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_labelTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_labelTextSize}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13330,11 +13360,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:spn_labelTextSize
+          @attr name ge.mtredi:spn_labelTextSize
         */
         public static final int Spinner_spn_labelTextSize = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_popupItemAnimOffset}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_popupItemAnimOffset}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -13344,17 +13374,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:spn_popupItemAnimOffset
+          @attr name ge.mtredi:spn_popupItemAnimOffset
         */
         public static final int Spinner_spn_popupItemAnimOffset = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spn_popupItemAnimation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spn_popupItemAnimation}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:spn_popupItemAnimation
+          @attr name ge.mtredi:spn_popupItemAnimation
         */
         public static final int Spinner_spn_popupItemAnimation = 13;
         /** Attributes that can be used with a Switch.
@@ -13365,14 +13395,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Switch_android_checked android:checked}</code></td><td></td></tr>
            <tr><td><code>{@link #Switch_android_gravity android:gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_animDuration com.firebase.androidchat:sw_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_interpolator com.firebase.androidchat:sw_interpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_thumbColor com.firebase.androidchat:sw_thumbColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_thumbElevation com.firebase.androidchat:sw_thumbElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_thumbRadius com.firebase.androidchat:sw_thumbRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_trackCap com.firebase.androidchat:sw_trackCap}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_trackColor com.firebase.androidchat:sw_trackColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Switch_sw_trackSize com.firebase.androidchat:sw_trackSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_animDuration ge.mtredi:sw_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_interpolator ge.mtredi:sw_interpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_thumbColor ge.mtredi:sw_thumbColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_thumbElevation ge.mtredi:sw_thumbElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_thumbRadius ge.mtredi:sw_thumbRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_trackCap ge.mtredi:sw_trackCap}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_trackColor ge.mtredi:sw_trackColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Switch_sw_trackSize ge.mtredi:sw_trackSize}</code></td><td></td></tr>
            </table>
            @see #Switch_android_checked
            @see #Switch_android_gravity
@@ -13403,28 +13433,28 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Switch_android_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_animDuration}
           attribute's value can be found in the {@link #Switch} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:sw_animDuration
+          @attr name ge.mtredi:sw_animDuration
         */
         public static final int Switch_sw_animDuration = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_interpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_interpolator}
           attribute's value can be found in the {@link #Switch} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:sw_interpolator
+          @attr name ge.mtredi:sw_interpolator
         */
         public static final int Switch_sw_interpolator = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_thumbColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_thumbColor}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -13432,11 +13462,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sw_thumbColor
+          @attr name ge.mtredi:sw_thumbColor
         */
         public static final int Switch_sw_thumbColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_thumbElevation}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_thumbElevation}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -13445,11 +13475,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sw_thumbElevation
+          @attr name ge.mtredi:sw_thumbElevation
         */
         public static final int Switch_sw_thumbElevation = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_thumbRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_thumbRadius}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -13458,11 +13488,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sw_thumbRadius
+          @attr name ge.mtredi:sw_thumbRadius
         */
         public static final int Switch_sw_thumbRadius = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_trackCap}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_trackCap}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -13482,11 +13512,11 @@ containing a value of this type.
 <tr><td><code>round</code></td><td>0x00000001</td><td></td></tr>
 <tr><td><code>square</code></td><td>0x00000002</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:sw_trackCap
+          @attr name ge.mtredi:sw_trackCap
         */
         public static final int Switch_sw_trackCap = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_trackColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_trackColor}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -13494,11 +13524,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:sw_trackColor
+          @attr name ge.mtredi:sw_trackColor
         */
         public static final int Switch_sw_trackColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#sw_trackSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#sw_trackSize}
           attribute's value can be found in the {@link #Switch} array.
 
 
@@ -13507,7 +13537,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:sw_trackSize
+          @attr name ge.mtredi:sw_trackSize
         */
         public static final int Switch_sw_trackSize = 2;
         /** Attributes that can be used with a SwitchCompat.
@@ -13519,13 +13549,13 @@ in (inches), mm (millimeters).
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.firebase.androidchat:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.firebase.androidchat:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.firebase.androidchat:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.firebase.androidchat:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.firebase.androidchat:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.firebase.androidchat:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.firebase.androidchat:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText ge.mtredi:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack ge.mtredi:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth ge.mtredi:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding ge.mtredi:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ge.mtredi:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ge.mtredi:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track ge.mtredi:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -13562,7 +13592,7 @@ in (inches), mm (millimeters).
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#showText}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13572,11 +13602,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:showText
+          @attr name ge.mtredi:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13586,11 +13616,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:splitTrack
+          @attr name ge.mtredi:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13602,11 +13632,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:switchMinWidth
+          @attr name ge.mtredi:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13618,21 +13648,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:switchPadding
+          @attr name ge.mtredi:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:switchTextAppearance
+          @attr name ge.mtredi:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -13644,17 +13674,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:thumbTextPadding
+          @attr name ge.mtredi:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#track}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:track
+          @attr name ge.mtredi:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TabLayout.
@@ -13663,22 +13693,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.firebase.androidchat:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.firebase.androidchat:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.firebase.androidchat:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.firebase.androidchat:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.firebase.androidchat:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.firebase.androidchat:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.firebase.androidchat:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.firebase.androidchat:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.firebase.androidchat:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.firebase.androidchat:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.firebase.androidchat:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.firebase.androidchat:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.firebase.androidchat:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.firebase.androidchat:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.firebase.androidchat:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.firebase.androidchat:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground ge.mtredi:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart ge.mtredi:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity ge.mtredi:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor ge.mtredi:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ge.mtredi:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth ge.mtredi:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth ge.mtredi:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode ge.mtredi:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding ge.mtredi:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom ge.mtredi:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd ge.mtredi:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart ge.mtredi:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop ge.mtredi:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ge.mtredi:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance ge.mtredi:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor ge.mtredi:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -13704,17 +13734,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0101c3, 0x7f0101c4, 0x7f0101c5, 0x7f0101c6
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:tabBackground
+          @attr name ge.mtredi:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13726,11 +13756,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabContentStart
+          @attr name ge.mtredi:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13743,11 +13773,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:tabGravity
+          @attr name ge.mtredi:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13758,11 +13788,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabIndicatorColor
+          @attr name ge.mtredi:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13774,11 +13804,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabIndicatorHeight
+          @attr name ge.mtredi:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13790,11 +13820,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabMaxWidth
+          @attr name ge.mtredi:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13806,11 +13836,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabMinWidth
+          @attr name ge.mtredi:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13823,11 +13853,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:tabMode
+          @attr name ge.mtredi:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13839,11 +13869,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabPadding
+          @attr name ge.mtredi:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13855,11 +13885,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabPaddingBottom
+          @attr name ge.mtredi:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13871,11 +13901,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabPaddingEnd
+          @attr name ge.mtredi:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13887,11 +13917,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabPaddingStart
+          @attr name ge.mtredi:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13903,11 +13933,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabPaddingTop
+          @attr name ge.mtredi:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13918,21 +13948,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabSelectedTextColor
+          @attr name ge.mtredi:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:tabTextAppearance
+          @attr name ge.mtredi:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -13943,7 +13973,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tabTextColor
+          @attr name ge.mtredi:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TabPageIndicator.
@@ -13953,11 +13983,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TabPageIndicator_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabPageIndicator_tpi_indicatorColor com.firebase.androidchat:tpi_indicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabPageIndicator_tpi_indicatorHeight com.firebase.androidchat:tpi_indicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabPageIndicator_tpi_mode com.firebase.androidchat:tpi_mode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabPageIndicator_tpi_tabPadding com.firebase.androidchat:tpi_tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabPageIndicator_tpi_tabRipple com.firebase.androidchat:tpi_tabRipple}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_indicatorColor ge.mtredi:tpi_indicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_indicatorHeight ge.mtredi:tpi_indicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_mode ge.mtredi:tpi_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_tabPadding ge.mtredi:tpi_tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabPageIndicator_tpi_tabRipple ge.mtredi:tpi_tabRipple}</code></td><td></td></tr>
            </table>
            @see #TabPageIndicator_android_textAppearance
            @see #TabPageIndicator_tpi_indicatorColor
@@ -13977,7 +14007,7 @@ containing a value of this type.
         */
         public static final int TabPageIndicator_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tpi_indicatorColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tpi_indicatorColor}
           attribute's value can be found in the {@link #TabPageIndicator} array.
 
 
@@ -13985,11 +14015,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:tpi_indicatorColor
+          @attr name ge.mtredi:tpi_indicatorColor
         */
         public static final int TabPageIndicator_tpi_indicatorColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tpi_indicatorHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tpi_indicatorHeight}
           attribute's value can be found in the {@link #TabPageIndicator} array.
 
 
@@ -13998,11 +14028,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:tpi_indicatorHeight
+          @attr name ge.mtredi:tpi_indicatorHeight
         */
         public static final int TabPageIndicator_tpi_indicatorHeight = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tpi_mode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tpi_mode}
           attribute's value can be found in the {@link #TabPageIndicator} array.
 
 
@@ -14021,11 +14051,11 @@ containing a value of this type.
 <tr><td><code>scroll</code></td><td>0x00000000</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>0x00000001</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:tpi_mode
+          @attr name ge.mtredi:tpi_mode
         */
         public static final int TabPageIndicator_tpi_mode = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tpi_tabPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tpi_tabPadding}
           attribute's value can be found in the {@link #TabPageIndicator} array.
 
 
@@ -14034,17 +14064,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:tpi_tabPadding
+          @attr name ge.mtredi:tpi_tabPadding
         */
         public static final int TabPageIndicator_tpi_tabPadding = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tpi_tabRipple}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tpi_tabRipple}
           attribute's value can be found in the {@link #TabPageIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:tpi_tabRipple
+          @attr name ge.mtredi:tpi_tabRipple
         */
         public static final int TabPageIndicator_tpi_tabRipple = 2;
         /** Attributes that can be used with a TextAppearance.
@@ -14061,7 +14091,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.firebase.androidchat:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps ge.mtredi:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -14127,14 +14157,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.firebase.androidchat:textAllCaps
+          @attr name ge.mtredi:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a TextInputLayout.
@@ -14145,14 +14175,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.firebase.androidchat:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.firebase.androidchat:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.firebase.androidchat:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.firebase.androidchat:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.firebase.androidchat:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.firebase.androidchat:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.firebase.androidchat:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.firebase.androidchat:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled ge.mtredi:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength ge.mtredi:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ge.mtredi:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ge.mtredi:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled ge.mtredi:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ge.mtredi:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ge.mtredi:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ge.mtredi:hintTextAppearance}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -14183,7 +14213,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -14193,11 +14223,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:counterEnabled
+          @attr name ge.mtredi:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -14207,31 +14237,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:counterMaxLength
+          @attr name ge.mtredi:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:counterOverflowTextAppearance
+          @attr name ge.mtredi:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:counterTextAppearance
+          @attr name ge.mtredi:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -14241,21 +14271,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:errorEnabled
+          @attr name ge.mtredi:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:errorTextAppearance
+          @attr name ge.mtredi:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -14265,17 +14295,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:hintAnimationEnabled
+          @attr name ge.mtredi:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:hintTextAppearance
+          @attr name ge.mtredi:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /** Attributes that can be used with a Theme.
@@ -14284,116 +14314,116 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.firebase.androidchat:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.firebase.androidchat:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.firebase.androidchat:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.firebase.androidchat:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.firebase.androidchat:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.firebase.androidchat:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.firebase.androidchat:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.firebase.androidchat:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.firebase.androidchat:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.firebase.androidchat:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.firebase.androidchat:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.firebase.androidchat:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.firebase.androidchat:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.firebase.androidchat:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.firebase.androidchat:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.firebase.androidchat:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.firebase.androidchat:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.firebase.androidchat:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.firebase.androidchat:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.firebase.androidchat:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.firebase.androidchat:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.firebase.androidchat:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.firebase.androidchat:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.firebase.androidchat:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.firebase.androidchat:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.firebase.androidchat:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.firebase.androidchat:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.firebase.androidchat:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.firebase.androidchat:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.firebase.androidchat:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.firebase.androidchat:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.firebase.androidchat:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.firebase.androidchat:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.firebase.androidchat:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.firebase.androidchat:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider ge.mtredi:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground ge.mtredi:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme ge.mtredi:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize ge.mtredi:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle ge.mtredi:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle ge.mtredi:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle ge.mtredi:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle ge.mtredi:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle ge.mtredi:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme ge.mtredi:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme ge.mtredi:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle ge.mtredi:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle ge.mtredi:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance ge.mtredi:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor ge.mtredi:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground ge.mtredi:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle ge.mtredi:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable ge.mtredi:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable ge.mtredi:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable ge.mtredi:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable ge.mtredi:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable ge.mtredi:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle ge.mtredi:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable ge.mtredi:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable ge.mtredi:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground ge.mtredi:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle ge.mtredi:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable ge.mtredi:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle ge.mtredi:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle ge.mtredi:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle ge.mtredi:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle ge.mtredi:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons ge.mtredi:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle ge.mtredi:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme ge.mtredi:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.firebase.androidchat:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.firebase.androidchat:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.firebase.androidchat:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.firebase.androidchat:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.firebase.androidchat:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.firebase.androidchat:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.firebase.androidchat:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.firebase.androidchat:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.firebase.androidchat:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.firebase.androidchat:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.firebase.androidchat:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.firebase.androidchat:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.firebase.androidchat:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.firebase.androidchat:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.firebase.androidchat:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.firebase.androidchat:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.firebase.androidchat:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.firebase.androidchat:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.firebase.androidchat:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.firebase.androidchat:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.firebase.androidchat:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.firebase.androidchat:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.firebase.androidchat:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.firebase.androidchat:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.firebase.androidchat:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.firebase.androidchat:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.firebase.androidchat:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.firebase.androidchat:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.firebase.androidchat:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.firebase.androidchat:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_imageButtonStyle com.firebase.androidchat:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.firebase.androidchat:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.firebase.androidchat:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.firebase.androidchat:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.firebase.androidchat:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.firebase.androidchat:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.firebase.androidchat:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.firebase.androidchat:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.firebase.androidchat:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.firebase.androidchat:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.firebase.androidchat:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.firebase.androidchat:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.firebase.androidchat:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.firebase.androidchat:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.firebase.androidchat:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.firebase.androidchat:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.firebase.androidchat:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_seekBarStyle com.firebase.androidchat:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.firebase.androidchat:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.firebase.androidchat:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.firebase.androidchat:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.firebase.androidchat:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.firebase.androidchat:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.firebase.androidchat:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.firebase.androidchat:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.firebase.androidchat:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.firebase.androidchat:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.firebase.androidchat:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.firebase.androidchat:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.firebase.androidchat:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.firebase.androidchat:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.firebase.androidchat:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.firebase.androidchat:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.firebase.androidchat:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.firebase.androidchat:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.firebase.androidchat:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.firebase.androidchat:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.firebase.androidchat:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.firebase.androidchat:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.firebase.androidchat:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.firebase.androidchat:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.firebase.androidchat:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.firebase.androidchat:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle ge.mtredi:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle ge.mtredi:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle ge.mtredi:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle ge.mtredi:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle ge.mtredi:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle ge.mtredi:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle ge.mtredi:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle ge.mtredi:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall ge.mtredi:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle ge.mtredi:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle ge.mtredi:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent ge.mtredi:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal ge.mtredi:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated ge.mtredi:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight ge.mtredi:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal ge.mtredi:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary ge.mtredi:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark ge.mtredi:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal ge.mtredi:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground ge.mtredi:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding ge.mtredi:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme ge.mtredi:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal ge.mtredi:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical ge.mtredi:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle ge.mtredi:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight ge.mtredi:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground ge.mtredi:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor ge.mtredi:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle ge.mtredi:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator ge.mtredi:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_imageButtonStyle ge.mtredi:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator ge.mtredi:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog ge.mtredi:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle ge.mtredi:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight ge.mtredi:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge ge.mtredi:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall ge.mtredi:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft ge.mtredi:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight ge.mtredi:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground ge.mtredi:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme ge.mtredi:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth ge.mtredi:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle ge.mtredi:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle ge.mtredi:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle ge.mtredi:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle ge.mtredi:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle ge.mtredi:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_seekBarStyle ge.mtredi:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground ge.mtredi:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless ge.mtredi:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle ge.mtredi:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle ge.mtredi:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle ge.mtredi:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu ge.mtredi:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem ge.mtredi:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall ge.mtredi:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle ge.mtredi:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle ge.mtredi:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu ge.mtredi:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem ge.mtredi:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl ge.mtredi:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle ge.mtredi:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle ge.mtredi:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar ge.mtredi:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay ge.mtredi:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay ge.mtredi:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor ge.mtredi:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor ge.mtredi:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor ge.mtredi:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor ge.mtredi:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor ge.mtredi:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor ge.mtredi:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle ge.mtredi:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -14537,37 +14567,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01023e, 0x7f01023f
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarDivider
+          @attr name ge.mtredi:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarItemBackground
+          @attr name ge.mtredi:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarPopupTheme
+          @attr name ge.mtredi:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -14587,111 +14617,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:actionBarSize
+          @attr name ge.mtredi:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarSplitStyle
+          @attr name ge.mtredi:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarStyle
+          @attr name ge.mtredi:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarTabBarStyle
+          @attr name ge.mtredi:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarTabStyle
+          @attr name ge.mtredi:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarTabTextStyle
+          @attr name ge.mtredi:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarTheme
+          @attr name ge.mtredi:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionBarWidgetTheme
+          @attr name ge.mtredi:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionButtonStyle
+          @attr name ge.mtredi:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionDropDownStyle
+          @attr name ge.mtredi:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionMenuTextAppearance
+          @attr name ge.mtredi:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -14699,181 +14729,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:actionMenuTextColor
+          @attr name ge.mtredi:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeBackground
+          @attr name ge.mtredi:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeCloseButtonStyle
+          @attr name ge.mtredi:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeCloseDrawable
+          @attr name ge.mtredi:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeCopyDrawable
+          @attr name ge.mtredi:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeCutDrawable
+          @attr name ge.mtredi:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeFindDrawable
+          @attr name ge.mtredi:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModePasteDrawable
+          @attr name ge.mtredi:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModePopupWindowStyle
+          @attr name ge.mtredi:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeSelectAllDrawable
+          @attr name ge.mtredi:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeShareDrawable
+          @attr name ge.mtredi:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeSplitBackground
+          @attr name ge.mtredi:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeStyle
+          @attr name ge.mtredi:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionModeWebSearchDrawable
+          @attr name ge.mtredi:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionOverflowButtonStyle
+          @attr name ge.mtredi:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:actionOverflowMenuStyle
+          @attr name ge.mtredi:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:activityChooserViewStyle
+          @attr name ge.mtredi:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:alertDialogButtonGroupStyle
+          @attr name ge.mtredi:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 92;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -14883,27 +14913,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:alertDialogCenterButtons
+          @attr name ge.mtredi:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 93;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:alertDialogStyle
+          @attr name ge.mtredi:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:alertDialogTheme
+          @attr name ge.mtredi:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 94;
         /**
@@ -14919,117 +14949,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:autoCompleteTextViewStyle
+          @attr name ge.mtredi:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:borderlessButtonStyle
+          @attr name ge.mtredi:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonBarButtonStyle
+          @attr name ge.mtredi:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonBarNegativeButtonStyle
+          @attr name ge.mtredi:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonBarNeutralButtonStyle
+          @attr name ge.mtredi:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonBarPositiveButtonStyle
+          @attr name ge.mtredi:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonBarStyle
+          @attr name ge.mtredi:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonStyle
+          @attr name ge.mtredi:buttonStyle
         */
         public static final int Theme_buttonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:buttonStyleSmall
+          @attr name ge.mtredi:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 101;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:checkboxStyle
+          @attr name ge.mtredi:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:checkedTextViewStyle
+          @attr name ge.mtredi:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15040,11 +15070,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorAccent
+          @attr name ge.mtredi:colorAccent
         */
         public static final int Theme_colorAccent = 84;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15055,11 +15085,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorButtonNormal
+          @attr name ge.mtredi:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15070,11 +15100,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorControlActivated
+          @attr name ge.mtredi:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 86;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15085,11 +15115,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorControlHighlight
+          @attr name ge.mtredi:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 87;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15100,11 +15130,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorControlNormal
+          @attr name ge.mtredi:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 85;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15115,11 +15145,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorPrimary
+          @attr name ge.mtredi:colorPrimary
         */
         public static final int Theme_colorPrimary = 82;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15130,11 +15160,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorPrimaryDark
+          @attr name ge.mtredi:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 83;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15145,21 +15175,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:colorSwitchThumbNormal
+          @attr name ge.mtredi:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:controlBackground
+          @attr name ge.mtredi:controlBackground
         */
         public static final int Theme_controlBackground = 90;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15171,51 +15201,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dialogPreferredPadding
+          @attr name ge.mtredi:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dialogTheme
+          @attr name ge.mtredi:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dividerHorizontal
+          @attr name ge.mtredi:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dividerVertical
+          @attr name ge.mtredi:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dropDownListViewStyle
+          @attr name ge.mtredi:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15227,21 +15257,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dropdownListPreferredItemHeight
+          @attr name ge.mtredi:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:editTextBackground
+          @attr name ge.mtredi:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15249,71 +15279,71 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:editTextColor
+          @attr name ge.mtredi:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:editTextStyle
+          @attr name ge.mtredi:editTextStyle
         */
         public static final int Theme_editTextStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:homeAsUpIndicator
+          @attr name ge.mtredi:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:imageButtonStyle
+          @attr name ge.mtredi:imageButtonStyle
         */
         public static final int Theme_imageButtonStyle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:listChoiceBackgroundIndicator
+          @attr name ge.mtredi:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 81;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:listDividerAlertDialog
+          @attr name ge.mtredi:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:listPopupWindowStyle
+          @attr name ge.mtredi:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15325,11 +15355,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:listPreferredItemHeight
+          @attr name ge.mtredi:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 69;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15341,11 +15371,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:listPreferredItemHeightLarge
+          @attr name ge.mtredi:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 71;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15357,11 +15387,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:listPreferredItemHeightSmall
+          @attr name ge.mtredi:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15373,11 +15403,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:listPreferredItemPaddingLeft
+          @attr name ge.mtredi:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 72;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15389,31 +15419,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:listPreferredItemPaddingRight
+          @attr name ge.mtredi:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 73;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:panelBackground
+          @attr name ge.mtredi:panelBackground
         */
         public static final int Theme_panelBackground = 78;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:panelMenuListTheme
+          @attr name ge.mtredi:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 80;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15425,181 +15455,181 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:panelMenuListWidth
+          @attr name ge.mtredi:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 79;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:popupMenuStyle
+          @attr name ge.mtredi:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:popupWindowStyle
+          @attr name ge.mtredi:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:radioButtonStyle
+          @attr name ge.mtredi:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:ratingBarStyle
+          @attr name ge.mtredi:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:searchViewStyle
+          @attr name ge.mtredi:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:seekBarStyle
+          @attr name ge.mtredi:seekBarStyle
         */
         public static final int Theme_seekBarStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:selectableItemBackground
+          @attr name ge.mtredi:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:selectableItemBackgroundBorderless
+          @attr name ge.mtredi:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:spinnerDropDownItemStyle
+          @attr name ge.mtredi:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:spinnerStyle
+          @attr name ge.mtredi:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:switchStyle
+          @attr name ge.mtredi:switchStyle
         */
         public static final int Theme_switchStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:textAppearanceLargePopupMenu
+          @attr name ge.mtredi:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:textAppearanceListItem
+          @attr name ge.mtredi:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 76;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:textAppearanceListItemSmall
+          @attr name ge.mtredi:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 77;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:textAppearanceSearchResultSubtitle
+          @attr name ge.mtredi:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:textAppearanceSearchResultTitle
+          @attr name ge.mtredi:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:textAppearanceSmallPopupMenu
+          @attr name ge.mtredi:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15607,11 +15637,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:textColorAlertDialogListItem
+          @attr name ge.mtredi:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 95;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15619,31 +15649,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:textColorSearchUrl
+          @attr name ge.mtredi:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 67;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:toolbarNavigationButtonStyle
+          @attr name ge.mtredi:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:toolbarStyle
+          @attr name ge.mtredi:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15653,11 +15683,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowActionBar
+          @attr name ge.mtredi:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15667,11 +15697,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowActionBarOverlay
+          @attr name ge.mtredi:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15681,11 +15711,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowActionModeOverlay
+          @attr name ge.mtredi:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15700,11 +15730,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowFixedHeightMajor
+          @attr name ge.mtredi:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15719,11 +15749,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowFixedHeightMinor
+          @attr name ge.mtredi:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15738,11 +15768,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowFixedWidthMajor
+          @attr name ge.mtredi:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15757,11 +15787,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowFixedWidthMinor
+          @attr name ge.mtredi:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15776,11 +15806,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowMinWidthMajor
+          @attr name ge.mtredi:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15795,11 +15825,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowMinWidthMinor
+          @attr name ge.mtredi:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -15809,7 +15839,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:windowNoTitle
+          @attr name ge.mtredi:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a TimePicker.
@@ -15818,22 +15848,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TimePicker_tp_24Hour com.firebase.androidchat:tp_24Hour}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_animDuration com.firebase.androidchat:tp_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_backgroundColor com.firebase.androidchat:tp_backgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_fontFamily com.firebase.androidchat:tp_fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_hour com.firebase.androidchat:tp_hour}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_inInterpolator com.firebase.androidchat:tp_inInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_minute com.firebase.androidchat:tp_minute}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_mode com.firebase.androidchat:tp_mode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_outInterpolator com.firebase.androidchat:tp_outInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_selectionColor com.firebase.androidchat:tp_selectionColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_selectionRadius com.firebase.androidchat:tp_selectionRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_textColor com.firebase.androidchat:tp_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_textHighlightColor com.firebase.androidchat:tp_textHighlightColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_textSize com.firebase.androidchat:tp_textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_textStyle com.firebase.androidchat:tp_textStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePicker_tp_tickSize com.firebase.androidchat:tp_tickSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_24Hour ge.mtredi:tp_24Hour}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_animDuration ge.mtredi:tp_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_backgroundColor ge.mtredi:tp_backgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_fontFamily ge.mtredi:tp_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_hour ge.mtredi:tp_hour}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_inInterpolator ge.mtredi:tp_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_minute ge.mtredi:tp_minute}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_mode ge.mtredi:tp_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_outInterpolator ge.mtredi:tp_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_selectionColor ge.mtredi:tp_selectionColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_selectionRadius ge.mtredi:tp_selectionRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textColor ge.mtredi:tp_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textHighlightColor ge.mtredi:tp_textHighlightColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textSize ge.mtredi:tp_textSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_textStyle ge.mtredi:tp_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePicker_tp_tickSize ge.mtredi:tp_tickSize}</code></td><td></td></tr>
            </table>
            @see #TimePicker_tp_24Hour
            @see #TimePicker_tp_animDuration
@@ -15859,7 +15889,7 @@ containing a value of this type.
             0x7f01024c, 0x7f01024d, 0x7f01024e, 0x7f01024f
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_24Hour}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_24Hour}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -15869,22 +15899,22 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tp_24Hour
+          @attr name ge.mtredi:tp_24Hour
         */
         public static final int TimePicker_tp_24Hour = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_animDuration}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:tp_animDuration
+          @attr name ge.mtredi:tp_animDuration
         */
         public static final int TimePicker_tp_animDuration = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_backgroundColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_backgroundColor}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -15892,22 +15922,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:tp_backgroundColor
+          @attr name ge.mtredi:tp_backgroundColor
         */
         public static final int TimePicker_tp_backgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_fontFamily}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_fontFamily}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:tp_fontFamily
+          @attr name ge.mtredi:tp_fontFamily
         */
         public static final int TimePicker_tp_fontFamily = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_hour}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_hour}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -15917,21 +15947,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tp_hour
+          @attr name ge.mtredi:tp_hour
         */
         public static final int TimePicker_tp_hour = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_inInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_inInterpolator}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:tp_inInterpolator
+          @attr name ge.mtredi:tp_inInterpolator
         */
         public static final int TimePicker_tp_inInterpolator = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_minute}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_minute}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -15941,11 +15971,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:tp_minute
+          @attr name ge.mtredi:tp_minute
         */
         public static final int TimePicker_tp_minute = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_mode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_mode}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -15964,21 +15994,21 @@ containing a value of this type.
 <tr><td><code>hour</code></td><td>0</td><td></td></tr>
 <tr><td><code>minute</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:tp_mode
+          @attr name ge.mtredi:tp_mode
         */
         public static final int TimePicker_tp_mode = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_outInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_outInterpolator}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:tp_outInterpolator
+          @attr name ge.mtredi:tp_outInterpolator
         */
         public static final int TimePicker_tp_outInterpolator = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_selectionColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_selectionColor}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -15986,11 +16016,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:tp_selectionColor
+          @attr name ge.mtredi:tp_selectionColor
         */
         public static final int TimePicker_tp_selectionColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_selectionRadius}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_selectionRadius}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -15999,11 +16029,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:tp_selectionRadius
+          @attr name ge.mtredi:tp_selectionRadius
         */
         public static final int TimePicker_tp_selectionRadius = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_textColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_textColor}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -16011,11 +16041,11 @@ in (inches), mm (millimeters).
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:tp_textColor
+          @attr name ge.mtredi:tp_textColor
         */
         public static final int TimePicker_tp_textColor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_textHighlightColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_textHighlightColor}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -16023,11 +16053,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:tp_textHighlightColor
+          @attr name ge.mtredi:tp_textHighlightColor
         */
         public static final int TimePicker_tp_textHighlightColor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_textSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_textSize}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -16036,11 +16066,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:tp_textSize
+          @attr name ge.mtredi:tp_textSize
         */
         public static final int TimePicker_tp_textSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_textStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_textStyle}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -16061,11 +16091,11 @@ containing a value of this type.
 <tr><td><code>italic</code></td><td>2</td><td></td></tr>
 <tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:tp_textStyle
+          @attr name ge.mtredi:tp_textStyle
         */
         public static final int TimePicker_tp_textStyle = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_tickSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_tickSize}
           attribute's value can be found in the {@link #TimePicker} array.
 
 
@@ -16074,7 +16104,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:tp_tickSize
+          @attr name ge.mtredi:tp_tickSize
         */
         public static final int TimePicker_tp_tickSize = 3;
         /** Attributes that can be used with a TimePickerDialog.
@@ -16083,12 +16113,12 @@ in (inches), mm (millimeters).
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TimePickerDialog_tp_am com.firebase.androidchat:tp_am}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePickerDialog_tp_headerHeight com.firebase.androidchat:tp_headerHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePickerDialog_tp_leadingZero com.firebase.androidchat:tp_leadingZero}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePickerDialog_tp_pm com.firebase.androidchat:tp_pm}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePickerDialog_tp_textTimeColor com.firebase.androidchat:tp_textTimeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TimePickerDialog_tp_textTimeSize com.firebase.androidchat:tp_textTimeSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_am ge.mtredi:tp_am}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_headerHeight ge.mtredi:tp_headerHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_leadingZero ge.mtredi:tp_leadingZero}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_pm ge.mtredi:tp_pm}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_textTimeColor ge.mtredi:tp_textTimeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TimePickerDialog_tp_textTimeSize ge.mtredi:tp_textTimeSize}</code></td><td></td></tr>
            </table>
            @see #TimePickerDialog_tp_am
            @see #TimePickerDialog_tp_headerHeight
@@ -16102,18 +16132,18 @@ in (inches), mm (millimeters).
             0x7f010254, 0x7f010255
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_am}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_am}
           attribute's value can be found in the {@link #TimePickerDialog} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:tp_am
+          @attr name ge.mtredi:tp_am
         */
         public static final int TimePickerDialog_tp_am = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_headerHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_headerHeight}
           attribute's value can be found in the {@link #TimePickerDialog} array.
 
 
@@ -16122,33 +16152,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:tp_headerHeight
+          @attr name ge.mtredi:tp_headerHeight
         */
         public static final int TimePickerDialog_tp_headerHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_leadingZero}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_leadingZero}
           attribute's value can be found in the {@link #TimePickerDialog} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.firebase.androidchat:tp_leadingZero
+          @attr name ge.mtredi:tp_leadingZero
         */
         public static final int TimePickerDialog_tp_leadingZero = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_pm}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_pm}
           attribute's value can be found in the {@link #TimePickerDialog} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:tp_pm
+          @attr name ge.mtredi:tp_pm
         */
         public static final int TimePickerDialog_tp_pm = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_textTimeColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_textTimeColor}
           attribute's value can be found in the {@link #TimePickerDialog} array.
 
 
@@ -16156,11 +16186,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:tp_textTimeColor
+          @attr name ge.mtredi:tp_textTimeColor
         */
         public static final int TimePickerDialog_tp_textTimeColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#tp_textTimeSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#tp_textTimeSize}
           attribute's value can be found in the {@link #TimePickerDialog} array.
 
 
@@ -16169,7 +16199,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:tp_textTimeSize
+          @attr name ge.mtredi:tp_textTimeSize
         */
         public static final int TimePickerDialog_tp_textTimeSize = 2;
         /** Attributes that can be used with a Toolbar.
@@ -16180,29 +16210,29 @@ in (inches), mm (millimeters).
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.firebase.androidchat:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.firebase.androidchat:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.firebase.androidchat:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.firebase.androidchat:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.firebase.androidchat:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.firebase.androidchat:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.firebase.androidchat:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.firebase.androidchat:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.firebase.androidchat:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.firebase.androidchat:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.firebase.androidchat:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.firebase.androidchat:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.firebase.androidchat:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.firebase.androidchat:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.firebase.androidchat:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.firebase.androidchat:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.firebase.androidchat:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.firebase.androidchat:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.firebase.androidchat:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.firebase.androidchat:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.firebase.androidchat:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.firebase.androidchat:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.firebase.androidchat:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription ge.mtredi:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon ge.mtredi:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd ge.mtredi:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft ge.mtredi:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight ge.mtredi:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart ge.mtredi:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo ge.mtredi:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription ge.mtredi:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight ge.mtredi:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription ge.mtredi:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon ge.mtredi:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme ge.mtredi:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle ge.mtredi:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ge.mtredi:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor ge.mtredi:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title ge.mtredi:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom ge.mtredi:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd ge.mtredi:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart ge.mtredi:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop ge.mtredi:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins ge.mtredi:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance ge.mtredi:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor ge.mtredi:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -16252,7 +16282,7 @@ in (inches), mm (millimeters).
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16262,21 +16292,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:collapseContentDescription
+          @attr name ge.mtredi:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:collapseIcon
+          @attr name ge.mtredi:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16288,11 +16318,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetEnd
+          @attr name ge.mtredi:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16304,11 +16334,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetLeft
+          @attr name ge.mtredi:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16320,11 +16350,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetRight
+          @attr name ge.mtredi:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16336,21 +16366,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:contentInsetStart
+          @attr name ge.mtredi:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#logo}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:logo
+          @attr name ge.mtredi:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16360,11 +16390,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:logoDescription
+          @attr name ge.mtredi:logoDescription
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16376,11 +16406,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:maxButtonHeight
+          @attr name ge.mtredi:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16390,31 +16420,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:navigationContentDescription
+          @attr name ge.mtredi:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:navigationIcon
+          @attr name ge.mtredi:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:popupTheme
+          @attr name ge.mtredi:popupTheme
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16424,21 +16454,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:subtitle
+          @attr name ge.mtredi:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:subtitleTextAppearance
+          @attr name ge.mtredi:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16449,11 +16479,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:subtitleTextColor
+          @attr name ge.mtredi:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#title}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16463,11 +16493,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:title
+          @attr name ge.mtredi:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16479,11 +16509,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:titleMarginBottom
+          @attr name ge.mtredi:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16495,11 +16525,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:titleMarginEnd
+          @attr name ge.mtredi:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16511,11 +16541,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:titleMarginStart
+          @attr name ge.mtredi:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16527,11 +16557,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:titleMarginTop
+          @attr name ge.mtredi:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16543,21 +16573,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:titleMargins
+          @attr name ge.mtredi:titleMargins
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:titleTextAppearance
+          @attr name ge.mtredi:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -16568,7 +16598,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:titleTextColor
+          @attr name ge.mtredi:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -16579,9 +16609,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.firebase.androidchat:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.firebase.androidchat:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.firebase.androidchat:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd ge.mtredi:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart ge.mtredi:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme ge.mtredi:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -16606,7 +16636,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -16618,11 +16648,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:paddingEnd
+          @attr name ge.mtredi:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -16634,17 +16664,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:paddingStart
+          @attr name ge.mtredi:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#theme}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:theme
+          @attr name ge.mtredi:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -16654,8 +16684,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.firebase.androidchat:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.firebase.androidchat:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ge.mtredi:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ge.mtredi:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -16671,7 +16701,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -16682,11 +16712,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:backgroundTint
+          @attr name ge.mtredi:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -16702,7 +16732,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:backgroundTintMode
+          @attr name ge.mtredi:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -16746,19 +16776,19 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #YearPicker_dp_animDuration com.firebase.androidchat:dp_animDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_fontFamily com.firebase.androidchat:dp_fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_inInterpolator com.firebase.androidchat:dp_inInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_outInterpolator com.firebase.androidchat:dp_outInterpolator}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_selectionColor com.firebase.androidchat:dp_selectionColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_textColor com.firebase.androidchat:dp_textColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_textHighlightColor com.firebase.androidchat:dp_textHighlightColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_textStyle com.firebase.androidchat:dp_textStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_year com.firebase.androidchat:dp_year}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_yearItemHeight com.firebase.androidchat:dp_yearItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_yearMax com.firebase.androidchat:dp_yearMax}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_yearMin com.firebase.androidchat:dp_yearMin}</code></td><td></td></tr>
-           <tr><td><code>{@link #YearPicker_dp_yearTextSize com.firebase.androidchat:dp_yearTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_animDuration ge.mtredi:dp_animDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_fontFamily ge.mtredi:dp_fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_inInterpolator ge.mtredi:dp_inInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_outInterpolator ge.mtredi:dp_outInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_selectionColor ge.mtredi:dp_selectionColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_textColor ge.mtredi:dp_textColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_textHighlightColor ge.mtredi:dp_textHighlightColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_textStyle ge.mtredi:dp_textStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_year ge.mtredi:dp_year}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearItemHeight ge.mtredi:dp_yearItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearMax ge.mtredi:dp_yearMax}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearMin ge.mtredi:dp_yearMin}</code></td><td></td></tr>
+           <tr><td><code>{@link #YearPicker_dp_yearTextSize ge.mtredi:dp_yearTextSize}</code></td><td></td></tr>
            </table>
            @see #YearPicker_dp_animDuration
            @see #YearPicker_dp_fontFamily
@@ -16781,49 +16811,49 @@ containing a value of this type.
             0x7f01026b
         };
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_animDuration}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_animDuration}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be an integer value, such as "<code>100</code>".
-          @attr name com.firebase.androidchat:dp_animDuration
+          @attr name ge.mtredi:dp_animDuration
         */
         public static final int YearPicker_dp_animDuration = 0;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_fontFamily}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_fontFamily}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name com.firebase.androidchat:dp_fontFamily
+          @attr name ge.mtredi:dp_fontFamily
         */
         public static final int YearPicker_dp_fontFamily = 1;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_inInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_inInterpolator}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dp_inInterpolator
+          @attr name ge.mtredi:dp_inInterpolator
         */
         public static final int YearPicker_dp_inInterpolator = 2;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_outInterpolator}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_outInterpolator}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.firebase.androidchat:dp_outInterpolator
+          @attr name ge.mtredi:dp_outInterpolator
         */
         public static final int YearPicker_dp_outInterpolator = 3;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_selectionColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_selectionColor}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16831,11 +16861,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_selectionColor
+          @attr name ge.mtredi:dp_selectionColor
         */
         public static final int YearPicker_dp_selectionColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textColor}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16843,11 +16873,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_textColor
+          @attr name ge.mtredi:dp_textColor
         */
         public static final int YearPicker_dp_textColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textHighlightColor}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textHighlightColor}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16855,11 +16885,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.firebase.androidchat:dp_textHighlightColor
+          @attr name ge.mtredi:dp_textHighlightColor
         */
         public static final int YearPicker_dp_textHighlightColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_textStyle}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_textStyle}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16880,11 +16910,11 @@ containing a value of this type.
 <tr><td><code>italic</code></td><td>2</td><td></td></tr>
 <tr><td><code>bold_italic</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.firebase.androidchat:dp_textStyle
+          @attr name ge.mtredi:dp_textStyle
         */
         public static final int YearPicker_dp_textStyle = 7;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_year}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_year}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16894,11 +16924,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_year
+          @attr name ge.mtredi:dp_year
         */
         public static final int YearPicker_dp_year = 8;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_yearItemHeight}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_yearItemHeight}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16907,11 +16937,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:dp_yearItemHeight
+          @attr name ge.mtredi:dp_yearItemHeight
         */
         public static final int YearPicker_dp_yearItemHeight = 12;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_yearMax}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_yearMax}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16921,11 +16951,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_yearMax
+          @attr name ge.mtredi:dp_yearMax
         */
         public static final int YearPicker_dp_yearMax = 9;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_yearMin}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_yearMin}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16935,11 +16965,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.firebase.androidchat:dp_yearMin
+          @attr name ge.mtredi:dp_yearMin
         */
         public static final int YearPicker_dp_yearMin = 10;
         /**
-          <p>This symbol is the offset where the {@link com.firebase.androidchat.R.attr#dp_yearTextSize}
+          <p>This symbol is the offset where the {@link ge.mtredi.R.attr#dp_yearTextSize}
           attribute's value can be found in the {@link #YearPicker} array.
 
 
@@ -16948,7 +16978,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <p>May be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
-          @attr name com.firebase.androidchat:dp_yearTextSize
+          @attr name ge.mtredi:dp_yearTextSize
         */
         public static final int YearPicker_dp_yearTextSize = 11;
     };

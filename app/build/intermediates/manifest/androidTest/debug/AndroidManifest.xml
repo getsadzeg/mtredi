@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.firebase.androidchat.test">
+    package="ge.mtredi.test">
 
     <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="23" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.firebase.androidchat"
+                     android:targetPackage="ge.mtredi"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.firebase.androidchat"/>
+                     android:label="Tests for ge.mtredi"/>
 </manifest>

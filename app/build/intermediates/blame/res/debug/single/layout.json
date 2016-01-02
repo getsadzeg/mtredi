@@ -264,6 +264,10 @@
         "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/layout/md_dialog_progress.xml"
     },
     {
+        "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/layout/chat_item.xml",
+        "source": "/home/user/mtredi/app/src/main/res/layout/chat_item.xml"
+    },
+    {
         "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
     },

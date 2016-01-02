@@ -12,7 +12,7 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
-        applicationId "com.firebase.androidchat"
+        applicationId "ge.mtredi"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 1

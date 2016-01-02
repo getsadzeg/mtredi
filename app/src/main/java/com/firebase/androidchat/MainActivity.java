@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
             toolbar.setBackgroundColor(Color.parseColor("#1667B7"));
             // Make sure we have a mUsername
             theme();
-            setupUsername();
+
 
             // Setup our Firebase mFirebaseRef
             inputText = (EditText) findViewById(R.id.messageInput);
@@ -131,13 +131,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void setupUsername() {
-        if (mUsername == null) {
-            // Assign a random user name if we don't have one saved.
-            mUsername = "";
-            prefs.edit().putString("username", mUsername).commit();
-        }
-    }
+
 
     public void showDialog(Activity activity, String title, CharSequence message) {
         AlertDialog.Builder builder = new AlertDialog.Builder(activity);
