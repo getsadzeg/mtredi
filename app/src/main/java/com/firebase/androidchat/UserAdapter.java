@@ -1,7 +1,6 @@
 package com.firebase.androidchat;
 
 import android.content.Context;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -39,11 +38,8 @@ public class UserAdapter extends BaseAdapter {
             }
             labelname = (TextView) v;
             labelname.setText(c.getUsername());
-            if(!c.getBoolean("online")) {
-                Log.e(TAG, "Bullshit. cannot load boolean fields");
-            }
-            //labelname.setCompoundDrawablesWithIntrinsicBounds(c.getBoolean("online") ? R.drawable.ic_online
-                    //: R.drawable.ic_offline, 0, R.drawable.arrow, 0);
+            labelname.setCompoundDrawablesWithIntrinsicBounds(c.getBoolean("online") ? R.drawable.ic_online
+                    : R.drawable.ic_offline, 0, R.drawable.arrow, 0);
 
         return v;
     }

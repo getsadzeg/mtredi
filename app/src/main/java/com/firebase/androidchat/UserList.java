@@ -16,8 +16,8 @@ import java.util.List;
 
 public class UserList extends AppCompatActivity {
     public static ArrayList<ParseUser> userList;
-    public static ParseUser user = new ParseUser();
-    public static String EXTRA_DATA = "extraData";
+    public static String TAG = "UserList";
+    public static ParseUser user = ParseUser.getCurrentUser();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,7 +37,8 @@ public class UserList extends AppCompatActivity {
     }
     private void updateUserStatus(boolean isOnline) {
         user.put("online", isOnline);
-        user.saveEventually();
+        user.saveInBackground();
+        //System.out.println("getBoolean's result : " + user.getBoolean("online"));
     }
     private void loadUserList() {
         ParseUser.getQuery().whereNotEqualTo("username", user.getUsername()).findInBackground(new FindCallback<ParseUser>() {
