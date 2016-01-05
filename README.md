@@ -1,2 +1,2 @@
-# pigeon
-The first georgian messenger,ever.
+# mtredi
+The first Georgian messenger,ever.
