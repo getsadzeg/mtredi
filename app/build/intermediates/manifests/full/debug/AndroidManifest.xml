@@ -34,14 +34,14 @@
             android:name="com.parse.CLIENT_KEY"
             android:value="RFseC1arXU5fa66u7dyWI9CXrWAOA6yc9Dj7Oor8" />
 
-        <activity android:name="com.firebase.androidchat.MainActivity" >
+        <activity android:name="com.firebase.androidchat.Login" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.firebase.androidchat.LaunchScreen" />
+        <activity android:name="com.firebase.androidchat.Chat" />
         <activity android:name="com.firebase.androidchat.Register" />
         <activity android:name="com.firebase.androidchat.UserList" />
     </application>

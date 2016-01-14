@@ -87,10 +87,10 @@ ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:27:9-29:72
 		ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:28:13-48
 	android:value
 		ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:29:13-69
-activity#com.firebase.androidchat.MainActivity
+activity#com.firebase.androidchat.Login
 ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:31:9-37:20
 	android:name
-		ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:31:19-47
+		ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:31:19-40
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
@@ -101,10 +101,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:35:17-77
 	android:name
 		ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:35:27-74
-activity#com.firebase.androidchat.LaunchScreen
-ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:38:9-50
+activity#com.firebase.androidchat.Chat
+ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:38:9-42
 	android:name
-		ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:38:19-47
+		ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:38:19-39
 activity#com.firebase.androidchat.Register
 ADDED from /home/user/mtredi/app/src/main/AndroidManifest.xml:39:9-46
 	android:name

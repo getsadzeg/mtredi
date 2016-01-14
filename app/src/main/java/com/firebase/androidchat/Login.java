@@ -14,7 +14,7 @@ import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
 
-public class LaunchScreen extends AppCompatActivity {
+public class Login extends AppCompatActivity {
     private static final String TAG = "LaunchScreen";
 
     EditText userName;
@@ -52,7 +52,7 @@ public class LaunchScreen extends AppCompatActivity {
                 @Override
                 public void done(ParseUser user, ParseException e) {
                     if(user != null) {
-                        startActivity(new Intent(LaunchScreen.this, UserList.class));
+                        startActivity(new Intent(Login.this, UserList.class));
                     }
                     else {
                         e.printStackTrace();
@@ -62,7 +62,7 @@ public class LaunchScreen extends AppCompatActivity {
         }
     }
     public void toRegisterOnClick(View v) {
-        startActivity(new Intent(LaunchScreen.this, Register.class));
+        startActivity(new Intent(Login.this, Register.class));
     }
 
 

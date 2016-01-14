@@ -17,6 +17,7 @@ import java.util.List;
 public class UserList extends AppCompatActivity {
     public static ArrayList<ParseUser> userList;
     public static String TAG = "UserList";
+    public static String nameFromList = "";
     public static ParseUser user = ParseUser.getCurrentUser();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,7 +53,9 @@ public class UserList extends AppCompatActivity {
                     list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                         @Override
                         public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                            startActivity(new Intent(UserList.this, MainActivity.class));
+                            nameFromList = userList.get(i).toString().trim();
+                            System.out.println("name from list:" +  nameFromList);
+                            startActivity(new Intent(UserList.this, Chat.class));
                             finish();
                         }
                     });

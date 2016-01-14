@@ -7,19 +7,20 @@ public class Conversation {
 
     private String message;
     private String author;
+    private String sender;
     private Date date;
     private final static int STATUS_SENDING = 0;
     private final static int STATUS_SENT = 1;
     private final static int STATUS_FAILED = 2;
     private int status = STATUS_SENT;
-    // Required default constructor for Firebase object mapping
     @SuppressWarnings("unused")
     public Conversation() {
     }
 
-    Conversation(String message, String author) {
+    Conversation(String message, String author, String sender) {
         this.setMessage(message);
         this.setAuthor(author);
+        this.setSender(sender);
     }
 
 
@@ -53,5 +54,12 @@ public class Conversation {
 
     public void setStatus(int status) {
         this.status = status;
+    }
+    public void setSender(String sender) {
+        this.sender = sender;
+    }
+    public boolean isSent()
+    {
+        return UserList.user.getUsername().equals(sender);
     }
 }

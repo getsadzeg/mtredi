@@ -2,8 +2,6 @@ package com.firebase.androidchat;
 
 import android.app.Activity;
 import android.app.AlertDialog;
-import android.content.Intent;
-import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
@@ -19,35 +17,27 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.google.android.gms.appindexing.AppIndex;
-import com.google.android.gms.common.api.GoogleApiClient;
 import com.vdurmont.emoji.EmojiParser;
 
+import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class MainActivity extends AppCompatActivity {
+public class Chat extends AppCompatActivity {
     boolean b;
     Toolbar toolbar;
     String resultDecimal = null;
 
-    private static final String FIREBASE_URL = "https://dove-hacktb.firebaseio.com/";
     private static final String TAG = "MainActivity";
-    private String mUsername;
-    private ChatListAdapter mChatListAdapter;
-    private GoogleApiClient client;
-    SharedPreferences prefs;
+    /*private String mUsername;
+    private ChatListAdapter mChatListAdapter;*/
     ListView listView;
+    private ChatAdapter adapter;
+    protected static ArrayList<Conversation> convList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        prefs = getApplication().getSharedPreferences("ChatPrefs", 0);
-        mUsername = prefs.getString("username", "");
-        if(mUsername.equals("")) {
-            finish();
-            startActivity(new Intent(this, LaunchScreen.class));
-        } else {
             setContentView(R.layout.activity_main);
             toolbar = (Toolbar) findViewById(R.id.toolbar);
             toolbar.setTitle("მიმოწერა");
@@ -56,11 +46,8 @@ public class MainActivity extends AppCompatActivity {
             listView.setDivider(null);
             listView.setDividerHeight(0);
             toolbar.setBackgroundColor(Color.parseColor("#1667B7"));
-            // Make sure we have a mUsername
             theme();
 
-
-            // Setup our Firebase mFirebaseRef
             inputText = (EditText) findViewById(R.id.messageInput);
             // Setup our input methods. Enter key on the keyboard or pushing the send button
             EditText inputText = (EditText) findViewById(R.id.messageInput);
@@ -81,9 +68,8 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
 
-            client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+
         }
-    }
 
     void theme () {
         if(isLollipop()) {
@@ -120,13 +106,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        int id = item.getItemId();
 
-        if (id == R.id.action_send) {
-            prefs.edit().putString("username", "").commit();
-            startActivity(new Intent(this, LaunchScreen.class));
-            finish();
-        }
 
         return super.onOptionsItemSelected(item);
     }
@@ -171,7 +151,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
 
-            Conversation chat = new Conversation(output, mUsername);
+            Conversation chat = new Conversation(output, UserList.nameFromList);
             System.out.println("output is: " + output);
 
             /*mFirebaseRef.push().setValue(chat, new Firebase.CompletionListener() {
