@@ -53,7 +53,7 @@ public class UserList extends AppCompatActivity {
                     list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                         @Override
                         public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                            nameFromList = userList.get(i).toString().trim();
+                            nameFromList = userList.get(i).getUsername();
                             System.out.println("name from list:" +  nameFromList);
                             startActivity(new Intent(UserList.this, Chat.class));
                             finish();

@@ -40,7 +40,7 @@ public class Chat extends AppCompatActivity {
         super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_main);
             toolbar = (Toolbar) findViewById(R.id.toolbar);
-            toolbar.setTitle("მიმოწერა");
+            toolbar.setTitle(UserList.nameFromList);
             setSupportActionBar(toolbar);
             listView = (ListView) findViewById(R.id.listd);
             listView.setDivider(null);
@@ -85,8 +85,6 @@ public class Chat extends AppCompatActivity {
     @Override
     public void onStart() {
         super.onStart();
-
-
 
     }
 
@@ -151,7 +149,7 @@ public class Chat extends AppCompatActivity {
             }
 
 
-            Conversation chat = new Conversation(output, UserList.nameFromList);
+            //Conversation chat = new Conversation(output, UserList.nameFromList);
             System.out.println("output is: " + output);
 
             /*mFirebaseRef.push().setValue(chat, new Firebase.CompletionListener() {

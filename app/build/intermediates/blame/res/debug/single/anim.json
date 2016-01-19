@@ -32,20 +32,20 @@
         "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/decelerate_cubic.xml",
-        "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/anim/decelerate_cubic.xml"
-    },
-    {
         "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/popup_enter.xml",
         "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/anim/popup_enter.xml"
     },
     {
-        "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
+        "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/decelerate_cubic.xml",
+        "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.2/res/anim/decelerate_cubic.xml"
     },
     {
         "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
@@ -60,11 +60,11 @@
         "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/user/mtredi/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/user/mtredi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
     }
 ]
