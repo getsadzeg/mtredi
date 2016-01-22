@@ -19,6 +19,7 @@ import android.widget.TextView;
 
 import com.vdurmont.emoji.EmojiParser;
 
+
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -142,7 +143,7 @@ public class Chat extends AppCompatActivity {
         Pattern p = Pattern.compile("[^ა-ჰ0-9\\t\\n .,/<>?;:\"'`~!@#$€%^&*()_+=|\\\\-]", Pattern.CASE_INSENSITIVE);
         Matcher m = p.matcher(resultDecimal);
         b = m.find();
-        if (!input.equals("") && !b) {
+        if (input.trim().length() > 0 && !b) {
 
             for (int i = 0; i < array.length; i++) {
                 output += array[i] + " ";
