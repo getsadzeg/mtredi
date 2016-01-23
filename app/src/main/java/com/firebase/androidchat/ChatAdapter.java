@@ -23,11 +23,11 @@ public class ChatAdapter extends BaseAdapter {
     @Override
     public View getView(int pos, View v, ViewGroup arg2) {
         Conversation conv = getItem(pos);
-        /*if (conv.isSent())
-            v = layoutInflater.inflate(R.layout.chat_item_sent, null); // not compiling yet
+        if (conv.isSent())
+            v = layoutInflater.inflate(R.layout.chat_item_sent, null);
         else
-            v = layoutInflater.inflate(R.layout.chat_item_rcv, null); //same here
-            */
+            v = layoutInflater.inflate(R.layout.chat_item_rcv, null);
+
         return v;
     }
 }

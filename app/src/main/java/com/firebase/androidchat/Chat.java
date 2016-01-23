@@ -144,7 +144,7 @@ public class Chat extends AppCompatActivity {
         Matcher m = p.matcher(resultDecimal);
         b = m.find();
         if (input.trim().length() > 0 && !b) {
-
+            System.out.println("Yeah! not only spaces,yo?");
             for (int i = 0; i < array.length; i++) {
                 output += array[i] + " ";
             }
