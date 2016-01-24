@@ -7,7 +7,6 @@ public class Conversation {
 
     private String message;
     private String author;
-    private String sender;
     private Date date;
     private final static int STATUS_SENDING = 0;
     private final static int STATUS_SENT = 1;
@@ -17,10 +16,10 @@ public class Conversation {
     public Conversation() {
     }
 
-    Conversation(String message, String author, String sender) {
+    Conversation(String message, String author, Date date) {
         this.setMessage(message);
         this.setAuthor(author);
-        this.setSender(sender);
+        this.setDate(date);
     }
 
 
@@ -55,11 +54,8 @@ public class Conversation {
     public void setStatus(int status) {
         this.status = status;
     }
-    public void setSender(String sender) {
-        this.sender = sender;
-    }
     public boolean isSent()
     {
-        return UserList.user.getUsername().equals(sender);
+        return UserList.user.getUsername().equals(author);
     }
 }
