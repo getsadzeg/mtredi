@@ -8,9 +8,10 @@ public class Conversation {
     private String message;
     private String author;
     private Date date;
-    private final static int STATUS_SENDING = 0;
-    private final static int STATUS_SENT = 1;
-    private final static int STATUS_FAILED = 2;
+    protected final static int STATUS_SENDING = 0;
+    protected final static int STATUS_SENT = 1;
+    protected final static int STATUS_FAILED = 2;
+    protected final static int STATUS_SEEN = 3; //3 is just random.
     private int status = STATUS_SENT;
     @SuppressWarnings("unused")
     public Conversation() {
