@@ -33,7 +33,7 @@ public class ChatAdapter extends BaseAdapter {
         else
             v = layoutInflater.inflate(R.layout.chat_item_rcv, null);
         TextView label = (TextView) v.findViewById(R.id.lbl1);
-        label.setText(DateUtils.getRelativeDateTimeString(context, conv 
+        label.setText(DateUtils.getRelativeDateTimeString(context, conv
                         .getDate().getTime(), DateUtils.SECOND_IN_MILLIS,
                 DateUtils.DAY_IN_MILLIS, 0));
         TextView textlbl = (TextView) v.findViewById(R.id.lbl2);

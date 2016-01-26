@@ -17,9 +17,13 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.parse.ParseException;
+import com.parse.ParseObject;
+import com.parse.SaveCallback;
 import com.vdurmont.emoji.EmojiParser;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -42,6 +46,8 @@ public class Chat extends AppCompatActivity {
             toolbar.setTitle(UserList.nameFromList);
             setSupportActionBar(toolbar);
             listView = (ListView) findViewById(R.id.listd);
+            adapter = new ChatAdapter();
+            listView.setAdapter(adapter);
             listView.setDivider(null);
             listView.setDividerHeight(0);
             toolbar.setBackgroundColor(Color.parseColor("#1667B7"));
@@ -148,7 +154,26 @@ public class Chat extends AppCompatActivity {
             }
 
 
-            //Conversation chat = new Conversation(output, UserList.nameFromList);
+            final Conversation conversation = new Conversation(output, UserList.user.getUsername(), new Date());
+            conversation.setStatus(Conversation.STATUS_SENDING);
+            convList.add(conversation);
+            adapter.notifyDataSetChanged();
+            ParseObject chatobj = new ParseObject("Chat");
+            chatobj.put("sender", UserList.user.getUsername());
+            chatobj.put("receiver", UserList.nameFromList);
+            chatobj.put("message", output);
+            chatobj.saveEventually(new SaveCallback() {
+                @Override
+                public void done(ParseException e) {
+                    if(e == null) {
+                        conversation.setStatus(Conversation.STATUS_SENT);
+                    }
+                    else {
+                        conversation.setStatus(Conversation.STATUS_FAILED);
+                    }
+                    adapter.notifyDataSetChanged();
+                }
+            });
             System.out.println("output is: " + output);
 
             /*mFirebaseRef.push().setValue(chat, new Firebase.CompletionListener() {
@@ -159,10 +184,9 @@ public class Chat extends AppCompatActivity {
                 }
             });*/
 
-        } else if (b) {
+        }
+        else if (b) {
             showDialog(this, "მდგომარეობა", "შეტყობინება არ გაიგზავნა, რადგან თქვენ უცხო ენაზე აკრიფეთ ტექსტი");
-            /*dialog = new Dialog(this, "მდგომარეობა", "შეტყობინება არ გაიგზავნა, რადგან თქვენ უცხო ენაზე აკრიფეთ ტექსტი");
-            dialog.show();*/
             System.out.println("Not sent");
         }
     }
