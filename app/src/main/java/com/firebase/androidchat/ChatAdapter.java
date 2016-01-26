@@ -1,6 +1,7 @@
 package com.firebase.androidchat;
 
 
+import android.content.Context;
 import android.text.format.DateUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +10,9 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 public class ChatAdapter extends BaseAdapter {
+    Context context = ChatApplication.getContext();
     LayoutInflater layoutInflater;
+
     @Override
     public int getCount() {
         return Chat.convList.size();
@@ -30,7 +33,7 @@ public class ChatAdapter extends BaseAdapter {
         else
             v = layoutInflater.inflate(R.layout.chat_item_rcv, null);
         TextView label = (TextView) v.findViewById(R.id.lbl1);
-        label.setText(DateUtils.getRelativeDateTimeString(this, conv //not compiling yet because of 'this'
+        label.setText(DateUtils.getRelativeDateTimeString(context, conv 
                         .getDate().getTime(), DateUtils.SECOND_IN_MILLIS,
                 DateUtils.DAY_IN_MILLIS, 0));
         TextView textlbl = (TextView) v.findViewById(R.id.lbl2);

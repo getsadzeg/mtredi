@@ -19,7 +19,6 @@ import android.widget.TextView;
 
 import com.vdurmont.emoji.EmojiParser;
 
-
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -28,18 +27,17 @@ public class Chat extends AppCompatActivity {
     boolean b;
     Toolbar toolbar;
     String resultDecimal = null;
-
     private static final String TAG = "MainActivity";
     /*private String mUsername;
     private ChatListAdapter mChatListAdapter;*/
     ListView listView;
     private ChatAdapter adapter;
     protected static ArrayList<Conversation> convList;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+            super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_main);
+            ChatApplication.setContext(this);
             toolbar = (Toolbar) findViewById(R.id.toolbar);
             toolbar.setTitle(UserList.nameFromList);
             setSupportActionBar(toolbar);
