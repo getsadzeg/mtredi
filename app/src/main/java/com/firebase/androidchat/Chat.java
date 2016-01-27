@@ -19,6 +19,7 @@ import android.widget.TextView;
 
 import com.parse.ParseException;
 import com.parse.ParseObject;
+import com.parse.ParseQuery;
 import com.parse.SaveCallback;
 import com.vdurmont.emoji.EmojiParser;
 
@@ -188,6 +189,14 @@ public class Chat extends AppCompatActivity {
         else if (b) {
             showDialog(this, "მდგომარეობა", "შეტყობინება არ გაიგზავნა, რადგან თქვენ უცხო ენაზე აკრიფეთ ტექსტი");
             System.out.println("Not sent");
+        }
+    }
+    private void loadConversation() {
+        ParseQuery<ParseObject> chatquery = new ParseQuery<ParseObject>("Chat");
+        if(convList.size() == 0) {
+            ArrayList<String> chatl = new ArrayList<>();
+            chatquery.whereContainedIn("sender", chatl);
+            chatquery.whereContainedIn("receiver", chatl);
         }
     }
 }
