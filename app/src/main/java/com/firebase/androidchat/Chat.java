@@ -37,6 +37,7 @@ public class Chat extends AppCompatActivity {
     private ChatListAdapter mChatListAdapter;*/
     ListView listView;
     private ChatAdapter adapter;
+    private Date lastmsgDate;
     protected static ArrayList<Conversation> convList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -197,6 +198,13 @@ public class Chat extends AppCompatActivity {
             ArrayList<String> chatl = new ArrayList<>();
             chatquery.whereContainedIn("sender", chatl);
             chatquery.whereContainedIn("receiver", chatl);
+        }
+        else {
+            if(lastmsgDate != null) {
+                chatquery.whereGreaterThan("createdAt", lastmsgDate);
+                chatquery.whereEqualTo("sender", UserList.user.getUsername());
+                chatquery.whereEqualTo("receiver", UserList.nameFromList);
+            }
         }
     }
 }
