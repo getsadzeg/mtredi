@@ -21,7 +21,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:transcriptMode="alwaysScroll"
-        android:layout_above="@+id/comment_bott" />
+        android:layout_above="@+id/comment_bott"
+        tools:listitem="@layout/chat_item_rcv"
+        />
 
     <RelativeLayout
         android:id="@+id/comment_bott"
